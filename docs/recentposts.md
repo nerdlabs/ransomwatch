@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-20 | [`Venture Plastics`](https://google.com/search?q=Venture+Plastics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`Milk Source`](https://google.com/search?q=Milk+Source) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`arietishealth.com`](https://google.com/search?q=arietishealth.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-10-20 | [`uaes.com`](https://google.com/search?q=uaes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-04 | [`LEAKED! Motel One`](https://google.com/search?q=LEAKED%21+Motel+One) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-04 | [`US Liner Company & American Made LLC`](https://google.com/search?q=US+Liner+Company+%26+American+Made+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2023-10-04 | [`General Directorate of Migration of the Dominican Republic`](https://google.com/search?q=General+Directorate+of+Migration+of+the+Dominican+Republic) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-10-03 | [`University of Defence - Part 1`](https://google.com/search?q=University+of+Defence+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
