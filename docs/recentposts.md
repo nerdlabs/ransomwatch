@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-21 | [`Kobi Karp Architecture and Interior Design`](https://google.com/search?q=Kobi+Karp+Architecture+and+Interior+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`RADISE`](https://google.com/search?q=RADISE) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-04 | [`Filtration Control`](https://google.com/search?q=Filtration+Control) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`Cinepolis USA`](https://google.com/search?q=Cinepolis+USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`CHARMANT Group`](https://google.com/search?q=CHARMANT+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-04 | [`Stavanger Municipality`](https://google.com/search?q=Stavanger+Municipality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
