@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-21 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`Hygieneering`](https://google.com/search?q=Hygieneering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`The Fountain Group`](https://google.com/search?q=The+Fountain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-04 | [`CHARMANT Group`](https://google.com/search?q=CHARMANT+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`Stavanger Municipality`](https://google.com/search?q=Stavanger+Municipality) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-04 | [`McLaren Health Care Corporation`](https://google.com/search?q=McLaren+Health+Care+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-04 | [`Gruskin Group`](https://google.com/search?q=Gruskin+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
