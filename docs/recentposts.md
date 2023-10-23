@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-23 | [`Newconcepttech`](https://google.com/search?q=Newconcepttech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-10-23 | [`EHPAD`](https://google.com/search?q=EHPAD) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`3-D Engineering`](https://google.com/search?q=3-D+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`Beaver Lake Cree Nation`](https://google.com/search?q=Beaver+Lake+Cree+Nation) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-06 | [`picosoft.biz`](https://google.com/search?q=picosoft.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`litung.com.tw`](https://google.com/search?q=litung.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`eemotors.com`](https://google.com/search?q=eemotors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`cote-expert-equipements.com`](https://google.com/search?q=cote-expert-equipements.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
