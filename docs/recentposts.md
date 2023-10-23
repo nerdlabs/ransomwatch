@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-23 | [`ZOUARY &amp; Associés`](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`www.portage.k12.in.us`](https://google.com/search?q=www.portage.k12.in.us) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`Safpro`](https://google.com/search?q=Safpro) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Newconcepttech`](https://google.com/search?q=Newconcepttech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-06 | [`Agència Catalana de Notícies (ACN)`](https://google.com/search?q=Ag%C3%A8ncia+Catalana+de+Not%C3%ADcies+%28ACN%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-06 | [`tatatelebusiness.com`](https://google.com/search?q=tatatelebusiness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`sinedieadvisor.com`](https://google.com/search?q=sinedieadvisor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`picosoft.biz`](https://google.com/search?q=picosoft.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
