@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-23 | [`www.portage.k12.in.us`](https://google.com/search?q=www.portage.k12.in.us) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`Safpro`](https://google.com/search?q=Safpro) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Newconcepttech`](https://google.com/search?q=Newconcepttech) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-10-23 | [`EHPAD`](https://google.com/search?q=EHPAD) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-06 | [`tatatelebusiness.com`](https://google.com/search?q=tatatelebusiness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`sinedieadvisor.com`](https://google.com/search?q=sinedieadvisor.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`picosoft.biz`](https://google.com/search?q=picosoft.biz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`litung.com.tw`](https://google.com/search?q=litung.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
