@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-24 | [`www.bmw-ducati.com`](https://google.com/search?q=www.bmw-ducati.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`www.misterminit.eu`](https://google.com/search?q=www.misterminit.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`University of Defence - Full Leak`](https://google.com/search?q=University+of+Defence+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-23 | [`ZOUARY &amp; Associés`](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-06 | [`International Presence Ltd - Leaked`](https://google.com/search?q=International+Presence+Ltd+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
 | 2023-10-06 | [`For UNOB`](https://google.com/search?q=For+UNOB) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-10-06 | [`(SALE) District Of Columbia Elections 600k lines VOTERS DATA`](https://google.com/search?q=%28SALE%29+District+Of+Columbia+Elections+600k+lines+VOTERS+DATA) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-06 | [`Agència Catalana de Notícies (ACN)`](https://google.com/search?q=Ag%C3%A8ncia+Catalana+de+Not%C3%ADcies+%28ACN%29) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
