@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-24 | [`www.centredusablon.ca`](https://google.com/search?q=www.centredusablon.ca) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.icschool-uae.com`](https://google.com/search?q=www.icschool-uae.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.ucb.edu.pr`](https://google.com/search?q=www.ucb.edu.pr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.bmw-ducati.com`](https://google.com/search?q=www.bmw-ducati.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-07 | [`Partnership With Breachforums`](https://google.com/search?q=Partnership+With+Breachforums) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-07 | [`DallBogg Breach`](https://google.com/search?q=DallBogg+Breach) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-06 | [`sogebank.com`](https://google.com/search?q=sogebank.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-06 | [`International Presence Ltd - Leaked`](https://google.com/search?q=International+Presence+Ltd+-+Leaked) | [ragnarlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=ragnarlocker) |
