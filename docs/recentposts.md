@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-24 | [`fern-plastics.co.uk`](https://google.com/search?q=fern-plastics.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`excon.cl`](https://google.com/search?q=excon.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`camico.com`](https://google.com/search?q=camico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`ambic.co.uk`](https://google.com/search?q=ambic.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-08 | [`Optimity UK`](https://google.com/search?q=Optimity+UK) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`Baumit Bulgaria`](https://google.com/search?q=Baumit+Bulgaria) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-08 | [`Kasida.bg Database Leaked, Download`](https://google.com/search?q=Kasida.bg+Database+Leaked%2C+Download) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-08 | [`I&#038;G Brokers Database, Download Now`](https://google.com/search?q=I%26%23038%3BG+Brokers+Database%2C+Download+Now) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
