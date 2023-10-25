@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-25 | [`www.floristssupply.com`](https://google.com/search?q=www.floristssupply.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-25 | [`mgbwlaw.com`](https://google.com/search?q=mgbwlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-25 | [`martinsonservices.com`](https://google.com/search?q=martinsonservices.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-25 | [`linkmicrotek.com`](https://google.com/search?q=linkmicrotek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-08 | [`Islamic Azad University of Shiraz`](https://google.com/search?q=Islamic+Azad+University+of+Shiraz) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
 | 2023-10-08 | [`urc-automation.com`](https://google.com/search?q=urc-automation.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-08 | [`Metroclub.org`](https://google.com/search?q=Metroclub.org) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-08 | [`I&#038;G Brokers`](https://google.com/search?q=I%26%23038%3BG+Brokers) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
