@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-25 | [`Ancillae-Assumpta Academy`](https://google.com/search?q=Ancillae-Assumpta+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-25 | [`Direct Mail%20Corporation`](https://google.com/search?q=Direct+Mail%2520Corporation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-25 | [`Carter Transport Claims`](https://google.com/search?q=Carter+Transport+Claims) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-25 | [`AVA Limited`](https://google.com/search?q=AVA+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`wtpartnership.asia`](https://google.com/search?q=wtpartnership.asia) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-09 | [`dothanhauto.com`](https://google.com/search?q=dothanhauto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-09 | [`Law Society of South Africa`](https://google.com/search?q=Law+Society+of+South+Africa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-09 | [`i-Can Advisory Group inc`](https://google.com/search?q=i-Can+Advisory+Group+inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
