@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-25 | [`Harmann Studios Inc`](https://google.com/search?q=Harmann+Studios+Inc) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-25 | [`Broad River Retail/Ashley Store`](https://google.com/search?q=Broad+River+Retail%2FAshley+Store) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-10-25 | [`cvcheart.com`](https://google.com/search?q=cvcheart.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-25 | [`LBA`](https://google.com/search?q=LBA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-09 | [`BrData Tecnologia`](https://google.com/search?q=BrData+Tecnologia) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-09 | [`Southern Arkansas University`](https://google.com/search?q=Southern+Arkansas+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-08 | [`securicon.co.za`](https://google.com/search?q=securicon.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-08 | [`Guhring was hacked. Thousands of confidential files stolen.`](https://google.com/search?q=Guhring+was+hacked.+Thousands+of+confidential+files+stolen.) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
