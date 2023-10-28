@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-28 | [`KDI Office Technology`](https://google.com/search?q=KDI+Office+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Het Veer`](https://google.com/search?q=Het+Veer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`TNT Plastic Molding`](https://google.com/search?q=TNT+Plastic+Molding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-28 | [`Morrison Community Hospital FULL HUGE LEAK + BONUS`](https://google.com/search?q=Morrison+Community+Hospital+FULL+HUGE+LEAK+%2B+BONUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-10 | [`effigest.fr`](https://google.com/search?q=effigest.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-10 | [`Alliance Virgil Roberts Leadership Academy`](https://google.com/search?q=Alliance+Virgil+Roberts+Leadership+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-10 | [`National Health Mission. Department of Health & Family Welfare, Govt. of U.P`](https://google.com/search?q=National+Health+Mission.+Department+of+Health+%26+Family+Welfare%2C+Govt.+of+U.P) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
-| 2023-10-10 | [`foremostgroups.com`](https://google.com/search?q=foremostgroups.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
