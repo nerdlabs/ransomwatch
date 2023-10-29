@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-29 | [`Drug Emporium`](https://google.com/search?q=Drug+Emporium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Online Development`](https://google.com/search?q=Online+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`KDI Office Technology`](https://google.com/search?q=KDI+Office+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Het Veer`](https://google.com/search?q=Het+Veer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-11 | [`We monetize your corporate access`](https://google.com/search?q=We+monetize+your+corporate+access) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-10-10 | [`Metro Transit`](https://google.com/search?q=Metro+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-10 | [`effigest.fr`](https://google.com/search?q=effigest.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-10 | [`Alliance Virgil Roberts Leadership Academy`](https://google.com/search?q=Alliance+Virgil+Roberts+Leadership+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
