@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-29 | [`Sam Tell Companies`](https://google.com/search?q=Sam+Tell+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-29 | [`Waterstone Faucets`](https://google.com/search?q=Waterstone+Faucets) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-29 | [`Bush Refrigeration`](https://google.com/search?q=Bush+Refrigeration) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-29 | [`Drug Emporium`](https://google.com/search?q=Drug+Emporium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-11 | [`Air Canada`](https://google.com/search?q=Air+Canada) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-11 | [`Pelindo`](https://google.com/search?q=Pelindo) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-11 | [`Sobieski`](https://google.com/search?q=Sobieski) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-10-11 | [`We monetize your corporate access`](https://google.com/search?q=We+monetize+your+corporate+access) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
