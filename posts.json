@@ -42888,5 +42888,10 @@
         "post_title": "IBACOS",
         "group_name": "8base",
         "discovered": "2023-10-29 14:46:14.013076"
+    },
+    {
+        "post_title": "WACOSA",
+        "group_name": "alphv",
+        "discovered": "2023-10-29 17:48:08.711920"
     }
 ]
