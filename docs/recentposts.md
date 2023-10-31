@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-31 | [`smartuigroup.com.au`](https://google.com/search?q=smartuigroup.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-31 | [`Mount Carmel Care Center`](https://google.com/search?q=Mount+Carmel+Care+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-31 | [`www.mckeagandco.com`](https://google.com/search?q=www.mckeagandco.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-31 | [`Romulo Law Offices`](https://google.com/search?q=Romulo+Law+Offices) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-12 | [`www.seattlehousing.org`](https://google.com/search?q=www.seattlehousing.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-12 | [`https://www.fpz.de/`](https://google.com/search?q=https%3A%2F%2Fwww.fpz.de%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
 | 2023-10-12 | [`Tri-Way Manufacturing Technologies`](https://google.com/search?q=Tri-Way+Manufacturing+Technologies) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2023-10-12 | [`Acoustic Center`](https://google.com/search?q=Acoustic+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
