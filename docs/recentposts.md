@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-31 | [`Romulo Law Offices`](https://google.com/search?q=Romulo+Law+Offices) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-31 | [`Kingsport Times-News`](https://google.com/search?q=Kingsport+Times-News) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-31 | [`Freeman Johnson`](https://google.com/search?q=Freeman+Johnson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-31 | [`Brodart`](https://google.com/search?q=Brodart) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-12 | [`Acoustic Center`](https://google.com/search?q=Acoustic+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-12 | [`Neodata`](https://google.com/search?q=Neodata) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-12 | [`Evasión `](https://google.com/search?q=Evasi%C3%B3n+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`SIMTA `](https://google.com/search?q=SIMTA+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
