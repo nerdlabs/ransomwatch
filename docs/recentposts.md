@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-31 | [`Freeman Johnson`](https://google.com/search?q=Freeman+Johnson) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-31 | [`Brodart`](https://google.com/search?q=Brodart) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-31 | [`groupemontclair.com`](https://google.com/search?q=groupemontclair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`frontlineequipment.com.au`](https://google.com/search?q=frontlineequipment.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-12 | [`Evasión `](https://google.com/search?q=Evasi%C3%B3n+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-12 | [`SIMTA `](https://google.com/search?q=SIMTA+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-12 | [`ZOUARY &amp; Associés `](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-12 | [`Instron and ITW Inc`](https://google.com/search?q=Instron+and+ITW+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
