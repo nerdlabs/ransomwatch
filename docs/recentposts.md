@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`www.strumet.pl`](https://google.com/search?q=www.strumet.pl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`straphaels.org.uk`](https://google.com/search?q=straphaels.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`www.spolzino.com`](https://google.com/search?q=www.spolzino.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`Town of Lowa`](https://google.com/search?q=Town+of+Lowa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-14 | [`DUHOCAAU`](https://google.com/search?q=DUHOCAAU) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
 | 2023-10-14 | [`The Law Offices of Julian Lewis Sanders & Associates`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-14 | [`Jahesh Innovation`](https://google.com/search?q=Jahesh+Innovation) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
