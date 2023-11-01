@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`Advarra Inc.(PFIZER,GILEAD ETC AFFECTED)`](https://google.com/search?q=Advarra+Inc.%28PFIZER%2CGILEAD+ETC+AFFECTED%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-31 | [`B*****`](https://google.com/search?q=B%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-31 | [`Prasan Enterprises`](https://google.com/search?q=Prasan+Enterprises) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-31 | [`utec.com.sa`](https://google.com/search?q=utec.com.sa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-13 | [`Morrison Community Hospital`](https://google.com/search?q=Morrison+Community+Hospital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-13 | [`Hospital Italiano de Buenos Aires`](https://google.com/search?q=Hospital+Italiano+de+Buenos+Aires) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
 | 2023-10-13 | [`http://www.multidev.com`](https://google.com/search?q=http%3A%2F%2Fwww.multidev.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-10-13 | [`AKBASOGLU HOLDING Trans KA`](https://google.com/search?q=AKBASOGLU+HOLDING+Trans+KA) | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) |
