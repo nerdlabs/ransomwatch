@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`www.gannons.co.uk`](https://google.com/search?q=www.gannons.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-01 | [`www.gsp.com.br`](https://google.com/search?q=www.gsp.com.br) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-01 | [`www.strumet.pl`](https://google.com/search?q=www.strumet.pl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`straphaels.org.uk`](https://google.com/search?q=straphaels.org.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-15 | [`RE : Clarification`](https://google.com/search?q=RE+%3A+Clarification) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`webpag.com.br database leaked`](https://google.com/search?q=webpag.com.br+database+leaked) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-14 | [`DUHOCAAU`](https://google.com/search?q=DUHOCAAU) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
