@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`www.vinovalie.com`](https://google.com/search?q=www.vinovalie.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-01 | [`Traxall France`](https://google.com/search?q=Traxall+France) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-01 | [`Armstrong Consultants`](https://google.com/search?q=Armstrong+Consultants) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-11-01 | [`JAI A/S`](https://google.com/search?q=JAI+A%2FS) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-14 | [`Accenture Breach Evidence &amp; Debunking Rob Lee&#8217;s Lies`](https://google.com/search?q=Accenture+Breach+Evidence+%26amp%3B+Debunking+Rob+Lee%26%238217%3Bs+Lies) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-14 | [`Northwest Eye Care Professionals`](https://google.com/search?q=Northwest+Eye+Care+Professionals) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-10-13 | [`Intech`](https://google.com/search?q=Intech) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-10-13 | [`Kimia Tadbir Kiyan`](https://google.com/search?q=Kimia+Tadbir+Kiyan) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
