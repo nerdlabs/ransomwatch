@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`Patriotisk Selskab`](https://google.com/search?q=Patriotisk+Selskab) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-01 | [`G??P???? S????y???`](https://google.com/search?q=G%3F%3FP%3F%3F%3F%3F+S%3F%3F%3F%3Fy%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-01 | [`Auswide Services`](https://google.com/search?q=Auswide+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-01 | [`Advarra Inc.(PFIZER,GILEAD ETC AFFECTED)`](https://google.com/search?q=Advarra+Inc.%28PFIZER%2CGILEAD+ETC+AFFECTED%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-13 | [`koreapetroleum.com`](https://google.com/search?q=koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-13 | [`Cleveland City%20Schools`](https://google.com/search?q=Cleveland+City%2520Schools) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-13 | [`ttps://www.alconex.com/`](https://google.com/search?q=ttps%3A%2F%2Fwww.alconex.com%2F) | [trigona](https://ransomwatch.telemetry.ltd/#/profiles?id=trigona) |
-| 2023-10-13 | [`Morrison Community Hospital`](https://google.com/search?q=Morrison+Community+Hospital) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
