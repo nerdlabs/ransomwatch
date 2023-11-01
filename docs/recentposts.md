@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`sanmiguel.iph`](https://google.com/search?q=sanmiguel.iph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`Advarra Inc.`](https://google.com/search?q=Advarra+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-01 | [`Detroit Symphony Orchestra`](https://google.com/search?q=Detroit+Symphony+Orchestra) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-11-01 | [`Software Systems `](https://google.com/search?q=Software+Systems+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-16 | [`Believe Productions`](https://google.com/search?q=Believe+Productions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`mthollynissan.com`](https://google.com/search?q=mthollynissan.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-16 | [`Boise Rescue Mission Ministries`](https://google.com/search?q=Boise+Rescue+Mission+Ministries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-16 | [`www.ampersand.tv`](https://google.com/search?q=www.ampersand.tv) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
