@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-01 | [`Software Systems `](https://google.com/search?q=Software+Systems+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-01 | [`http://hacap.org`](https://google.com/search?q=http%3A%2F%2Fhacap.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`Universal Sewing%20Supply`](https://google.com/search?q=Universal+Sewing%2520Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-16 | [`www.ampersand.tv`](https://google.com/search?q=www.ampersand.tv) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-10-15 | [`Cogal Industry`](https://google.com/search?q=Cogal+Industry) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-15 | [`Rob Lee Evidence : Sneak Peek`](https://google.com/search?q=Rob+Lee+Evidence+%3A+Sneak+Peek) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
-| 2023-10-15 | [`Islamic Azad University Electronic Campus`](https://google.com/search?q=Islamic+Azad+University+Electronic+Campus) | [arvinclub](https://ransomwatch.telemetry.ltd/#/profiles?id=arvinclub) |
