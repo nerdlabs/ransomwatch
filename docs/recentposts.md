@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`Contact Cottrell and McCullough`](https://google.com/search?q=Contact+Cottrell+and+McCullough) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`psmicorp.com`](https://google.com/search?q=psmicorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`www.imancorp.es`](https://google.com/search?q=www.imancorp.es) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-02 | [`AF Supply`](https://google.com/search?q=AF+Supply) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-17 | [`Catarineau & Givens P.A. FULL LEAK!`](https://google.com/search?q=Catarineau+%26+Givens+P.A.+FULL+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-17 | [`kasperekusaoptical.com`](https://google.com/search?q=kasperekusaoptical.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-17 | [`SIIX Corporation`](https://google.com/search?q=SIIX+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-17 | [`www.piemmeonline.it`](https://google.com/search?q=www.piemmeonline.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
