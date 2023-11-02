@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`www.prclinical.com`](https://google.com/search?q=www.prclinical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`lafase.cl`](https://google.com/search?q=lafase.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`schwob.swiss`](https://google.com/search?q=schwob.swiss) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`www.rnwooler.co.uk`](https://google.com/search?q=www.rnwooler.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-18 | [`International Biomedical Ltd`](https://google.com/search?q=International+Biomedical+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`Jebsen and Co. Ltd.`](https://google.com/search?q=Jebsen+and+Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`kbs-accountants.nl`](https://google.com/search?q=kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-17 | [`Rotorcraft Leasing Company`](https://google.com/search?q=Rotorcraft+Leasing+Company) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
