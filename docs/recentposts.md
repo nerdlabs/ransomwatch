@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`shimano.com`](https://google.com/search?q=shimano.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`bindagroup.com`](https://google.com/search?q=bindagroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`www.prclinical.com`](https://google.com/search?q=www.prclinical.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`lafase.cl`](https://google.com/search?q=lafase.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-18 | [`Gilbreath`](https://google.com/search?q=Gilbreath) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`Company, P.C`](https://google.com/search?q=Company%2C+P.C) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-18 | [`International Biomedical Ltd`](https://google.com/search?q=International+Biomedical+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-10-18 | [`Jebsen and Co. Ltd.`](https://google.com/search?q=Jebsen+and+Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
