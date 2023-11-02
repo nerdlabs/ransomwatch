@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-02 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`vitaresearch.com`](https://google.com/search?q=vitaresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`steelofcarolina.com`](https://google.com/search?q=steelofcarolina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`raumberg-gumpenstein.at`](https://google.com/search?q=raumberg-gumpenstein.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-16 | [`OmniVision Technologies`](https://google.com/search?q=OmniVision+Technologies) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-10-16 | [`ATI Traduction`](https://google.com/search?q=ATI+Traduction) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-16 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-16 | [`Global Product Sales`](https://google.com/search?q=Global+Product+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
