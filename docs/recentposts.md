@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-03 | [`Bry-Air`](https://google.com/search?q=Bry-Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`JDRM Engineering`](https://google.com/search?q=JDRM+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`Craft-Maid`](https://google.com/search?q=Craft-Maid) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`Hilyards`](https://google.com/search?q=Hilyards) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-19 | [`frs-fnrs.be`](https://google.com/search?q=frs-fnrs.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`smart-union.org`](https://google.com/search?q=smart-union.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-19 | [`Innovattel LLC`](https://google.com/search?q=Innovattel+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-19 | [`CADRE`](https://google.com/search?q=CADRE) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
