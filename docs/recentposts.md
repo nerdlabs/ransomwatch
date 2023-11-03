@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-03 | [`tasl.co.th`](https://google.com/search?q=tasl.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`abhmfg.com`](https://google.com/search?q=abhmfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`jewell.edu`](https://google.com/search?q=jewell.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`https://tanatexchemicals.com`](https://google.com/search?q=https%3A%2F%2Ftanatexchemicals.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-19 | [`http://www.gov.br`](https://google.com/search?q=http%3A%2F%2Fwww.gov.br) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-10-19 | [`Associated Wholesale Grocers`](https://google.com/search?q=Associated+Wholesale+Grocers) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-19 | [`QuadraNet Enterprise s`](https://google.com/search?q=QuadraNet+Enterprise+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-19 | [`Visionary Integratio n Professionals`](https://google.com/search?q=Visionary+Integratio+n+Professionals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
