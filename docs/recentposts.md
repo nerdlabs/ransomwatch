@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-03 | [`https://tanatexchemicals.com`](https://google.com/search?q=https%3A%2F%2Ftanatexchemicals.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-03 | [`www.dynametal.com`](https://google.com/search?q=www.dynametal.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-03 | [`microtrain.net`](https://google.com/search?q=microtrain.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-03 | [`www.agiledisplaysolutions.com`](https://google.com/search?q=www.agiledisplaysolutions.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-19 | [`Visionary Integratio n Professionals`](https://google.com/search?q=Visionary+Integratio+n+Professionals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-19 | [`Inventum Øst`](https://google.com/search?q=Inventum+%C3%98st) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-19 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-19 | [`salaw.com`](https://google.com/search?q=salaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
