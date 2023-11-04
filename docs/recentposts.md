@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-04 | [`infosysbpm.com`](https://google.com/search?q=infosysbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-04 | [`tks.co.th`](https://google.com/search?q=tks.co.th) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-04 | [`http://www.apers13.com`](https://google.com/search?q=http%3A%2F%2Fwww.apers13.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2023-11-04 | [`Livability`](https://google.com/search?q=Livability) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`We Hire Pentesters(5BTC Payout)`](https://google.com/search?q=We+Hire+Pentesters%285BTC+Payout%29) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-20 | [`degrootgroep.nl`](https://google.com/search?q=degrootgroep.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-20 | [`Southland Integrated Services`](https://google.com/search?q=Southland+Integrated+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-10-20 | [`Protector Fire Servi ces`](https://google.com/search?q=Protector+Fire+Servi+ces) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
