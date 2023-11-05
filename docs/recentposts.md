@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-05 | [`brlogistics.net`](https://google.com/search?q=brlogistics.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`bresselouhannaiseintercom.fr`](https://google.com/search?q=bresselouhannaiseintercom.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`benya.capital`](https://google.com/search?q=benya.capital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`aseankorea.org`](https://google.com/search?q=aseankorea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-20 | [`Milk Source`](https://google.com/search?q=Milk+Source) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`arietishealth.com`](https://google.com/search?q=arietishealth.com) | [clop](https://ransomwatch.telemetry.ltd/#/profiles?id=clop) |
 | 2023-10-20 | [`uaes.com`](https://google.com/search?q=uaes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-20 | [`charleystaxi.com`](https://google.com/search?q=charleystaxi.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
