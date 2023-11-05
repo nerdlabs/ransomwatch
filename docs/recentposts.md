@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-05 | [`nfcc.gov.my`](https://google.com/search?q=nfcc.gov.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`nckb.com`](https://google.com/search?q=nckb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`mat-antriebstechnik.de`](https://google.com/search?q=mat-antriebstechnik.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`letillet.btprms.com`](https://google.com/search?q=letillet.btprms.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-21 | [`Kobi Karp Architecture and Interior Design`](https://google.com/search?q=Kobi+Karp+Architecture+and+Interior+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`RADISE`](https://google.com/search?q=RADISE) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`Polar Tech Industries`](https://google.com/search?q=Polar+Tech+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-21 | [`Ipswich Bay Glass`](https://google.com/search?q=Ipswich+Bay+Glass) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
