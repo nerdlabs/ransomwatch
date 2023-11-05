@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-05 | [`Advarra leak`](https://google.com/search?q=Advarra+leak) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-05 | [`ospedalecoq.it`](https://google.com/search?q=ospedalecoq.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`Corsica-Ferries`](https://google.com/search?q=Corsica-Ferries) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-05 | [`penanshin`](https://google.com/search?q=penanshin) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-21 | [`The Law Offices of Julian Lewis Sanders & Associates FULL LEAK!`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates+FULL+LEAK%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-21 | [`Epaccsys`](https://google.com/search?q=Epaccsys) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-21 | [`Tru-val Electric`](https://google.com/search?q=Tru-val+Electric) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-21 | [`Bridgeport Fittings`](https://google.com/search?q=Bridgeport+Fittings) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
