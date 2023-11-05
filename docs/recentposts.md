@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-05 | [`global-value-web.com`](https://google.com/search?q=global-value-web.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`emiliacentrale.it`](https://google.com/search?q=emiliacentrale.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`egco.com`](https://google.com/search?q=egco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`brlogistics.net`](https://google.com/search?q=brlogistics.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-21 | [`Hygieneering`](https://google.com/search?q=Hygieneering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`The Fountain Group`](https://google.com/search?q=The+Fountain+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-20 | [`Venture Plastics`](https://google.com/search?q=Venture+Plastics) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-20 | [`Milk Source`](https://google.com/search?q=Milk+Source) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
