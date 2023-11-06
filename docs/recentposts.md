@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`Leaguers`](https://google.com/search?q=Leaguers) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`Zon Beachside`](https://google.com/search?q=Zon+Beachside) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`Canadian Psychological Association`](https://google.com/search?q=Canadian+Psychological+Association) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`Assurius.be`](https://google.com/search?q=Assurius.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-23 | [`harlingentx.gov`](https://google.com/search?q=harlingentx.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-22 | [`Ransomedvc Launches A forum`](https://google.com/search?q=Ransomedvc+Launches+A+forum) | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |
 | 2023-10-22 | [`Edwards Business Systems`](https://google.com/search?q=Edwards+Business+Systems) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-22 | [`Brunton Shaw`](https://google.com/search?q=Brunton+Shaw) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
