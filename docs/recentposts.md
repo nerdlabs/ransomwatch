@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`Comfloresta`](https://google.com/search?q=Comfloresta) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-06 | [`springeroil.com`](https://google.com/search?q=springeroil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`Currax Pharmaceuticals`](https://google.com/search?q=Currax+Pharmaceuticals) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-05 | [`sansasecurity.com`](https://google.com/search?q=sansasecurity.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-21 | [`Foursquare Healthcare`](https://google.com/search?q=Foursquare+Healthcare) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-10-21 | [`Sidockgroup.`](https://google.com/search?q=Sidockgroup.) | [donutleaks](https://ransomwatch.telemetry.ltd/#/profiles?id=donutleaks) |
 | 2023-10-21 | [`www.strongtie.com`](https://google.com/search?q=www.strongtie.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-21 | [`Williamson Foodservice`](https://google.com/search?q=Williamson+Foodservice) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
