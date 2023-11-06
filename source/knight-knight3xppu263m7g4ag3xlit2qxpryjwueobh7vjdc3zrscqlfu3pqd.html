@@ -38,18 +38,18 @@
             const hashArray = Array.from(new Uint8Array(hashBuffer));
             const hashHex = hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
             if (hashHex.slice(0, criteria.length) === criteria) {
-                document.cookie = "_66ee45f2887458ea8c3d9b70955362e4=" + i.toString();
+                document.cookie = "_e7d479e506cc053783ac1370a83ac135=" + i.toString();
                 break
             }
             i++;
         }
     }
-    calculate("0c378adef30536c9b04184de7186e2af831759b362f1343aa3738addef617998247832041494dbcf09e2a3eda2c6cb28c476777b2436655d4721a3dceeb4d172", "e42cdff97bd49c7e3ec8d242365246d6");
+    calculate("8156689fe4afa8ab38a4fafa7d32264135677c84c3ab324817bc3996fe8d0446eaa5ef0943008c7852f2bc9d0db29444d7cb28207df1bce2c0283b18607a89f3", "87869ca347d1a2d07b76aa86b94b186c");
 </script>
 <script type="text/javascript">
     let countdown = document.getElementById('count');
     let message = document.getElementById('message');
-    let counter = 5;
+    let counter = 8;
     let intervalID
     intervalID = setInterval(function () {
         counter--
