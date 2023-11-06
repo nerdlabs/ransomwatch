@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`GEOCOM`](https://google.com/search?q=GEOCOM) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`MultiMasters`](https://google.com/search?q=MultiMasters) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`UTI Group`](https://google.com/search?q=UTI+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`SMH Group`](https://google.com/search?q=SMH+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`www.bmw-ducati.com`](https://google.com/search?q=www.bmw-ducati.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`www.misterminit.eu`](https://google.com/search?q=www.misterminit.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-23 | [`University of Defence - Full Leak`](https://google.com/search?q=University+of+Defence+-+Full+Leak) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-10-23 | [`ZOUARY &amp; Associés`](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
