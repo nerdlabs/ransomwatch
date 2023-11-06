@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`Unimed Blumenau`](https://google.com/search?q=Unimed+Blumenau) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`howlandlaw.net`](https://google.com/search?q=howlandlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`concretevalue.com`](https://google.com/search?q=concretevalue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`Leaguers`](https://google.com/search?q=Leaguers) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-23 | [`Native Counselling Services of Alberta`](https://google.com/search?q=Native+Counselling+Services+of+Alberta) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`Ada-Borup-West School`](https://google.com/search?q=Ada-Borup-West+School) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-10-23 | [`mamu.be`](https://google.com/search?q=mamu.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-23 | [`harlingentx.gov`](https://google.com/search?q=harlingentx.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
