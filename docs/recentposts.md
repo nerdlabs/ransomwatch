@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`Canadian Psychological Association`](https://google.com/search?q=Canadian+Psychological+Association) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`Assurius.be`](https://google.com/search?q=Assurius.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-06 | [`unique-relations.at`](https://google.com/search?q=unique-relations.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-06 | [`szutest.cz`](https://google.com/search?q=szutest.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-22 | [`Edwards Business Systems`](https://google.com/search?q=Edwards+Business+Systems) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-22 | [`Brunton Shaw`](https://google.com/search?q=Brunton+Shaw) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-22 | [`JC Roman Construction`](https://google.com/search?q=JC+Roman+Construction) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-22 | [`APS - Automotive Parts Solutions`](https://google.com/search?q=APS+-+Automotive+Parts+Solutions) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
