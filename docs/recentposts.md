@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-06 | [`Mount St. Mary's Seminary`](https://google.com/search?q=Mount+St.+Mary%27s+Seminary) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-06 | [`lathamcenters.org`](https://google.com/search?q=lathamcenters.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-11-06 | [`Weidmann &amp; Associates`](https://google.com/search?q=Weidmann+%26amp%3B+Associates) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`Unimed Blumenau`](https://google.com/search?q=Unimed+Blumenau) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-23 | [`EHPAD`](https://google.com/search?q=EHPAD) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-23 | [`3-D Engineering`](https://google.com/search?q=3-D+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-23 | [`Beaver Lake Cree Nation`](https://google.com/search?q=Beaver+Lake+Cree+Nation) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-10-23 | [`Native Counselling Services of Alberta`](https://google.com/search?q=Native+Counselling+Services+of+Alberta) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
