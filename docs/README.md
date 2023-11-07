@@ -1,10 +1,10 @@
 
 ## summary
-_november 6th, 2023_
+_november 7th, 2023_
 
 currently tracking `163` groups across `299` relays & mirrors - _`102` currently online_
 
-⏲ there have been `25` posts within the `last 24 hours`
+⏲ there have been `23` posts within the `last 24 hours`
 
 🦈 there have been `107` posts within the `month of november`
 
