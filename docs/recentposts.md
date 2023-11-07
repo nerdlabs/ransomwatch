@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Japan Aviation Electronics Industry, Ltd.`](https://google.com/search?q=Japan+Aviation+Electronics+Industry%2C+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-06 | [`EFU Life%20Assurance`](https://google.com/search?q=EFU+Life%2520Assurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-06 | [`GEOCOM`](https://google.com/search?q=GEOCOM) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`MultiMasters`](https://google.com/search?q=MultiMasters) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`www.icschool-uae.com`](https://google.com/search?q=www.icschool-uae.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.ucb.edu.pr`](https://google.com/search?q=www.ucb.edu.pr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.bmw-ducati.com`](https://google.com/search?q=www.bmw-ducati.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-23 | [`www.misterminit.eu`](https://google.com/search?q=www.misterminit.eu) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
