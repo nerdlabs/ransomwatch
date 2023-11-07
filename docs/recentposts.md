@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Truck Bodies & Equipment International`](https://google.com/search?q=Truck+Bodies+%26+Equipment+International) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-07 | [`Access to the large database of a US Medical organization`](https://google.com/search?q=Access+to+the+large+database+of+a+US+Medical+organization) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-11-07 | [`Certified Mortgage Planners`](https://google.com/search?q=Certified+Mortgage+Planners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-07 | [`BioPower Sustainable Energy Corporation`](https://google.com/search?q=BioPower+Sustainable+Energy+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`victorvilleca.gov`](https://google.com/search?q=victorvilleca.gov) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-24 | [`EDUARDO G. BARROSO`](https://google.com/search?q=EDUARDO+G.+BARROSO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-24 | [`City of Pittsburg`](https://google.com/search?q=City+of+Pittsburg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
