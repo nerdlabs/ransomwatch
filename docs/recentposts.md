@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Aceromex (Unpay-Start Leaking)`](https://google.com/search?q=Aceromex+%28Unpay-Start+Leaking%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-07 | [`Japan Aviation Electronics Industry, Ltd.`](https://google.com/search?q=Japan+Aviation+Electronics+Industry%2C+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-06 | [`EFU Life%20Assurance`](https://google.com/search?q=EFU+Life%2520Assurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-06 | [`GEOCOM`](https://google.com/search?q=GEOCOM) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`www.centredusablon.ca`](https://google.com/search?q=www.centredusablon.ca) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.icschool-uae.com`](https://google.com/search?q=www.icschool-uae.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.ucb.edu.pr`](https://google.com/search?q=www.ucb.edu.pr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-24 | [`www.bmw-ducati.com`](https://google.com/search?q=www.bmw-ducati.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
