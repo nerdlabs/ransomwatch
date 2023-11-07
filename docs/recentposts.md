@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`panaya`](https://google.com/search?q=panaya) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-07 | [`Yuxin Automobile Co.Ltd (Unpay-Full public)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-07 | [`Aceromex (Unpay-Start Leaking)`](https://google.com/search?q=Aceromex+%28Unpay-Start+Leaking%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-07 | [`Japan Aviation Electronics Industry, Ltd.`](https://google.com/search?q=Japan+Aviation+Electronics+Industry%2C+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`3-D Engineering/ 3-D Precision Machine`](https://google.com/search?q=3-D+Engineering%2F+3-D+Precision+Machine) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-24 | [`www.kbs-accountants.nl`](https://google.com/search?q=www.kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-24 | [`www.centredusablon.ca`](https://google.com/search?q=www.centredusablon.ca) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-24 | [`www.icschool-uae.com`](https://google.com/search?q=www.icschool-uae.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
