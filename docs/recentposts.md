@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`ccdrc.pt`](https://google.com/search?q=ccdrc.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-07 | [`prime-art`](https://google.com/search?q=prime-art) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-07 | [`panaya`](https://google.com/search?q=panaya) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2023-11-07 | [`Yuxin Automobile Co.Ltd (Unpay-Full public)`](https://google.com/search?q=Yuxin+Automobile+Co.Ltd+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`grupocobra.com`](https://google.com/search?q=grupocobra.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`SURTECO North America`](https://google.com/search?q=SURTECO+North+America) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-24 | [`3-D Engineering/ 3-D Precision Machine`](https://google.com/search?q=3-D+Engineering%2F+3-D+Precision+Machine) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-24 | [`www.kbs-accountants.nl`](https://google.com/search?q=www.kbs-accountants.nl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
