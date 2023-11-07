@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`www.triflex.nl`](https://google.com/search?q=www.triflex.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.cozwolle.nl`](https://google.com/search?q=www.cozwolle.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`Truck Bodies & Equipment International`](https://google.com/search?q=Truck+Bodies+%26+Equipment+International) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-07 | [`Access to the large database of a US Medical organization`](https://google.com/search?q=Access+to+the+large+database+of+a+US+Medical+organization) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`camico.com`](https://google.com/search?q=camico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`ambic.co.uk`](https://google.com/search?q=ambic.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`victorvilleca.gov`](https://google.com/search?q=victorvilleca.gov) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-10-24 | [`CMC Group`](https://google.com/search?q=CMC+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
