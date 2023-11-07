@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Certified Mortgage Planners`](https://google.com/search?q=Certified+Mortgage+Planners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-07 | [`BioPower Sustainable Energy Corporation`](https://google.com/search?q=BioPower+Sustainable+Energy+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-07 | [`BITZER`](https://google.com/search?q=BITZER) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-07 | [`Hopewell Area School District`](https://google.com/search?q=Hopewell+Area+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-24 | [`EDUARDO G. BARROSO`](https://google.com/search?q=EDUARDO+G.+BARROSO) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-24 | [`City of Pittsburg`](https://google.com/search?q=City+of+Pittsburg) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-24 | [`hgmonline.com`](https://google.com/search?q=hgmonline.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`www.koreapetroleum.com`](https://google.com/search?q=www.koreapetroleum.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
