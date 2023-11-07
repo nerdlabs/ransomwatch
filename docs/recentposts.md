@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-07 | [`Indah Water Konsortium`](https://google.com/search?q=Indah+Water+Konsortium) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-07 | [`www.tt-engineering.nl`](https://google.com/search?q=www.tt-engineering.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.nicecloud.nl`](https://google.com/search?q=www.nicecloud.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.triflex.nl`](https://google.com/search?q=www.triflex.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`linkmicrotek.com`](https://google.com/search?q=linkmicrotek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`fern-plastics.co.uk`](https://google.com/search?q=fern-plastics.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-24 | [`excon.cl`](https://google.com/search?q=excon.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-24 | [`camico.com`](https://google.com/search?q=camico.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
