@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-08 | [`amberhillgroup.com`](https://google.com/search?q=amberhillgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`www.califanocarrelli.it`](https://google.com/search?q=www.califanocarrelli.it) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-08 | [`www.orionlibrary.org`](https://google.com/search?q=www.orionlibrary.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`Michael Garron Hospi tal`](https://google.com/search?q=Michael+Garron+Hospi+tal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`Ancillae-Assumpta Academy`](https://google.com/search?q=Ancillae-Assumpta+Academy) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-10-25 | [`Direct Mail%20Corporation`](https://google.com/search?q=Direct+Mail%2520Corporation) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-10-25 | [`Carter Transport Claims`](https://google.com/search?q=Carter+Transport+Claims) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-25 | [`AVA Limited`](https://google.com/search?q=AVA+Limited) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
