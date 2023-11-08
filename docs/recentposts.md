@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-08 | [`www.avianor.com`](https://google.com/search?q=www.avianor.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`oefederal.org`](https://google.com/search?q=oefederal.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`gitiusa.com`](https://google.com/search?q=gitiusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-08 | [`http://www.neodomos.fr`](https://google.com/search?q=http%3A%2F%2Fwww.neodomos.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-25 | [`Broad River Retail/Ashley Store`](https://google.com/search?q=Broad+River+Retail%2FAshley+Store) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-10-25 | [`cvcheart.com`](https://google.com/search?q=cvcheart.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-25 | [`LBA`](https://google.com/search?q=LBA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-25 | [`www.floristssupply.com`](https://google.com/search?q=www.floristssupply.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
