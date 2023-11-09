@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`Meindl`](https://google.com/search?q=Meindl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Conditioned Air`](https://google.com/search?q=Conditioned+Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Inclinator`](https://google.com/search?q=Inclinator) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-08 | [`Crown Supply Co`](https://google.com/search?q=Crown+Supply+Co) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-26 | [`sgworld.com`](https://google.com/search?q=sgworld.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-10-26 | [`apexga.bank`](https://google.com/search?q=apexga.bank) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-10-26 | [`Versatile Card Technology Private Limited`](https://google.com/search?q=Versatile+Card+Technology+Private+Limited) | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |
-| 2023-10-25 | [`www.fortive.com`](https://google.com/search?q=www.fortive.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
