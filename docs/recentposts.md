@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`Battle Motors (Crane Carrier, CCC)`](https://google.com/search?q=Battle+Motors+%28Crane+Carrier%2C+CCC%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`gotocfr.com`](https://google.com/search?q=gotocfr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-09 | [`Koh Brothers`](https://google.com/search?q=Koh+Brothers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-09 | [`Cogdell Memorial Hospital`](https://google.com/search?q=Cogdell+Memorial+Hospital) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-27 | [`Mutual Underwriters`](https://google.com/search?q=Mutual+Underwriters) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-27 | [`tilden-coil.com`](https://google.com/search?q=tilden-coil.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-27 | [`WWW.VOLEX.COM`](https://google.com/search?q=WWW.VOLEX.COM) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-10-27 | [`www.volex.com`](https://google.com/search?q=www.volex.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
