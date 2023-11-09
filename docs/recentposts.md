@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`DESIGNA Verkehrsleittechnik`](https://google.com/search?q=DESIGNA+Verkehrsleittechnik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`The Supply Room Companies & Citron WorkSpaces`](https://google.com/search?q=The+Supply+Room+Companies+%26+Citron+WorkSpaces) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Ackerman-Estvold`](https://google.com/search?q=Ackerman-Estvold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Meindl`](https://google.com/search?q=Meindl) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-26 | [`caminorealcs.org`](https://google.com/search?q=caminorealcs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-26 | [`doverchem.com`](https://google.com/search?q=doverchem.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-26 | [`claimtek.com`](https://google.com/search?q=claimtek.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-10-26 | [`sgworld.com`](https://google.com/search?q=sgworld.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
