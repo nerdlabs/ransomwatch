@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`ggarabia.com`](https://google.com/search?q=ggarabia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-09 | [`www.jeffcoat.us`](https://google.com/search?q=www.jeffcoat.us) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-09 | [`JS Hovnanian & Sons`](https://google.com/search?q=JS+Hovnanian+%26+Sons) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Identification Products`](https://google.com/search?q=Identification+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-27 | [`Wilson Lewis`](https://google.com/search?q=Wilson+Lewis) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-27 | [`ZINSER GmbH`](https://google.com/search?q=ZINSER+GmbH) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
 | 2023-10-27 | [`CBS`](https://google.com/search?q=CBS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-26 | [`maniland.co.uk`](https://google.com/search?q=maniland.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
