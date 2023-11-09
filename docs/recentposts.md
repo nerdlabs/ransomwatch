@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`Simons Petroleum/Max um Petroleum/Pilot T homas Logistics`](https://google.com/search?q=Simons+Petroleum%2FMax+um+Petroleum%2FPilot+T+homas+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`Sinotech Group Taiwan`](https://google.com/search?q=Sinotech+Group+Taiwan) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-09 | [`City Furniture Hire`](https://google.com/search?q=City+Furniture+Hire) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`Autocommerce`](https://google.com/search?q=Autocommerce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-28 | [`TNT Plastic Molding`](https://google.com/search?q=TNT+Plastic+Molding) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-28 | [`Morrison Community Hospital FULL HUGE LEAK + BONUS`](https://google.com/search?q=Morrison+Community+Hospital+FULL+HUGE+LEAK+%2B+BONUS) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-10-28 | [`ISRAEL STOP GENOCIDE IN GAZA`](https://google.com/search?q=ISRAEL+STOP+GENOCIDE+IN+GAZA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-10-27 | [`Alam Flora%20Sdn%20Bhd`](https://google.com/search?q=Alam+Flora%2520Sdn%2520Bhd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
