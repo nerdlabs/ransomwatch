@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-09 | [`Rudolf Venture Chemical Inc - Press Release`](https://google.com/search?q=Rudolf+Venture+Chemical+Inc+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-11-09 | [`Magsaysay Maritime - Press Release`](https://google.com/search?q=Magsaysay+Maritime+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-11-09 | [`SALUS Controls`](https://google.com/search?q=SALUS+Controls) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`Battle Motors (Crane Carrier, CCC)`](https://google.com/search?q=Battle+Motors+%28Crane+Carrier%2C+CCC%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-27 | [`Stanford University`](https://google.com/search?q=Stanford+University) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-10-27 | [`boeing.com`](https://google.com/search?q=boeing.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-27 | [`Telecommunications Services of Trinidad and Tobago (tstt.co.tt)`](https://google.com/search?q=Telecommunications+Services+of+Trinidad+and+Tobago+%28tstt.co.tt%29) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
-| 2023-10-27 | [`Mutual Underwriters`](https://google.com/search?q=Mutual+Underwriters) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
