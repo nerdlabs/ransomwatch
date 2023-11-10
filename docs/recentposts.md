@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-10 | [`Azienda Ospedaliera Universitaria Integrata di Verona`](https://google.com/search?q=Azienda+Ospedaliera+Universitaria+Integrata+di+Verona) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-10 | [`aei.cc`](https://google.com/search?q=aei.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-10 | [`www.ezifloor.com.au`](https://google.com/search?q=www.ezifloor.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-10 | [`www.actionsantetravail.fr`](https://google.com/search?q=www.actionsantetravail.fr) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-29 | [`Drug Emporium`](https://google.com/search?q=Drug+Emporium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`Online Development`](https://google.com/search?q=Online+Development) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-28 | [`KDI Office Technology`](https://google.com/search?q=KDI+Office+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-28 | [`Het Veer`](https://google.com/search?q=Het+Veer) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
