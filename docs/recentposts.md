@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-10 | [`floortex.com`](https://google.com/search?q=floortex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-10 | [`Mariposa Landscapes, Inc`](https://google.com/search?q=Mariposa+Landscapes%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-10 | [`morningstarco.com`](https://google.com/search?q=morningstarco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-10 | [`Azienda Ospedaliera Universitaria Integrata di Verona`](https://google.com/search?q=Azienda+Ospedaliera+Universitaria+Integrata+di+Verona) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-29 | [`Sam Tell Companies`](https://google.com/search?q=Sam+Tell+Companies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-29 | [`Waterstone Faucets`](https://google.com/search?q=Waterstone+Faucets) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-29 | [`Bush Refrigeration`](https://google.com/search?q=Bush+Refrigeration) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-10-29 | [`Drug Emporium`](https://google.com/search?q=Drug+Emporium) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
