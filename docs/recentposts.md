@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-12 | [`cityofclarksville.com`](https://google.com/search?q=cityofclarksville.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`carsonteam.com`](https://google.com/search?q=carsonteam.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`plati.it`](https://google.com/search?q=plati.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`hotel-ampere-paris.com`](https://google.com/search?q=hotel-ampere-paris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`Brodart`](https://google.com/search?q=Brodart) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-10-31 | [`groupemontclair.com`](https://google.com/search?q=groupemontclair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-30 | [`frontlineequipment.com.au`](https://google.com/search?q=frontlineequipment.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-30 | [`aiq.com.mx`](https://google.com/search?q=aiq.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
