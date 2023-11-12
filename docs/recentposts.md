@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-12 | [`thewalkerschool.org`](https://google.com/search?q=thewalkerschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`aegean.gr`](https://google.com/search?q=aegean.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`modafabrics.com`](https://google.com/search?q=modafabrics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`hotelemc2.com`](https://google.com/search?q=hotelemc2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`Mount Carmel Care Center`](https://google.com/search?q=Mount+Carmel+Care+Center) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-10-31 | [`www.mckeagandco.com`](https://google.com/search?q=www.mckeagandco.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-10-31 | [`Romulo Law Offices`](https://google.com/search?q=Romulo+Law+Offices) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
-| 2023-10-31 | [`Kingsport Times-News`](https://google.com/search?q=Kingsport+Times-News) | [8base](https://ransomwatch.telemetry.ltd/#/profiles?id=8base) |
