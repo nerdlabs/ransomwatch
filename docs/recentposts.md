@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-13 | [`NSEIT LIMITED`](https://google.com/search?q=NSEIT+LIMITED) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-13 | [`muellersystems.com`](https://google.com/search?q=muellersystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`msim.de`](https://google.com/search?q=msim.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`www.putzelelectric.com`](https://google.com/search?q=www.putzelelectric.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-10-31 | [`Prasan Enterprises`](https://google.com/search?q=Prasan+Enterprises) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-10-31 | [`utec.com.sa`](https://google.com/search?q=utec.com.sa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-10-31 | [`riohondo.edu`](https://google.com/search?q=riohondo.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-10-31 | [`bildco.ae`](https://google.com/search?q=bildco.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
