@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`www.boulangerieauger.com`](https://google.com/search?q=www.boulangerieauger.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`Gnome Landscapes`](https://google.com/search?q=Gnome+Landscapes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.maytec.de`](https://google.com/search?q=www.maytec.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`Naftor and Grupa Pern (Naftoport/ SIARKOPOL/ SARMATIA/ NAFTOSERWIS) is the most dangerous `](https://google.com/search?q=Naftor+and+Grupa+Pern+%28Naftoport%2F+SIARKOPOL%2F+SARMATIA%2F+NAFTOSERWIS%29+is+the+most+dangerous+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`Universal Sewing%20Supply`](https://google.com/search?q=Universal+Sewing%2520Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-01 | [`www.gannons.co.uk`](https://google.com/search?q=www.gannons.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-01 | [`www.gsp.com.br`](https://google.com/search?q=www.gsp.com.br) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-01 | [`www.strumet.pl`](https://google.com/search?q=www.strumet.pl) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
