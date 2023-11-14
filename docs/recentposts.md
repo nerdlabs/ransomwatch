@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`ConSpare`](https://google.com/search?q=ConSpare) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-14 | [`www.agromatic.de`](https://google.com/search?q=www.agromatic.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`www.cmcsheetmetal.com`](https://google.com/search?q=www.cmcsheetmetal.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`www.rekord.de`](https://google.com/search?q=www.rekord.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`Detroit Symphony Orchestra`](https://google.com/search?q=Detroit+Symphony+Orchestra) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2023-11-01 | [`Software Systems `](https://google.com/search?q=Software+Systems+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-01 | [`http://hacap.org`](https://google.com/search?q=http%3A%2F%2Fhacap.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
