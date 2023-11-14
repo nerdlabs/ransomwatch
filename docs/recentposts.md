@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-14 | [`www.rekord.de`](https://google.com/search?q=www.rekord.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`www.boulangerieauger.com`](https://google.com/search?q=www.boulangerieauger.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`Gnome Landscapes`](https://google.com/search?q=Gnome+Landscapes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.maytec.de`](https://google.com/search?q=www.maytec.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-01 | [`summithealth.com`](https://google.com/search?q=summithealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`Universal Sewing%20Supply`](https://google.com/search?q=Universal+Sewing%2520Supply) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-01 | [`www.gannons.co.uk`](https://google.com/search?q=www.gannons.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-01 | [`www.gsp.com.br`](https://google.com/search?q=www.gsp.com.br) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
