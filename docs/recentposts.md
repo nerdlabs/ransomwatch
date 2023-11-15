@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`SCOLARI Srl`](https://google.com/search?q=SCOLARI+Srl) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-15 | [`Yamaha Motor%20Philippines%2CInc.`](https://google.com/search?q=Yamaha+Motor%2520Philippines%252CInc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-15 | [`PIKE Technologies`](https://google.com/search?q=PIKE+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Cardinal MetalWorks`](https://google.com/search?q=Cardinal+MetalWorks) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`schwob.swiss`](https://google.com/search?q=schwob.swiss) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`www.rnwooler.co.uk`](https://google.com/search?q=www.rnwooler.co.uk) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-02 | [`Contact Cottrell and McCullough`](https://google.com/search?q=Contact+Cottrell+and+McCullough) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-02 | [`psmicorp.com`](https://google.com/search?q=psmicorp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
