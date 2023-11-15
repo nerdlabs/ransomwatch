@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`Trademark Property`](https://google.com/search?q=Trademark+Property) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Nomot`](https://google.com/search?q=Nomot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Global Technologies Racing Ltd`](https://google.com/search?q=Global+Technologies+Racing+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`kwhfreeze.fi`](https://google.com/search?q=kwhfreeze.fi) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`EDB`](https://google.com/search?q=EDB) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-02 | [`Bluewater Health (CA) and others`](https://google.com/search?q=Bluewater+Health+%28CA%29+and+others) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-11-02 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-02 | [`vitaresearch.com`](https://google.com/search?q=vitaresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
