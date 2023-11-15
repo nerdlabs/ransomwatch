@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-15 | [`Wyatt Detention Center`](https://google.com/search?q=Wyatt+Detention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Guntert & Zimmerman`](https://google.com/search?q=Guntert+%26+Zimmerman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`MeridianLink`](https://google.com/search?q=MeridianLink) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-15 | [`Premise Health`](https://google.com/search?q=Premise+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-02 | [`imprex.es`](https://google.com/search?q=imprex.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-02 | [`degregoris.com`](https://google.com/search?q=degregoris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-01 | [`sanmiguel.iph`](https://google.com/search?q=sanmiguel.iph) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-01 | [`Advarra Inc.`](https://google.com/search?q=Advarra+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
