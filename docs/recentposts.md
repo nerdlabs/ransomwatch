@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-16 | [`Admilla ELAP`](https://google.com/search?q=Admilla+ELAP) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-11-16 | [`Toyota Financial`](https://google.com/search?q=Toyota+Financial) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-16 | [`owensgroup.uk`](https://google.com/search?q=owensgroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`Decatur Independent%20School%20District`](https://google.com/search?q=Decatur+Independent%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-03 | [`North Dakota Grain Inspection Services`](https://google.com/search?q=North+Dakota+Grain+Inspection+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-03 | [`Warning to Advarra & Gadi!`](https://google.com/search?q=Warning+to+Advarra+%26+Gadi%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-02 | [`Gsp Components`](https://google.com/search?q=Gsp+Components) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-02 | [`Ricardo`](https://google.com/search?q=Ricardo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
