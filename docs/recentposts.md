@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-17 | [`McCray &amp; Withrow `](https://google.com/search?q=McCray+%26amp%3B+Withrow+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-17 | [`WellLife Network%20Inc.`](https://google.com/search?q=WellLife+Network%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-17 | [`Metro MPLS`](https://google.com/search?q=Metro+MPLS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`www.kwikind.com`](https://google.com/search?q=www.kwikind.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-05 | [`bresselouhannaiseintercom.fr`](https://google.com/search?q=bresselouhannaiseintercom.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`benya.capital`](https://google.com/search?q=benya.capital) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-05 | [`aseankorea.org`](https://google.com/search?q=aseankorea.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-04 | [`infosysbpm.com`](https://google.com/search?q=infosysbpm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
