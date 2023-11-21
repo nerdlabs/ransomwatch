@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-21 | [`floydskerenlaw.com`](https://google.com/search?q=floydskerenlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`bnpmedia.com`](https://google.com/search?q=bnpmedia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`Petersen Health Care`](https://google.com/search?q=Petersen+Health+Care) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-21 | [`Paul Stuart`](https://google.com/search?q=Paul+Stuart) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-06 | [`UTI Group`](https://google.com/search?q=UTI+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`SMH Group`](https://google.com/search?q=SMH+Group) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-06 | [`kbrlaw.com`](https://google.com/search?q=kbrlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-06 | [`good-lawyer.com`](https://google.com/search?q=good-lawyer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
