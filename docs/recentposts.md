@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-21 | [`qautomotive.com.au`](https://google.com/search?q=qautomotive.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`phihydraulics.com`](https://google.com/search?q=phihydraulics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`martinique.no`](https://google.com/search?q=martinique.no) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`Bolidt`](https://google.com/search?q=Bolidt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-06 | [`lathamcenters.org`](https://google.com/search?q=lathamcenters.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-11-06 | [`Weidmann &amp; Associates`](https://google.com/search?q=Weidmann+%26amp%3B+Associates) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-06 | [`Unimed Blumenau`](https://google.com/search?q=Unimed+Blumenau) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-11-06 | [`howlandlaw.net`](https://google.com/search?q=howlandlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
