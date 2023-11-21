@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-21 | [`Bolidt`](https://google.com/search?q=Bolidt) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-21 | [`Growers Express`](https://google.com/search?q=Growers+Express) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-21 | [`P*******`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-21 | [`P******** T******`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A%2A+T%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-06 | [`howlandlaw.net`](https://google.com/search?q=howlandlaw.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`concretevalue.com`](https://google.com/search?q=concretevalue.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-06 | [`Leaguers`](https://google.com/search?q=Leaguers) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-11-06 | [`Zon Beachside`](https://google.com/search?q=Zon+Beachside) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
