@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-22 | [`Alspec`](https://google.com/search?q=Alspec) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-22 | [`Custom Engineering & Fabrication, Inc.`](https://google.com/search?q=Custom+Engineering+%26+Fabrication%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-22 | [`NESPOLI GROUP`](https://google.com/search?q=NESPOLI+GROUP) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-22 | [`Community Hospital`](https://google.com/search?q=Community+Hospital) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-07 | [`BITZER`](https://google.com/search?q=BITZER) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-07 | [`Hopewell Area School District`](https://google.com/search?q=Hopewell+Area+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-07 | [`ccdrc.pt`](https://google.com/search?q=ccdrc.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-07 | [`prime-art`](https://google.com/search?q=prime-art) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
