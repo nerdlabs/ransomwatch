@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-22 | [`ds-granit.fr`](https://google.com/search?q=ds-granit.fr) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-11-21 | [`[DATA] Bakrie Group & Bakrie Sumatera Plantations`](https://google.com/search?q=%5BDATA%5D+Bakrie+Group+%26+Bakrie+Sumatera+Plantations) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-21 | [`Verhelst`](https://google.com/search?q=Verhelst) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-21 | [`floydskerenlaw.com`](https://google.com/search?q=floydskerenlaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-06 | [`EFU Life%20Assurance`](https://google.com/search?q=EFU+Life%2520Assurance) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-06 | [`GEOCOM`](https://google.com/search?q=GEOCOM) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-06 | [`MultiMasters`](https://google.com/search?q=MultiMasters) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-11-06 | [`UTI Group`](https://google.com/search?q=UTI+Group) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
