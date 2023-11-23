@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-23 | [`Fidelity National Financial`](https://google.com/search?q=Fidelity+National+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-22 | [`McHale Landscape Design`](https://google.com/search?q=McHale+Landscape+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-22 | [`IQ Supply Solutions`](https://google.com/search?q=IQ+Supply+Solutions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-22 | [`Alspec`](https://google.com/search?q=Alspec) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-07 | [`Access to the large database of a US Medical organization`](https://google.com/search?q=Access+to+the+large+database+of+a+US+Medical+organization) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-11-07 | [`Certified Mortgage Planners`](https://google.com/search?q=Certified+Mortgage+Planners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-07 | [`BioPower Sustainable Energy Corporation`](https://google.com/search?q=BioPower+Sustainable+Energy+Corporation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-07 | [`BITZER`](https://google.com/search?q=BITZER) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
