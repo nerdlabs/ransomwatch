@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-23 | [`Eckell Sparks Law Firm`](https://google.com/search?q=Eckell+Sparks+Law+Firm) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-23 | [`Pro Metals%20LLC`](https://google.com/search?q=Pro+Metals%2520LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`officinaverdedesign.it`](https://google.com/search?q=officinaverdedesign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-23 | [`Springfield Area%20Chamber%20of%20Commerce`](https://google.com/search?q=Springfield+Area%2520Chamber%2520of%2520Commerce) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-07 | [`www.tt-engineering.nl`](https://google.com/search?q=www.tt-engineering.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.nicecloud.nl`](https://google.com/search?q=www.nicecloud.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.triflex.nl`](https://google.com/search?q=www.triflex.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-07 | [`www.cozwolle.nl`](https://google.com/search?q=www.cozwolle.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
