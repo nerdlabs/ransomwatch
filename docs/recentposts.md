@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-23 | [`officinaverdedesign.it`](https://google.com/search?q=officinaverdedesign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-23 | [`Springfield Area%20Chamber%20of%20Commerce`](https://google.com/search?q=Springfield+Area%2520Chamber%2520of%2520Commerce) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Trylon TSF%20Inc.`](https://google.com/search?q=Trylon+TSF%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Fidelity National Financial`](https://google.com/search?q=Fidelity+National+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-07 | [`www.triflex.nl`](https://google.com/search?q=www.triflex.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`www.cozwolle.nl`](https://google.com/search?q=www.cozwolle.nl) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-07 | [`Truck Bodies & Equipment International`](https://google.com/search?q=Truck+Bodies+%26+Equipment+International) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-11-07 | [`Access to the large database of a US Medical organization`](https://google.com/search?q=Access+to+the+large+database+of+a+US+Medical+organization) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
