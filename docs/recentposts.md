@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-24 | [`Spectrum Solutions LLC`](https://google.com/search?q=Spectrum+Solutions+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-23 | [`des-ae.com`](https://google.com/search?q=des-ae.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-23 | [`B%2BP Ger%C3%BCstbau%20GmbH`](https://google.com/search?q=B%252BP+Ger%25C3%25BCstbau%2520GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`DM Civil%20Co.`](https://google.com/search?q=DM+Civil%2520Co.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-08 | [`www.avianor.com`](https://google.com/search?q=www.avianor.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`oefederal.org`](https://google.com/search?q=oefederal.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-08 | [`gitiusa.com`](https://google.com/search?q=gitiusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-08 | [`http://www.neodomos.fr`](https://google.com/search?q=http%3A%2F%2Fwww.neodomos.fr) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
