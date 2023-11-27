@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-27 | [`Legacy Mail Manageme nt`](https://google.com/search?q=Legacy+Mail+Manageme+nt) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-27 | [`yanfeng.com`](https://google.com/search?q=yanfeng.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-27 | [`stsaviationgroup.com`](https://google.com/search?q=stsaviationgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-27 | [`Fischione Instruments Inc.`](https://google.com/search?q=Fischione+Instruments+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`Koh Brothers`](https://google.com/search?q=Koh+Brothers) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-09 | [`Cogdell Memorial Hospital`](https://google.com/search?q=Cogdell+Memorial+Hospital) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-11-09 | [`ggarabia.com`](https://google.com/search?q=ggarabia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-09 | [`www.jeffcoat.us`](https://google.com/search?q=www.jeffcoat.us) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
