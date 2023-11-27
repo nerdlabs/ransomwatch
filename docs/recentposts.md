@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-27 | [`Vertex Resource Group`](https://google.com/search?q=Vertex+Resource+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-27 | [`Co. Ltd.`](https://google.com/search?q=Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-27 | [`Plastic Molding Technology Inc.`](https://google.com/search?q=Plastic+Molding+Technology+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-27 | [`http://newriver.edu`](https://google.com/search?q=http%3A%2F%2Fnewriver.edu) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`JS Hovnanian & Sons`](https://google.com/search?q=JS+Hovnanian+%26+Sons) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`Identification Products`](https://google.com/search?q=Identification+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-09 | [`M.R. Williams`](https://google.com/search?q=M.R.+Williams) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-09 | [`DESIGNA Verkehrsleittechnik`](https://google.com/search?q=DESIGNA+Verkehrsleittechnik) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
