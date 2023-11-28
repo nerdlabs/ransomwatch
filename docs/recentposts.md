@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-28 | [`NC Central University`](https://google.com/search?q=NC+Central+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-28 | [`Imt - Press Release`](https://google.com/search?q=Imt+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-11-28 | [`Law Offices of John E Hill - Press Release`](https://google.com/search?q=Law+Offices+of+John+E+Hill+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-11-28 | [`North Texas Municipal Water District (US)`](https://google.com/search?q=North+Texas+Municipal+Water+District+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`Autocommerce`](https://google.com/search?q=Autocommerce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`Rudolf Venture Chemical Inc - Press Release`](https://google.com/search?q=Rudolf+Venture+Chemical+Inc+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-11-09 | [`Magsaysay Maritime - Press Release`](https://google.com/search?q=Magsaysay+Maritime+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-11-09 | [`SALUS Controls`](https://google.com/search?q=SALUS+Controls) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
