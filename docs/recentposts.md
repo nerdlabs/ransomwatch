@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-28 | [`hi-schoolpharmacy.com`](https://google.com/search?q=hi-schoolpharmacy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-28 | [`dawsongroup.uk`](https://google.com/search?q=dawsongroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-28 | [`China Petrochemical Development`](https://google.com/search?q=China+Petrochemical+Development) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-28 | [`ALVImedica`](https://google.com/search?q=ALVImedica) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-10 | [`Mariposa Landscapes, Inc`](https://google.com/search?q=Mariposa+Landscapes%2C+Inc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-10 | [`morningstarco.com`](https://google.com/search?q=morningstarco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-10 | [`Azienda Ospedaliera Universitaria Integrata di Verona`](https://google.com/search?q=Azienda+Ospedaliera+Universitaria+Integrata+di+Verona) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-11-10 | [`aei.cc`](https://google.com/search?q=aei.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
