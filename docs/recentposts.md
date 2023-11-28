@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-28 | [`Odalys Vacances`](https://google.com/search?q=Odalys+Vacances) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`FYIdoctors`](https://google.com/search?q=FYIdoctors) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`NC Central University`](https://google.com/search?q=NC+Central+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-28 | [`Imt - Press Release`](https://google.com/search?q=Imt+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-09 | [`Sinotech Group Taiwan`](https://google.com/search?q=Sinotech+Group+Taiwan) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-09 | [`City Furniture Hire`](https://google.com/search?q=City+Furniture+Hire) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-09 | [`Autocommerce`](https://google.com/search?q=Autocommerce) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-09 | [`Rudolf Venture Chemical Inc - Press Release`](https://google.com/search?q=Rudolf+Venture+Chemical+Inc+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
