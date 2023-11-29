@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-29 | [`Alpura`](https://google.com/search?q=Alpura) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-29 | [`Protected: Name is hidden`](https://google.com/search?q=Protected%3A+Name+is+hidden) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-11-29 | [`***s****** ***t*** *e****** ***`](https://google.com/search?q=%2A%2A%2As%2A%2A%2A%2A%2A%2A+%2A%2A%2At%2A%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-29 | [`**o** ******l*****`](https://google.com/search?q=%2A%2Ao%2A%2A+%2A%2A%2A%2A%2A%2Al%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-12 | [`thewalkerschool.org`](https://google.com/search?q=thewalkerschool.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`aegean.gr`](https://google.com/search?q=aegean.gr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`modafabrics.com`](https://google.com/search?q=modafabrics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-12 | [`hotelemc2.com`](https://google.com/search?q=hotelemc2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
