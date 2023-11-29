@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-29 | [`SurvTech Solutions`](https://google.com/search?q=SurvTech+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`Byfod`](https://google.com/search?q=Byfod) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`Retailer Web Services`](https://google.com/search?q=Retailer+Web+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`tcw.com`](https://google.com/search?q=tcw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-11 | [`roth-werkzeugbau.de`](https://google.com/search?q=roth-werkzeugbau.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`quifatex.com`](https://google.com/search?q=quifatex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`heinrichseegers.de`](https://google.com/search?q=heinrichseegers.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-11 | [`loiret.fr`](https://google.com/search?q=loiret.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
