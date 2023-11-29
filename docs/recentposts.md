@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-29 | [`Protected: skalar.com`](https://google.com/search?q=Protected%3A+skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-11-29 | [`Noble Mountain Tree Farm`](https://google.com/search?q=Noble+Mountain+Tree+Farm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`EDGE Realty Partners`](https://google.com/search?q=EDGE+Realty+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`Great Valley School District `](https://google.com/search?q=Great+Valley+School+District+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-12 | [`carsonteam.com`](https://google.com/search?q=carsonteam.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`plati.it`](https://google.com/search?q=plati.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`hotel-ampere-paris.com`](https://google.com/search?q=hotel-ampere-paris.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-12 | [`Pricesmart`](https://google.com/search?q=Pricesmart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
