@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-29 | [`**o** ******l*****`](https://google.com/search?q=%2A%2Ao%2A%2A+%2A%2A%2A%2A%2A%2Al%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-29 | [`AQIPA`](https://google.com/search?q=AQIPA) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-29 | [`Lydall, Inc.`](https://google.com/search?q=Lydall%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-29 | [`Protected: skalar.com`](https://google.com/search?q=Protected%3A+skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-12 | [`hotelemc2.com`](https://google.com/search?q=hotelemc2.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`digitaldruck-esser.de`](https://google.com/search?q=digitaldruck-esser.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-12 | [`cityofclarksville.com`](https://google.com/search?q=cityofclarksville.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-12 | [`carsonteam.com`](https://google.com/search?q=carsonteam.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
