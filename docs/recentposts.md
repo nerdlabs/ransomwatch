@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-29 | [`tcw.com`](https://google.com/search?q=tcw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-29 | [`Sparex`](https://google.com/search?q=Sparex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`Continental Shipping Line`](https://google.com/search?q=Continental+Shipping+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`MooreCo`](https://google.com/search?q=MooreCo) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-11 | [`loiret.fr`](https://google.com/search?q=loiret.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`creatz3d.sg`](https://google.com/search?q=creatz3d.sg) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-11 | [`aten.com`](https://google.com/search?q=aten.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-11 | [`www.pargroup.com`](https://google.com/search?q=www.pargroup.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
