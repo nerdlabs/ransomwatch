@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-30 | [`www.verdecora.es`](https://google.com/search?q=www.verdecora.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-30 | [`www.sciencehistory.org`](https://google.com/search?q=www.sciencehistory.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-30 | [`King Edward VII's Hospital`](https://google.com/search?q=King+Edward+VII%27s+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-30 | [`Servicio Móvil`](https://google.com/search?q=Servicio+M%C3%B3vil) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-13 | [`Moneris Solutions`](https://google.com/search?q=Moneris+Solutions) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-13 | [`United Site Services`](https://google.com/search?q=United+Site+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-13 | [`NSEIT LIMITED`](https://google.com/search?q=NSEIT+LIMITED) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-11-13 | [`muellersystems.com`](https://google.com/search?q=muellersystems.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
