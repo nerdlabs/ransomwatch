@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-11-30 | [`A**** *********** Inc`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-30 | [`http://www.depauw.edu`](https://google.com/search?q=http%3A%2F%2Fwww.depauw.edu) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-11-30 | [`www.andersonandjones.com`](https://google.com/search?q=www.andersonandjones.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-30 | [`aurobindousa.com`](https://google.com/search?q=aurobindousa.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-13 | [`tarltonandson.com`](https://google.com/search?q=tarltonandson.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-13 | [`St. Lucie County Tax Collector’s`](https://google.com/search?q=St.+Lucie+County+Tax+Collector%E2%80%99s) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-13 | [`ASM GLOBAL`](https://google.com/search?q=ASM+GLOBAL) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-13 | [`portadelaidefc`](https://google.com/search?q=portadelaidefc) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
