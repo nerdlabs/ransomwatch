@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-01 | [`http://centroedilemilano.com`](https://google.com/search?q=http%3A%2F%2Fcentroedilemilano.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-01 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-14 | [`SheelaFoam`](https://google.com/search?q=SheelaFoam) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`4set.es`](https://google.com/search?q=4set.es) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`diagnostechs`](https://google.com/search?q=diagnostechs) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
-| 2023-11-14 | [`Execuzen`](https://google.com/search?q=Execuzen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
