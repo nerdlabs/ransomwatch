@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-01 | [`HTC Global Services`](https://google.com/search?q=HTC+Global+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-30 | [`hnncsb.org`](https://google.com/search?q=hnncsb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-30 | [`Bauwerk Boen Group`](https://google.com/search?q=Bauwerk+Boen+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-14 | [`Execuzen`](https://google.com/search?q=Execuzen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.landercountynv.org`](https://google.com/search?q=www.landercountynv.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-14 | [`www.sosbonedocs.com`](https://google.com/search?q=www.sosbonedocs.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-14 | [`www.carespring.com`](https://google.com/search?q=www.carespring.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
