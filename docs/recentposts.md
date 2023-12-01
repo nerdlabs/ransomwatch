@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-01 | [`Hello Jacobs from RVC`](https://google.com/search?q=Hello+Jacobs+from+RVC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-01 | [`Hello Cristina from Law Offices of John E Hill`](https://google.com/search?q=Hello+Cristina+from+Law+Offices+of+John+E+Hill) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-01 | [`Iptor`](https://google.com/search?q=Iptor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-14 | [`Gnome Landscapes`](https://google.com/search?q=Gnome+Landscapes) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`www.maytec.de`](https://google.com/search?q=www.maytec.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-11-14 | [`Naftor and Grupa Pern (Naftoport/ SIARKOPOL/ SARMATIA/ NAFTOSERWIS) is the most dangerous `](https://google.com/search?q=Naftor+and+Grupa+Pern+%28Naftoport%2F+SIARKOPOL%2F+SARMATIA%2F+NAFTOSERWIS%29+is+the+most+dangerous+) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-14 | [`SheelaFoam`](https://google.com/search?q=SheelaFoam) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
