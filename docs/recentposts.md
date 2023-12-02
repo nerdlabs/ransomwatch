@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-02 | [`Lisa Mayer CA, Professional Corporation`](https://google.com/search?q=Lisa+Mayer+CA%2C+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`bboed.org`](https://google.com/search?q=bboed.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-02 | [`royaleinternational.com`](https://google.com/search?q=royaleinternational.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`www.inseinc.com`](https://google.com/search?q=www.inseinc.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`Premise Health`](https://google.com/search?q=Premise+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-14 | [`ConSpare`](https://google.com/search?q=ConSpare) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-14 | [`www.agromatic.de`](https://google.com/search?q=www.agromatic.de) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-14 | [`www.cmcsheetmetal.com`](https://google.com/search?q=www.cmcsheetmetal.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
