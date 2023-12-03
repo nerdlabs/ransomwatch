@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-03 | [`Bern Hotels & Resort s`](https://google.com/search?q=Bern+Hotels+%26+Resort+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox and Twitch, two of their affected cl`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox+and+Twitch%2C+two+of+their+affected+cl) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox, one of their affected clients, indi`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox%2C+one+of+their+affected+clients%2C+indi) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`Lisa Mayer CA, Professional Corporation`](https://google.com/search?q=Lisa+Mayer+CA%2C+Professional+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`Wyatt Detention Center`](https://google.com/search?q=Wyatt+Detention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Guntert & Zimmerman`](https://google.com/search?q=Guntert+%26+Zimmerman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`MeridianLink`](https://google.com/search?q=MeridianLink) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-15 | [`Premise Health`](https://google.com/search?q=Premise+Health) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
