@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-04 | [`Getrix`](https://google.com/search?q=Getrix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-04 | [`Evnhcmc`](https://google.com/search?q=Evnhcmc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-04 | [`www.ufresources.com`](https://google.com/search?q=www.ufresources.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-04 | [`nida.com`](https://google.com/search?q=nida.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`Global Technologies Racing Ltd`](https://google.com/search?q=Global+Technologies+Racing+Ltd) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`kwhfreeze.fi`](https://google.com/search?q=kwhfreeze.fi) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`Thompson Candy`](https://google.com/search?q=Thompson+Candy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-15 | [`Road Scholar Transport`](https://google.com/search?q=Road+Scholar+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
