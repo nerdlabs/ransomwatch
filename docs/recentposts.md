@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-04 | [`www.ufresources.com`](https://google.com/search?q=www.ufresources.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-04 | [`nida.com`](https://google.com/search?q=nida.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-03 | [`mirle.com.tw`](https://google.com/search?q=mirle.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-03 | [`Bern Hotels & Resort s`](https://google.com/search?q=Bern+Hotels+%26+Resort+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`Thompson Candy`](https://google.com/search?q=Thompson+Candy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Road Scholar Transport`](https://google.com/search?q=Road+Scholar+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`KaDeWe`](https://google.com/search?q=KaDeWe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-15 | [`Wyatt Detention Center`](https://google.com/search?q=Wyatt+Detention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
