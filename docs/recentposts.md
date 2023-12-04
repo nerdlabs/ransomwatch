@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-04 | [`Tipalti`](https://google.com/search?q=Tipalti) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-04 | [`www.cmsc.com`](https://google.com/search?q=www.cmsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-04 | [`ychlccsc.edu.hk`](https://google.com/search?q=ychlccsc.edu.hk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-04 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`Proforma Albrecht`](https://google.com/search?q=Proforma+Albrecht) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Fgs`](https://google.com/search?q=Fgs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Trademark Property`](https://google.com/search?q=Trademark+Property) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-15 | [`Nomot`](https://google.com/search?q=Nomot) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
