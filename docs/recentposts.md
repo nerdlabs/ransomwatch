@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-05 | [`Akumin`](https://google.com/search?q=Akumin) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-05 | [`CLATSKANIEPUD`](https://google.com/search?q=CLATSKANIEPUD) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-05 | [`restargp.com`](https://google.com/search?q=restargp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`concertus.co.uk`](https://google.com/search?q=concertus.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`chicagotrading.com`](https://google.com/search?q=chicagotrading.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`MeridianLink fails to file with the SEC..so we do it for them + 24 hours to pay`](https://google.com/search?q=MeridianLink+fails+to+file+with+the+SEC..so+we+do+it+for+them+%2B+24+hours+to+pay) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-15 | [`adyne.com`](https://google.com/search?q=adyne.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-15 | [`Guardian Alarm`](https://google.com/search?q=Guardian+Alarm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
