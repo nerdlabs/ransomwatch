@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-05 | [`mapc.org`](https://google.com/search?q=mapc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`skalar.com`](https://google.com/search?q=skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-12-05 | [`Rudolf-Venture Chemical Inc - Part 1`](https://google.com/search?q=Rudolf-Venture+Chemical+Inc+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-05 | [`Akumin`](https://google.com/search?q=Akumin) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`Toyota Financial`](https://google.com/search?q=Toyota+Financial) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-16 | [`owensgroup.uk`](https://google.com/search?q=owensgroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`Decatur Independent%20School%20District`](https://google.com/search?q=Decatur+Independent%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-15 | [`chicagotrading.com`](https://google.com/search?q=chicagotrading.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
