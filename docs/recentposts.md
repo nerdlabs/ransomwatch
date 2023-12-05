@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-05 | [`Rosens Diversified Inc `](https://google.com/search?q=Rosens+Diversified+Inc+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-05 | [`http://fps.com`](https://google.com/search?q=http%3A%2F%2Ffps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-05 | [`http://www.henry.k12.ga.us`](https://google.com/search?q=http%3A%2F%2Fwww.henry.k12.ga.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-04 | [`www.greatlakestech.net`](https://google.com/search?q=www.greatlakestech.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`Yamaha Motor%20Philippines%2CInc.`](https://google.com/search?q=Yamaha+Motor%2520Philippines%252CInc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-15 | [`PIKE Technologies`](https://google.com/search?q=PIKE+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-15 | [`Cardinal MetalWorks`](https://google.com/search?q=Cardinal+MetalWorks) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-15 | [`EOS`](https://google.com/search?q=EOS) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
