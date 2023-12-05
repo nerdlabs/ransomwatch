@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-05 | [`restargp.com`](https://google.com/search?q=restargp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`concertus.co.uk`](https://google.com/search?q=concertus.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-12-05 | [`Bowden Barlow Law PA`](https://google.com/search?q=Bowden+Barlow+Law+PA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-05 | [`Rosens Diversified Inc `](https://google.com/search?q=Rosens+Diversified+Inc+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-15 | [`adyne.com`](https://google.com/search?q=adyne.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-15 | [`Guardian Alarm`](https://google.com/search?q=Guardian+Alarm) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-15 | [`SCOLARI Srl`](https://google.com/search?q=SCOLARI+Srl) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-15 | [`Yamaha Motor%20Philippines%2CInc.`](https://google.com/search?q=Yamaha+Motor%2520Philippines%252CInc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
