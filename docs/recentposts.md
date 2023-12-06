@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-06 | [`Acero Engineering`](https://google.com/search?q=Acero+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-06 | [`Sagent`](https://google.com/search?q=Sagent) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`polyclinique-cotentin.com`](https://google.com/search?q=polyclinique-cotentin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`labelians.fr`](https://google.com/search?q=labelians.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-16 | [`hsksgreenhalgh.co.uk`](https://google.com/search?q=hsksgreenhalgh.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-16 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`Informist Media (Unpay)`](https://google.com/search?q=Informist+Media+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-16 | [`planethomelending.com`](https://google.com/search?q=planethomelending.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
