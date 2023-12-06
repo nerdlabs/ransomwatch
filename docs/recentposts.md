@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-06 | [`Deutsche Energie-Agentur`](https://google.com/search?q=Deutsche+Energie-Agentur) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-06 | [`Compass Group Italia`](https://google.com/search?q=Compass+Group+Italia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-06 | [`ACCU Reference Medical Lab`](https://google.com/search?q=ACCU+Reference+Medical+Lab) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`Acero Engineering`](https://google.com/search?q=Acero+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-17 | [`Aceromex (Unpay-Full public)`](https://google.com/search?q=Aceromex+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-17 | [`Chung Hwa Chemical Industrial Works (Unpay-Full public)`](https://google.com/search?q=Chung+Hwa+Chemical+Industrial+Works+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-16 | [`krblaw.com`](https://google.com/search?q=krblaw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-16 | [`hsksgreenhalgh.co.uk`](https://google.com/search?q=hsksgreenhalgh.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
