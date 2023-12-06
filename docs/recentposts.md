@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-06 | [`carrellblanton.com`](https://google.com/search?q=carrellblanton.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-06 | [`Aqualectra Holdings`](https://google.com/search?q=Aqualectra+Holdings) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-06 | [`Campbell County Schools `](https://google.com/search?q=Campbell+County+Schools+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`Deutsche Energie-Agentur`](https://google.com/search?q=Deutsche+Energie-Agentur) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-17 | [`villanuevadelaserena.es`](https://google.com/search?q=villanuevadelaserena.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-17 | [`Consilium staffing%20llc`](https://google.com/search?q=Consilium+staffing%2520llc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-17 | [`24/7 Express Logistics (Unpay-Full public)`](https://google.com/search?q=24%2F7+Express+Logistics+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-17 | [`Aceromex (Unpay-Full public)`](https://google.com/search?q=Aceromex+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
