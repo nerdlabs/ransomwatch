@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`citizenswv.com`](https://google.com/search?q=citizenswv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`bpce.com`](https://google.com/search?q=bpce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`usherbrooke.ca`](https://google.com/search?q=usherbrooke.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`hopto.com`](https://google.com/search?q=hopto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-17 | [`WellLife Network%20Inc.`](https://google.com/search?q=WellLife+Network%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-17 | [`Metro MPLS`](https://google.com/search?q=Metro+MPLS) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`www.kwikind.com`](https://google.com/search?q=www.kwikind.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-17 | [`ATC SA`](https://google.com/search?q=ATC+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
