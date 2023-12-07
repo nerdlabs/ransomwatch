@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`omegapainclinic.com`](https://google.com/search?q=omegapainclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`denave.com`](https://google.com/search?q=denave.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`bluewaterstt.com`](https://google.com/search?q=bluewaterstt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`AMCO Proteins`](https://google.com/search?q=AMCO+Proteins) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-19 | [`Autonomous Flight - @autonomousfly`](https://google.com/search?q=Autonomous+Flight+-+%40autonomousfly) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-19 | [`Al****ia (Unpay)`](https://google.com/search?q=Al%2A%2A%2A%2Aia+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-11-18 | [`The DMC`](https://google.com/search?q=The+DMC) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-18 | [`onyourmark.org`](https://google.com/search?q=onyourmark.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
