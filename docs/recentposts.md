@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`hopto.com`](https://google.com/search?q=hopto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`Tryax Realty Management - Press Release`](https://google.com/search?q=Tryax+Realty+Management+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-06 | [`syrtech.com`](https://google.com/search?q=syrtech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-06 | [`carrellblanton.com`](https://google.com/search?q=carrellblanton.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-17 | [`ATC SA`](https://google.com/search?q=ATC+SA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-17 | [`haesungds.com`](https://google.com/search?q=haesungds.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-11-17 | [`http://www.selecteducationgroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.selecteducationgroup.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-11-17 | [`villanuevadelaserena.es`](https://google.com/search?q=villanuevadelaserena.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
