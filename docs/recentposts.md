@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-07 | [`AMCO Proteins`](https://google.com/search?q=AMCO+Proteins) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`SML Group`](https://google.com/search?q=SML+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`Tasteful Selections`](https://google.com/search?q=Tasteful+Selections) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-07 | [`www.warepet.com`](https://google.com/search?q=www.warepet.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-18 | [`onyourmark.org`](https://google.com/search?q=onyourmark.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-18 | [`nealbrothers.co.uk`](https://google.com/search?q=nealbrothers.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-11-18 | [`generalrefrig.com`](https://google.com/search?q=generalrefrig.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-18 | [`pruitthealth.com`](https://google.com/search?q=pruitthealth.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
