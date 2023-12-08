@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-08 | [`California Innovations`](https://google.com/search?q=California+Innovations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Silvent North America`](https://google.com/search?q=Silvent+North+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`GreenWaste Recovery`](https://google.com/search?q=GreenWaste+Recovery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Burton Wire & Cable`](https://google.com/search?q=Burton+Wire+%26+Cable) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-21 | [`helifrusa.com`](https://google.com/search?q=helifrusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-21 | [`rcmoore.com`](https://google.com/search?q=rcmoore.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-21 | [`www.enware.com.au`](https://google.com/search?q=www.enware.com.au) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
-| 2023-11-21 | [`sabre.co.uk`](https://google.com/search?q=sabre.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
