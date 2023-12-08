@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-08 | [`GVM`](https://google.com/search?q=GVM) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`AG Consulting Engineering`](https://google.com/search?q=AG+Consulting+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Greater Richmond Transit`](https://google.com/search?q=Greater+Richmond+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Kuriyama of America`](https://google.com/search?q=Kuriyama+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-20 | [`brownintegratedlogistics.com`](https://google.com/search?q=brownintegratedlogistics.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-20 | [`British Library`](https://google.com/search?q=British+Library) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-19 | [`Tackle West`](https://google.com/search?q=Tackle+West) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-11-19 | [`U.L. COLEMAN COMPANIES`](https://google.com/search?q=U.L.+COLEMAN+COMPANIES) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
