@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-08 | [`http://www.golfzon.com`](https://google.com/search?q=http%3A%2F%2Fwww.golfzon.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-08 | [`aw-lawyers.com`](https://google.com/search?q=aw-lawyers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-08 | [`midlandindustries.com`](https://google.com/search?q=midlandindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-08 | [`California Innovations`](https://google.com/search?q=California+Innovations) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-21 | [`Growers Express`](https://google.com/search?q=Growers+Express) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-21 | [`P*******`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-11-21 | [`P******** T******`](https://google.com/search?q=P%2A%2A%2A%2A%2A%2A%2A%2A+T%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-11-21 | [`helifrusa.com`](https://google.com/search?q=helifrusa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
