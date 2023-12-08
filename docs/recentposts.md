@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-08 | [`Capespan`](https://google.com/search?q=Capespan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Becker Furniture World`](https://google.com/search?q=Becker+Furniture+World) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Payne Hicks Beach`](https://google.com/search?q=Payne+Hicks+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Vitro Plus`](https://google.com/search?q=Vitro+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-20 | [`nybravestfcu.org`](https://google.com/search?q=nybravestfcu.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-20 | [`Hampton Newport News CSB`](https://google.com/search?q=Hampton+Newport+News+CSB) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-20 | [`www.etude-villa.fr`](https://google.com/search?q=www.etude-villa.fr) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-11-20 | [`UPDATE! FEAM Maintenance`](https://google.com/search?q=UPDATE%21+FEAM+Maintenance) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
