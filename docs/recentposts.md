@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`Goiasa`](https://google.com/search?q=Goiasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`r-ab.de`](https://google.com/search?q=r-ab.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`ipp-sa.com`](https://google.com/search?q=ipp-sa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`igt.nl`](https://google.com/search?q=igt.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-23 | [`officinaverdedesign.it`](https://google.com/search?q=officinaverdedesign.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-23 | [`Springfield Area%20Chamber%20of%20Commerce`](https://google.com/search?q=Springfield+Area%2520Chamber%2520of%2520Commerce) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-11-23 | [`Trylon TSF%20Inc.`](https://google.com/search?q=Trylon+TSF%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-11-23 | [`Fidelity National Financial`](https://google.com/search?q=Fidelity+National+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
