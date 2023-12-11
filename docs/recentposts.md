@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`zailaboratory.com`](https://google.com/search?q=zailaboratory.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`ISC Consulting Engineers`](https://google.com/search?q=ISC+Consulting+Engineers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-11 | [`McCray &amp; Withrow`](https://google.com/search?q=McCray+%26amp%3B+Withrow) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-11 | [`The Glendale Unified School District`](https://google.com/search?q=The+Glendale+Unified+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-22 | [`Community Hospital`](https://google.com/search?q=Community+Hospital) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-22 | [`therobisongroup.com`](https://google.com/search?q=therobisongroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`merz-elektro.de`](https://google.com/search?q=merz-elektro.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-22 | [`art-eco.it`](https://google.com/search?q=art-eco.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
