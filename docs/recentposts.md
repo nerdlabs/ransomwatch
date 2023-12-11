@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`The Glendale Unified School District`](https://google.com/search?q=The+Glendale+Unified+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-10 | [`pronatindustries.com`](https://google.com/search?q=pronatindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-10 | [`policia.gob.pe`](https://google.com/search?q=policia.gob.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-10 | [`Holding Slovenske elektarne`](https://google.com/search?q=Holding+Slovenske+elektarne) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-22 | [`art-eco.it`](https://google.com/search?q=art-eco.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`euro-mod`](https://google.com/search?q=euro-mod) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`ds-granit.fr`](https://google.com/search?q=ds-granit.fr) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-11-21 | [`[DATA] Bakrie Group & Bakrie Sumatera Plantations`](https://google.com/search?q=%5BDATA%5D+Bakrie+Group+%26+Bakrie+Sumatera+Plantations) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
