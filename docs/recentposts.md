@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
 | 2023-12-11 | [`Hinsdale School District `](https://google.com/search?q=Hinsdale+School+District+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-11 | [`MSD Information tech nology`](https://google.com/search?q=MSD+Information+tech+nology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Studio MF`](https://google.com/search?q=Studio+MF) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-22 | [`McHale Landscape Design`](https://google.com/search?q=McHale+Landscape+Design) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-22 | [`IQ Supply Solutions`](https://google.com/search?q=IQ+Supply+Solutions) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-22 | [`Alspec`](https://google.com/search?q=Alspec) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-22 | [`Custom Engineering & Fabrication, Inc.`](https://google.com/search?q=Custom+Engineering+%26+Fabrication%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
