@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`McCray &amp; Withrow`](https://google.com/search?q=McCray+%26amp%3B+Withrow) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-11 | [`The Glendale Unified School District`](https://google.com/search?q=The+Glendale+Unified+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-10 | [`pronatindustries.com`](https://google.com/search?q=pronatindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-10 | [`policia.gob.pe`](https://google.com/search?q=policia.gob.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-22 | [`merz-elektro.de`](https://google.com/search?q=merz-elektro.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`art-eco.it`](https://google.com/search?q=art-eco.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-22 | [`euro-mod`](https://google.com/search?q=euro-mod) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-22 | [`ds-granit.fr`](https://google.com/search?q=ds-granit.fr) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
