@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-12 | [`GlobalSpec`](https://google.com/search?q=GlobalSpec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-12 | [`woodruffenterprises.com`](https://google.com/search?q=woodruffenterprises.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-12 | [`dena.de`](https://google.com/search?q=dena.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`shareharris.com`](https://google.com/search?q=shareharris.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-24 | [`Energy China`](https://google.com/search?q=Energy+China) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-24 | [`ribolia.com`](https://google.com/search?q=ribolia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-24 | [`preidlhof.it`](https://google.com/search?q=preidlhof.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-24 | [`nrtw.org`](https://google.com/search?q=nrtw.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
