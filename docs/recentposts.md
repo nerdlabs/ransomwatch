@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-12 | [`Mitrani Caballero Oj am & Ruiz Moreno - A bogados`](https://google.com/search?q=Mitrani+Caballero+Oj+am+%26+Ruiz+Moreno+-+A+bogados) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`The Teaching Company , LLC`](https://google.com/search?q=The+Teaching+Company+%2C+LLC) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-12 | [`tradewindscorp-insbrok.com`](https://google.com/search?q=tradewindscorp-insbrok.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`petrotec.com.qa`](https://google.com/search?q=petrotec.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-24 | [`TJM PRODUCTS PTY. LTD`](https://google.com/search?q=TJM+PRODUCTS+PTY.+LTD) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-24 | [`Spectrum Solutions LLC`](https://google.com/search?q=Spectrum+Solutions+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-23 | [`des-ae.com`](https://google.com/search?q=des-ae.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-23 | [`B%2BP Ger%C3%BCstbau%20GmbH`](https://google.com/search?q=B%252BP+Ger%25C3%25BCstbau%2520GmbH) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
