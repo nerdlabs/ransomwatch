@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-13 | [`Advantage Group International`](https://google.com/search?q=Advantage+Group+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-13 | [`www.thirdstreetbrewhouse.com`](https://google.com/search?q=www.thirdstreetbrewhouse.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-13 | [`Dameron Hospital`](https://google.com/search?q=Dameron+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-12-13 | [`Dillard Door &amp; Security`](https://google.com/search?q=Dillard+Door+%26amp%3B+Security) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-27 | [`sillslegal`](https://google.com/search?q=sillslegal) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-26 | [`AlJaber Engineering`](https://google.com/search?q=AlJaber+Engineering) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-11-26 | [`ALAB laboratoria (Unpay)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-11-25 | [`kenso.com.my`](https://google.com/search?q=kenso.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
