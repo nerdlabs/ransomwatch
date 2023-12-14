@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-14 | [`www.dillarddoor.com\$8.5M\USA\87gb\1%Disclosed`](https://google.com/search?q=www.dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`grandrapidswomenshealth.com`](https://google.com/search?q=grandrapidswomenshealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`austen-it.com`](https://google.com/search?q=austen-it.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-13 | [`dawsongroup.co.uk`](https://google.com/search?q=dawsongroup.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-27 | [`Fischione Instruments Inc.`](https://google.com/search?q=Fischione+Instruments+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-27 | [`Vertex Resource Group`](https://google.com/search?q=Vertex+Resource+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-27 | [`Co. Ltd.`](https://google.com/search?q=Co.+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-11-27 | [`Plastic Molding Technology Inc.`](https://google.com/search?q=Plastic+Molding+Technology+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
