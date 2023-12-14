@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-14 | [`converzemedia.com`](https://google.com/search?q=converzemedia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`bemes.com`](https://google.com/search?q=bemes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`Greenbox Loans Inc.`](https://google.com/search?q=Greenbox+Loans+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-14 | [`www.medi-market.be\$164M\Belgium\95gb\1%Disclosed`](https://google.com/search?q=www.medi-market.be%5C%24164M%5CBelgium%5C95gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`FYIdoctors`](https://google.com/search?q=FYIdoctors) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`NC Central University`](https://google.com/search?q=NC+Central+University) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-11-28 | [`Imt - Press Release`](https://google.com/search?q=Imt+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-11-28 | [`Law Offices of John E Hill - Press Release`](https://google.com/search?q=Law+Offices+of+John+E+Hill+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
