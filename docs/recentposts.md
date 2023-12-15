@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-15 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-15 | [`Commonwealth Capital`](https://google.com/search?q=Commonwealth+Capital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-15 | [`rpassoc.com`](https://google.com/search?q=rpassoc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-15 | [`goldwind.com`](https://google.com/search?q=goldwind.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`https://www.sprintersports.com`](https://google.com/search?q=https%3A%2F%2Fwww.sprintersports.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
 | 2023-11-28 | [`Axiom Construction &amp; Consulting`](https://google.com/search?q=Axiom+Construction+%26amp%3B+Consulting) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-11-28 | [`Medi-Market`](https://google.com/search?q=Medi-Market) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-11-28 | [`Odalys Vacances`](https://google.com/search?q=Odalys+Vacances) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
