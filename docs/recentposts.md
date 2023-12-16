@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-15 | [`hebeler.com`](https://google.com/search?q=hebeler.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-15 | [`Nexiga`](https://google.com/search?q=Nexiga) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-15 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-28 | [`dawsongroup.uk`](https://google.com/search?q=dawsongroup.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-28 | [`China Petrochemical Development`](https://google.com/search?q=China+Petrochemical+Development) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-28 | [`ALVImedica`](https://google.com/search?q=ALVImedica) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2023-11-28 | [`https://www.sprintersports.com`](https://google.com/search?q=https%3A%2F%2Fwww.sprintersports.com) | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) |
