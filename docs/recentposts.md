@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-16 | [`E & J Gallo Winery`](https://google.com/search?q=E+%26+J+Gallo+Winery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-16 | [`New York%20School%20of%20Interior%20Design`](https://google.com/search?q=New+York%2520School%2520of%2520Interior%2520Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-16 | [`cts.co.uk\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`Thillens`](https://google.com/search?q=Thillens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`SinglePoint Outsourcing`](https://google.com/search?q=SinglePoint+Outsourcing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-28 | [`nal.res.in`](https://google.com/search?q=nal.res.in) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-28 | [`hi-schoolpharmacy.com`](https://google.com/search?q=hi-schoolpharmacy.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
