@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-17 | [`Biomatrix LLC`](https://google.com/search?q=Biomatrix+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`rodo.co.uk`](https://google.com/search?q=rodo.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-16 | [`E & J Gallo Winery`](https://google.com/search?q=E+%26+J+Gallo+Winery) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-16 | [`New York%20School%20of%20Interior%20Design`](https://google.com/search?q=New+York%2520School%2520of%2520Interior%2520Design) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`Elston-nationwide`](https://google.com/search?q=Elston-nationwide) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`ALPS Ltd`](https://google.com/search?q=ALPS+Ltd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-11-29 | [`Thillens`](https://google.com/search?q=Thillens) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-28 | [`SinglePoint Outsourcing`](https://google.com/search?q=SinglePoint+Outsourcing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
