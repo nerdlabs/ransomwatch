@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`www.navitaspet.com`](https://google.com/search?q=www.navitaspet.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`www.vyera.com`](https://google.com/search?q=www.vyera.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`Electrical Connections`](https://google.com/search?q=Electrical+Connections) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-18 | [`www.hallidays.co.uk`](https://google.com/search?q=www.hallidays.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`Retailer Web Services`](https://google.com/search?q=Retailer+Web+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`tcw.com`](https://google.com/search?q=tcw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-29 | [`Sparex`](https://google.com/search?q=Sparex) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-29 | [`Continental Shipping Line`](https://google.com/search?q=Continental+Shipping+Line) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
