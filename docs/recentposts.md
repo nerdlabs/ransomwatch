@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`C?????z????`](https://google.com/search?q=C%3F%3F%3F%3F%3Fz%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`The CM Paula`](https://google.com/search?q=The+CM+Paula) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`parat-technology.com`](https://google.com/search?q=parat-technology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-18 | [`nationalnail.com\$678.9M\USA\195gb\&lt;1%DISCLOSED`](https://google.com/search?q=nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`Lydall, Inc.`](https://google.com/search?q=Lydall%2C+Inc.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-29 | [`Protected: skalar.com`](https://google.com/search?q=Protected%3A+skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-11-29 | [`Noble Mountain Tree Farm`](https://google.com/search?q=Noble+Mountain+Tree+Farm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-29 | [`EDGE Realty Partners`](https://google.com/search?q=EDGE+Realty+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
