@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-18 | [`lajollagroup.com\$35.2M\USA\283gb\&lt;1%DISCLOSED`](https://google.com/search?q=lajollagroup.com%5C%2435.2M%5CUSA%5C283gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`dillarddoor.com\$8.5M\USA\87gb\&lt;1%DISCLOSED`](https://google.com/search?q=dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`www.navitaspet.com`](https://google.com/search?q=www.navitaspet.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`www.vyera.com`](https://google.com/search?q=www.vyera.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`SurvTech Solutions`](https://google.com/search?q=SurvTech+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`Byfod`](https://google.com/search?q=Byfod) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-11-29 | [`Retailer Web Services`](https://google.com/search?q=Retailer+Web+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-11-29 | [`tcw.com`](https://google.com/search?q=tcw.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
