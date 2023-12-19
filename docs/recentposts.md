@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-19 | [`cieautomotive.com\$3.6B\Spain\2.6tb\&lt;1%DISCLOSED`](https://google.com/search?q=cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-19 | [`Kauno Technologijos Universitetas`](https://google.com/search?q=Kauno+Technologijos+Universitetas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-19 | [`Richard Harris Personal Injury Law Firm`](https://google.com/search?q=Richard+Harris+Personal+Injury+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-19 | [`Schoepe Display`](https://google.com/search?q=Schoepe+Display) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`ontariopork.on.ca`](https://google.com/search?q=ontariopork.on.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-11-29 | [`Chetu `](https://google.com/search?q=Chetu+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-29 | [`Alpura`](https://google.com/search?q=Alpura) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-11-29 | [`Protected: Name is hidden`](https://google.com/search?q=Protected%3A+Name+is+hidden) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
