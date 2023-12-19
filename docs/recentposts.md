@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-19 | [`Kauno Technologijos Universitetas`](https://google.com/search?q=Kauno+Technologijos+Universitetas) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-19 | [`Richard Harris Personal Injury Law Firm`](https://google.com/search?q=Richard+Harris+Personal+Injury+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-19 | [`Schoepe Display`](https://google.com/search?q=Schoepe+Display) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-19 | [`Waldners`](https://google.com/search?q=Waldners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-29 | [`Chetu `](https://google.com/search?q=Chetu+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-11-29 | [`Alpura`](https://google.com/search?q=Alpura) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-11-29 | [`Protected: Name is hidden`](https://google.com/search?q=Protected%3A+Name+is+hidden) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
-| 2023-11-29 | [`***s****** ***t*** *e****** ***`](https://google.com/search?q=%2A%2A%2As%2A%2A%2A%2A%2A%2A+%2A%2A%2At%2A%2A%2A+%2Ae%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
