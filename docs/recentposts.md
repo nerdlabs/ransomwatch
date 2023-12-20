@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`smudlers.com`](https://google.com/search?q=smudlers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-20 | [`Rockford Gastroenterology Associates (Unpay)`](https://google.com/search?q=Rockford+Gastroenterology+Associates+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`HALLIDAYS GROUP LIMITED (Unpay)`](https://google.com/search?q=HALLIDAYS+GROUP+LIMITED+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`Die Unfallkasse ThÃ¼ringen (Unpay)`](https://google.com/search?q=Die+Unfallkasse+Th%C3%83%C2%BCringen+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-01 | [`www.grupoprides.com`](https://google.com/search?q=www.grupoprides.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-12-01 | [`HTC Global Services`](https://google.com/search?q=HTC+Global+Services) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-11-30 | [`hnncsb.org`](https://google.com/search?q=hnncsb.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-11-30 | [`Bauwerk Boen Group`](https://google.com/search?q=Bauwerk+Boen+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
