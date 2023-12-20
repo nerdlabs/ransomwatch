@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-20 | [`spiritleatherworks.com`](https://google.com/search?q=spiritleatherworks.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-19 | [`mtsd-vt.org`](https://google.com/search?q=mtsd-vt.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-19 | [`Air Sino-Euro Associates Travel Pte. Ltd`](https://google.com/search?q=Air+Sino-Euro+Associates+Travel+Pte.+Ltd) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-19 | [`chuzefitness.com`](https://google.com/search?q=chuzefitness.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-11-30 | [`www.verdecora.es`](https://google.com/search?q=www.verdecora.es) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-30 | [`www.sciencehistory.org`](https://google.com/search?q=www.sciencehistory.org) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
 | 2023-11-30 | [`King Edward VII's Hospital`](https://google.com/search?q=King+Edward+VII%27s+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-11-30 | [`Servicio Móvil`](https://google.com/search?q=Servicio+M%C3%B3vil) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
