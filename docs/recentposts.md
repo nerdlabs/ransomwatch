@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-21 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Packaging Solutions`](https://google.com/search?q=Packaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-02 | [`IRC Engineering`](https://google.com/search?q=IRC+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-01 | [`Kellett %26%20Bartholow%20PLLC`](https://google.com/search?q=Kellett+%2526%2520Bartholow%2520PLLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-01 | [`Hello Jacobs from RVC`](https://google.com/search?q=Hello+Jacobs+from+RVC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-01 | [`Hello Cristina from Law Offices of John E Hill`](https://google.com/search?q=Hello+Cristina+from+Law+Offices+of+John+E+Hill) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
