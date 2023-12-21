@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-21 | [`dbmgroup.com\$43.6M\USA\110gb\&lt;1%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-21 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay-Full public)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-21 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-02 | [`royaleinternational.com`](https://google.com/search?q=royaleinternational.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-02 | [`www.inseinc.com`](https://google.com/search?q=www.inseinc.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-02 | [`IRC Engineering`](https://google.com/search?q=IRC+Engineering) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-01 | [`Kellett %26%20Bartholow%20PLLC`](https://google.com/search?q=Kellett+%2526%2520Bartholow%2520PLLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
