@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Packaging Solutions`](https://google.com/search?q=Packaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Owen Quilty Professional`](https://google.com/search?q=Owen+Quilty+Professional) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-20 | [`ALAB laboratoria (Unpay-Full public)`](https://google.com/search?q=ALAB+laboratoria+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-01 | [`Hello Jacobs from RVC`](https://google.com/search?q=Hello+Jacobs+from+RVC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-01 | [`Hello Cristina from Law Offices of John E Hill`](https://google.com/search?q=Hello+Cristina+from+Law+Offices+of+John+E+Hill) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-01 | [`Iptor`](https://google.com/search?q=Iptor) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-01 | [`elsewedyelectric.com`](https://google.com/search?q=elsewedyelectric.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
