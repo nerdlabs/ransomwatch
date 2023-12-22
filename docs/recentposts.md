@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-22 | [`VF Corporation`](https://google.com/search?q=VF+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-22 | [`csmsa.com.ar`](https://google.com/search?q=csmsa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`ciasc.mx`](https://google.com/search?q=ciasc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`www.whafh.com`](https://google.com/search?q=www.whafh.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-04 | [`www.greatlakestech.net`](https://google.com/search?q=www.greatlakestech.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-04 | [`Full access to the school network USA`](https://google.com/search?q=Full+access+to+the+school+network+USA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2023-12-04 | [`Tipalti`](https://google.com/search?q=Tipalti) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-04 | [`www.cmsc.com`](https://google.com/search?q=www.cmsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
