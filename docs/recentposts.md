@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-22 | [`esepac.com`](https://google.com/search?q=esepac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`denford.co.uk`](https://google.com/search?q=denford.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-21 | [`Unite Here`](https://google.com/search?q=Unite+Here) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-21 | [`hunterbuildings.com\$130.4M\USA\166gb\&lt;1%DISCLOSED`](https://google.com/search?q=hunterbuildings.com%5C%24130.4M%5CUSA%5C166gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-03 | [`mirle.com.tw`](https://google.com/search?q=mirle.com.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-03 | [`Bern Hotels & Resort s`](https://google.com/search?q=Bern+Hotels+%26+Resort+s) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox and Twitch, two of their affected cl`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox+and+Twitch%2C+two+of+their+affected+cl) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-03 | [`Tipalti claimed as a victim - but we'll extort Roblox, one of their affected clients, indi`](https://google.com/search?q=Tipalti+claimed+as+a+victim+-+but+we%27ll+extort+Roblox%2C+one+of+their+affected+clients%2C+indi) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
