@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-22 | [`xeinadin.com`](https://google.com/search?q=xeinadin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`igs-inc.com`](https://google.com/search?q=igs-inc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`sterlinghomes.com.au`](https://google.com/search?q=sterlinghomes.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`goldenc.com`](https://google.com/search?q=goldenc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-04 | [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-04 | [`Getrix`](https://google.com/search?q=Getrix) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-04 | [`Evnhcmc`](https://google.com/search?q=Evnhcmc) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-04 | [`www.ufresources.com`](https://google.com/search?q=www.ufresources.com) | [noescape](https://ransomwatch.telemetry.ltd/#/profiles?id=noescape) |
