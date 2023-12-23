@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-23 | [`zurcherodioraven.com`](https://google.com/search?q=zurcherodioraven.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`quakerwindows.com\$271.6M\USA\233gb\&lt;1%DISCLOSED`](https://google.com/search?q=quakerwindows.com%5C%24271.6M%5CUSA%5C233gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-23 | [`castores.com.mx`](https://google.com/search?q=castores.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`concertus.co.uk`](https://google.com/search?q=concertus.co.uk) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2023-12-05 | [`Bowden Barlow Law PA`](https://google.com/search?q=Bowden+Barlow+Law+PA) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-05 | [`Rosens Diversified Inc `](https://google.com/search?q=Rosens+Diversified+Inc+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-05 | [`http://fps.com`](https://google.com/search?q=http%3A%2F%2Ffps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
