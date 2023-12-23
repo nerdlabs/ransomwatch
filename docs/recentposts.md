@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-23 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-22 | [`Navigation Financial Group`](https://google.com/search?q=Navigation+Financial+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-22 | [`VF Corporation`](https://google.com/search?q=VF+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-22 | [`csmsa.com.ar`](https://google.com/search?q=csmsa.com.ar) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`http://fps.com`](https://google.com/search?q=http%3A%2F%2Ffps.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-05 | [`http://www.henry.k12.ga.us`](https://google.com/search?q=http%3A%2F%2Fwww.henry.k12.ga.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-04 | [`www.greatlakestech.net`](https://google.com/search?q=www.greatlakestech.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-12-04 | [`Full access to the school network USA`](https://google.com/search?q=Full+access+to+the+school+network+USA) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
