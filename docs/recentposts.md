@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-24 | [`bkf-fleuren.de`](https://google.com/search?q=bkf-fleuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`avescorent.ch`](https://google.com/search?q=avescorent.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`Associates Family Dentistry`](https://google.com/search?q=Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`mapc.org`](https://google.com/search?q=mapc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`skalar.com`](https://google.com/search?q=skalar.com) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2023-12-05 | [`Rudolf-Venture Chemical Inc - Part 1`](https://google.com/search?q=Rudolf-Venture+Chemical+Inc+-+Part+1) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-05 | [`Akumin`](https://google.com/search?q=Akumin) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
