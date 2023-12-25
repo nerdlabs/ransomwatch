@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-25 | [`zrvp.ro`](https://google.com/search?q=zrvp.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`walkro.eu`](https://google.com/search?q=walkro.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`tecnifibre.com`](https://google.com/search?q=tecnifibre.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`hendelsinc.com`](https://google.com/search?q=hendelsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`fpz.com`](https://google.com/search?q=fpz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`Henry Schein Inc - Henry's " LOST SHINE "`](https://google.com/search?q=Henry+Schein+Inc+-+Henry%27s+%22+LOST+SHINE+%22) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-05 | [`TraCS Florida FSU`](https://google.com/search?q=TraCS+Florida+FSU) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-05 | [`laprensani.com`](https://google.com/search?q=laprensani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
