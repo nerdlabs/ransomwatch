@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-25 | [`cts.co.uk\$13.5 M\UK\945gb\100%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-25 | [`International Electr onic Machines Corp`](https://google.com/search?q=International+Electr+onic+Machines+Corp) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-25 | [`zrvp.ro`](https://google.com/search?q=zrvp.ro) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`walkro.eu`](https://google.com/search?q=walkro.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`polyclinique-cotentin.com`](https://google.com/search?q=polyclinique-cotentin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`labelians.fr`](https://google.com/search?q=labelians.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`fpz.com`](https://google.com/search?q=fpz.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-05 | [`Henry Schein Inc - Henry's " LOST SHINE "`](https://google.com/search?q=Henry+Schein+Inc+-+Henry%27s+%22+LOST+SHINE+%22) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
