@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-25 | [`hendelsinc.com`](https://google.com/search?q=hendelsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`co.pickens.sc.us`](https://google.com/search?q=co.pickens.sc.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`coastalplainsctr.org`](https://google.com/search?q=coastalplainsctr.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-05 | [`laprensani.com`](https://google.com/search?q=laprensani.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`aldoshoes.com`](https://google.com/search?q=aldoshoes.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-05 | [`ussignandmill.com`](https://google.com/search?q=ussignandmill.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2023-12-05 | [`mapc.org`](https://google.com/search?q=mapc.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
