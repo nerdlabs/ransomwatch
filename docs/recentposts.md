@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-26 | [`smbw.com.au`](https://google.com/search?q=smbw.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-26 | [`Abdali Hospital`](https://google.com/search?q=Abdali+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-26 | [`Tshwane University of Technology`](https://google.com/search?q=Tshwane+University+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-25 | [`http://www.blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fwww.blaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`Compass Group Italia`](https://google.com/search?q=Compass+Group+Italia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-06 | [`ACCU Reference Medical Lab`](https://google.com/search?q=ACCU+Reference+Medical+Lab) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-06 | [`Acero Engineering`](https://google.com/search?q=Acero+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-06 | [`Sagent`](https://google.com/search?q=Sagent) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
