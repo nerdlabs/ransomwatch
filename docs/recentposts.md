@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-27 | [`Aura Engineering, LLC`](https://google.com/search?q=Aura+Engineering%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-27 | [`FIRST 5 Santa Clara County`](https://google.com/search?q=FIRST+5+Santa+Clara+County) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-27 | [`Ultra Intelligence & Communications`](https://google.com/search?q=Ultra+Intelligence+%26+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-26 | [`richmont.edu`](https://google.com/search?q=richmont.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-06 | [`syrtech.com`](https://google.com/search?q=syrtech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-06 | [`carrellblanton.com`](https://google.com/search?q=carrellblanton.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2023-12-06 | [`Aqualectra Holdings`](https://google.com/search?q=Aqualectra+Holdings) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-06 | [`Campbell County Schools `](https://google.com/search?q=Campbell+County+Schools+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
