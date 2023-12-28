@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-28 | [`CVR Associates`](https://google.com/search?q=CVR+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-28 | [`hoffmanestates.org`](https://google.com/search?q=hoffmanestates.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-27 | [`EPS.RS`](https://google.com/search?q=EPS.RS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-27 | [`Aura Engineering, LLC`](https://google.com/search?q=Aura+Engineering%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`usherbrooke.ca`](https://google.com/search?q=usherbrooke.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`hopto.com`](https://google.com/search?q=hopto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-06 | [`Tryax Realty Management - Press Release`](https://google.com/search?q=Tryax+Realty+Management+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2023-12-06 | [`syrtech.com`](https://google.com/search?q=syrtech.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
