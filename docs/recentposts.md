@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-28 | [`Northland Mechanical Contractors`](https://google.com/search?q=Northland+Mechanical+Contractors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-28 | [`pbssystems.com\$71.5M\Canada\202GB\&lt;1%DISCLOSED`](https://google.com/search?q=pbssystems.com%5C%2471.5M%5CCanada%5C202GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`CVR Associates`](https://google.com/search?q=CVR+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-28 | [`hoffmanestates.org`](https://google.com/search?q=hoffmanestates.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`citizenswv.com`](https://google.com/search?q=citizenswv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`bpce.com`](https://google.com/search?q=bpce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`usherbrooke.ca`](https://google.com/search?q=usherbrooke.ca) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`hopto.com`](https://google.com/search?q=hopto.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
