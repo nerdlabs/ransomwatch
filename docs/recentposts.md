@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-28 | [`dbmgroup.com\$43.6M\USA\110gb\100%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`bachoco.com.mx\$4.4B\Mexico\130GB\&lt;1%DISCLOSED`](https://google.com/search?q=bachoco.com.mx%5C%244.4B%5CMexico%5C130GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`Northland Mechanical Contractors`](https://google.com/search?q=Northland+Mechanical+Contractors) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-28 | [`pbssystems.com\$71.5M\Canada\202GB\&lt;1%DISCLOSED`](https://google.com/search?q=pbssystems.com%5C%2471.5M%5CCanada%5C202GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`signiflow.com`](https://google.com/search?q=signiflow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`directradiology.com`](https://google.com/search?q=directradiology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`citizenswv.com`](https://google.com/search?q=citizenswv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`bpce.com`](https://google.com/search?q=bpce.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
