@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-29 | [`Wesgar Inc.`](https://google.com/search?q=Wesgar+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-28 | [`gdi.com\$6.1B\Canada\700gb\&lt;1%DISCLOSED`](https://google.com/search?q=gdi.com%5C%246.1B%5CCanada%5C700gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`dbmgroup.com\$43.6M\USA\110gb\100%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-28 | [`bachoco.com.mx\$4.4B\Mexico\130GB\&lt;1%DISCLOSED`](https://google.com/search?q=bachoco.com.mx%5C%244.4B%5CMexico%5C130GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`www.warepet.com`](https://google.com/search?q=www.warepet.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-07 | [`neurocnv.com`](https://google.com/search?q=neurocnv.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-07 | [`signiflow.com`](https://google.com/search?q=signiflow.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`directradiology.com`](https://google.com/search?q=directradiology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
