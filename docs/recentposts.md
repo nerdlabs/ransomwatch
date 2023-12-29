@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-29 | [`coop.se\$6.5B\Sweden\257GB\&lt;1%DISCLOSED`](https://google.com/search?q=coop.se%5C%246.5B%5CSweden%5C257GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-29 | [`tridon.com.au\$34M\Australia\175GB\&lt;1%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-29 | [`Wesgar Inc.`](https://google.com/search?q=Wesgar+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-28 | [`gdi.com\$6.1B\Canada\700gb\&lt;1%DISCLOSED`](https://google.com/search?q=gdi.com%5C%246.1B%5CCanada%5C700gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`SML Group`](https://google.com/search?q=SML+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-07 | [`Tasteful Selections`](https://google.com/search?q=Tasteful+Selections) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-07 | [`www.warepet.com`](https://google.com/search?q=www.warepet.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2023-12-07 | [`neurocnv.com`](https://google.com/search?q=neurocnv.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
