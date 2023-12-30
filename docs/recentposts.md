@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-30 | [`Kenya Airways`](https://google.com/search?q=Kenya+Airways) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-12-30 | [`contimade.cz`](https://google.com/search?q=contimade.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-30 | [`eagersautomotive.com.au`](https://google.com/search?q=eagersautomotive.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-30 | [`Okada Manilla`](https://google.com/search?q=Okada+Manilla) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`GVM`](https://google.com/search?q=GVM) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`AG Consulting Engineering`](https://google.com/search?q=AG+Consulting+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Greater Richmond Transit`](https://google.com/search?q=Greater+Richmond+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-07 | [`Kuriyama of America`](https://google.com/search?q=Kuriyama+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
