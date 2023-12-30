@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-30 | [`Clearwinds`](https://google.com/search?q=Clearwinds) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-30 | [`Kenya Airways`](https://google.com/search?q=Kenya+Airways) | [ransomexx](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomexx) |
 | 2023-12-30 | [`contimade.cz`](https://google.com/search?q=contimade.cz) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`Payne Hicks Beach`](https://google.com/search?q=Payne+Hicks+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Vitro Plus`](https://google.com/search?q=Vitro+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`GVM`](https://google.com/search?q=GVM) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-07 | [`AG Consulting Engineering`](https://google.com/search?q=AG+Consulting+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
