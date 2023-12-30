@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-30 | [`Keyser Mason Ball`](https://google.com/search?q=Keyser+Mason+Ball) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Nej Inc was hacked`](https://google.com/search?q=Nej+Inc+was+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-30 | [`Clearwinds`](https://google.com/search?q=Clearwinds) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`Capespan`](https://google.com/search?q=Capespan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Becker Furniture World`](https://google.com/search?q=Becker+Furniture+World) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Payne Hicks Beach`](https://google.com/search?q=Payne+Hicks+Beach) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-08 | [`Vitro Plus`](https://google.com/search?q=Vitro+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
