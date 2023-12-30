@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-30 | [`Erbilbil Bilgisayar (You have 72 hours)`](https://google.com/search?q=Erbilbil+Bilgisayar+%28You+have+72+hours%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-29 | [`Banco Promerica de la República Dominicana`](https://google.com/search?q=Banco+Promerica+de+la+Rep%C3%BAblica+Dominicana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-12-29 | [`krijnen.be`](https://google.com/search?q=krijnen.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-29 | [`bellgroup.co.uk\$103.6M\UK\9GB\&lt;1%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`omegapainclinic.com`](https://google.com/search?q=omegapainclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`denave.com`](https://google.com/search?q=denave.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-07 | [`bluewaterstt.com`](https://google.com/search?q=bluewaterstt.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`AMCO Proteins`](https://google.com/search?q=AMCO+Proteins) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
