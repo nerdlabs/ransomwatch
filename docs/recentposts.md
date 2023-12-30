@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-30 | [`eagersautomotive.com.au`](https://google.com/search?q=eagersautomotive.com.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-30 | [`Okada Manilla`](https://google.com/search?q=Okada+Manilla) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-30 | [`Erbilbil Bilgisayar (You have 72 hours)`](https://google.com/search?q=Erbilbil+Bilgisayar+%28You+have+72+hours%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-29 | [`Banco Promerica de la República Dominicana`](https://google.com/search?q=Banco+Promerica+de+la+Rep%C3%BAblica+Dominicana) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-07 | [`Greater Richmond Transit`](https://google.com/search?q=Greater+Richmond+Transit) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`Kuriyama of America`](https://google.com/search?q=Kuriyama+of+America) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-07 | [`omegapainclinic.com`](https://google.com/search?q=omegapainclinic.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-07 | [`denave.com`](https://google.com/search?q=denave.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
