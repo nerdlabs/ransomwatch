@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-01 | [`Aspiration Training`](https://google.com/search?q=Aspiration+Training) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-30 | [`M?????n C?????? & W?? & The ???? G????`](https://google.com/search?q=M%3F%3F%3F%3F%3Fn+C%3F%3F%3F%3F%3F%3F+%26+W%3F%3F+%26+The+%3F%3F%3F%3F+G%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Keyser Mason Ball`](https://google.com/search?q=Keyser+Mason+Ball) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Nej Inc was hacked`](https://google.com/search?q=Nej+Inc+was+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`GreenWaste Recovery`](https://google.com/search?q=GreenWaste+Recovery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Burton Wire & Cable`](https://google.com/search?q=Burton+Wire+%26+Cable) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-08 | [`Capespan`](https://google.com/search?q=Capespan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-08 | [`Becker Furniture World`](https://google.com/search?q=Becker+Furniture+World) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
