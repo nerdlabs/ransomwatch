@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-04 | [`Diablo Valley Oncology and Hematology Medical Group - Press Release`](https://google.com/search?q=Diablo+Valley+Oncology+and+Hematology+Medical+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-03 | [`http://kcsdschools.net`](https://google.com/search?q=http%3A%2F%2Fkcsdschools.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-02 | [`Madison Capital & WPM & The Time Group`](https://google.com/search?q=Madison+Capital+%26+WPM+%26+The+Time+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-02 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`Travian Games`](https://google.com/search?q=Travian+Games) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-08 | [`http://www.golfzon.com`](https://google.com/search?q=http%3A%2F%2Fwww.golfzon.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2023-12-08 | [`aw-lawyers.com`](https://google.com/search?q=aw-lawyers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-08 | [`midlandindustries.com`](https://google.com/search?q=midlandindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
