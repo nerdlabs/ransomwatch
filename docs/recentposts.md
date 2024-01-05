@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-05 | [`Somerset Logistics`](https://google.com/search?q=Somerset+Logistics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-05 | [`ips-securex.com`](https://google.com/search?q=ips-securex.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-04 | [`Diablo Valley Oncology and Hematology Medical Group - Press Release`](https://google.com/search?q=Diablo+Valley+Oncology+and+Hematology+Medical+Group+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-03 | [`http://kcsdschools.net`](https://google.com/search?q=http%3A%2F%2Fkcsdschools.net) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`National Nail Corp`](https://google.com/search?q=National+Nail+Corp) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-08 | [`Tcman`](https://google.com/search?q=Tcman) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-08 | [`Travian Games`](https://google.com/search?q=Travian+Games) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-08 | [`http://www.golfzon.com`](https://google.com/search?q=http%3A%2F%2Fwww.golfzon.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
