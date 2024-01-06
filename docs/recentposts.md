@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-06 | [`Rehabilitation Supply`](https://google.com/search?q=Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-06 | [`Televerde`](https://google.com/search?q=Televerde) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-06 | [`The Lutheran World Federation`](https://google.com/search?q=The+Lutheran+World+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-05 | [`Proax Technologies LTD`](https://google.com/search?q=Proax+Technologies+LTD) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-08 | [`HMW - Press Release`](https://google.com/search?q=HMW+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-12-08 | [`Tri-city Medical%20Center`](https://google.com/search?q=Tri-city+Medical%2520Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2023-12-08 | [`Precision Technologies%20Group%20Ltd`](https://google.com/search?q=Precision+Technologies%2520Group%2520Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-12-08 | [`CIE Automotive`](https://google.com/search?q=CIE+Automotive) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
