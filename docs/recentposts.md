@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`CellNetix Pathology%20%26%20Laboratories%2C%20LLC`](https://google.com/search?q=CellNetix+Pathology%2520%2526%2520Laboratories%252C%2520LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-08 | [`morganpilate.com`](https://google.com/search?q=morganpilate.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-08 | [`mciwv.com`](https://google.com/search?q=mciwv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-10 | [`Holding Slovenske elektarne`](https://google.com/search?q=Holding+Slovenske+elektarne) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-10 | [`Hse`](https://google.com/search?q=Hse) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-09 | [`Qatar Racing and Equestrian Club`](https://google.com/search?q=Qatar+Racing+and+Equestrian+Club) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2023-12-09 | [`Graphic Solutions Group Inc (US)`](https://google.com/search?q=Graphic+Solutions+Group+Inc+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
