@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-08 | [`morganpilate.com`](https://google.com/search?q=morganpilate.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-08 | [`mciwv.com`](https://google.com/search?q=mciwv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-07 | [`capitalhealth.org`](https://google.com/search?q=capitalhealth.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-06 | [`Rehabilitation Supply`](https://google.com/search?q=Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-09 | [`Qatar Racing and Equestrian Club`](https://google.com/search?q=Qatar+Racing+and+Equestrian+Club) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-09 | [`Graphic Solutions Group Inc (US)`](https://google.com/search?q=Graphic+Solutions+Group+Inc+%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2023-12-08 | [`livanova.com`](https://google.com/search?q=livanova.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-08 | [`HMW - Press Release`](https://google.com/search?q=HMW+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
