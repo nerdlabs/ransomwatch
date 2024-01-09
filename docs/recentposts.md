@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-09 | [`http://delcoautomation.com`](https://google.com/search?q=http%3A%2F%2Fdelcoautomation.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-09 | [`Viridi`](https://google.com/search?q=Viridi) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Ito Pallpack Gruppen`](https://google.com/search?q=Ito+Pallpack+Gruppen) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Hunt Guillot &amp; Associates`](https://google.com/search?q=Hunt+Guillot+%26amp%3B+Associates) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`Studio MF`](https://google.com/search?q=Studio+MF) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Independent Recovery Resources, Inc.`](https://google.com/search?q=Independent+Recovery+Resources%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-11 | [`zailaboratory.com`](https://google.com/search?q=zailaboratory.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-11 | [`ISC Consulting Engineers`](https://google.com/search?q=ISC+Consulting+Engineers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
