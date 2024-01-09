@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-09 | [`Erbilbil Bilgisayar`](https://google.com/search?q=Erbilbil+Bilgisayar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-08 | [`www.halleonard.com.au`](https://google.com/search?q=www.halleonard.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-08 | [`Heller Industries`](https://google.com/search?q=Heller+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`The Glendale Unified School District`](https://google.com/search?q=The+Glendale+Unified+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-10 | [`pronatindustries.com`](https://google.com/search?q=pronatindustries.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-10 | [`policia.gob.pe`](https://google.com/search?q=policia.gob.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-10 | [`Holding Slovenske elektarne`](https://google.com/search?q=Holding+Slovenske+elektarne) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
