@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-09 | [`Ito Pallpack Gruppen`](https://google.com/search?q=Ito+Pallpack+Gruppen) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-09 | [`Hunt Guillot &amp; Associates`](https://google.com/search?q=Hunt+Guillot+%26amp%3B+Associates) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-01-09 | [`corinthcoke.com`](https://google.com/search?q=corinthcoke.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-09 | [`Erbilbil Bilgisayar`](https://google.com/search?q=Erbilbil+Bilgisayar) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`zailaboratory.com`](https://google.com/search?q=zailaboratory.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`ISC Consulting Engineers`](https://google.com/search?q=ISC+Consulting+Engineers) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-11 | [`McCray &amp; Withrow`](https://google.com/search?q=McCray+%26amp%3B+Withrow) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-11 | [`The Glendale Unified School District`](https://google.com/search?q=The+Glendale+Unified+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
