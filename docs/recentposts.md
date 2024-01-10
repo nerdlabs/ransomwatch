@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-10 | [`twt.co.za`](https://google.com/search?q=twt.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`tiautoinvestments.co.za`](https://google.com/search?q=tiautoinvestments.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`Group Bogart`](https://google.com/search?q=Group+Bogart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-10 | [`hartalega.com.my`](https://google.com/search?q=hartalega.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`ipp-sa.com`](https://google.com/search?q=ipp-sa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`igt.nl`](https://google.com/search?q=igt.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ransomwatch.telemetry.ltd/#/profiles?id=lorenz) |
-| 2023-12-11 | [`Hinsdale School District `](https://google.com/search?q=Hinsdale+School+District+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
