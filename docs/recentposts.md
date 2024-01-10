@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-10 | [`hartalega.com.my`](https://google.com/search?q=hartalega.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`agnesb.eu`](https://google.com/search?q=agnesb.eu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-09 | [`http://delcoautomation.com`](https://google.com/search?q=http%3A%2F%2Fdelcoautomation.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-09 | [`Viridi`](https://google.com/search?q=Viridi) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-11 | [`Hinsdale School District `](https://google.com/search?q=Hinsdale+School+District+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-11 | [`MSD Information tech nology`](https://google.com/search?q=MSD+Information+tech+nology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-11 | [`Studio MF`](https://google.com/search?q=Studio+MF) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-11 | [`Independent Recovery Resources, Inc.`](https://google.com/search?q=Independent+Recovery+Resources%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
