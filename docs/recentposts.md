@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-11 | [`Vincentz Network`](https://google.com/search?q=Vincentz+Network) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-11 | [`Limburg`](https://google.com/search?q=Limburg) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-11 | [`Water For People`](https://google.com/search?q=Water+For+People) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-11 | [`pactchangeslives.com`](https://google.com/search?q=pactchangeslives.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`Insomniac Games`](https://google.com/search?q=Insomniac+Games) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-12 | [`greenbriersportingclub.com`](https://google.com/search?q=greenbriersportingclub.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-11 | [`phillipsglobal.us`](https://google.com/search?q=phillipsglobal.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-11 | [`Goiasa`](https://google.com/search?q=Goiasa) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
