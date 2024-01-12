@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-12 | [`Republic Shipping Consolidators, Inc`](https://google.com/search?q=Republic+Shipping+Consolidators%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-12 | [`olea.com`](https://google.com/search?q=olea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-12 | [`Washington School%20For%20The%20Deaf`](https://google.com/search?q=Washington+School%2520For%2520The%2520Deaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-13 | [`www.thirdstreetbrewhouse.com`](https://google.com/search?q=www.thirdstreetbrewhouse.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-13 | [`Dameron Hospital`](https://google.com/search?q=Dameron+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-12-13 | [`Dillard Door &amp; Security`](https://google.com/search?q=Dillard+Door+%26amp%3B+Security) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-13 | [`cms.law`](https://google.com/search?q=cms.law) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
