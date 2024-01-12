@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`Republic Shipping Consolidators, Inc`](https://google.com/search?q=Republic+Shipping+Consolidators%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-12 | [`olea.com`](https://google.com/search?q=olea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-12 | [`Washington School%20For%20The%20Deaf`](https://google.com/search?q=Washington+School%2520For%2520The%2520Deaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-12 | [`asburyauto.com\$15.4B\USA\62GB\&lt;1%DISCLOSED`](https://google.com/search?q=asburyauto.com%5C%2415.4B%5CUSA%5C62GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-13 | [`Dameron Hospital`](https://google.com/search?q=Dameron+Hospital) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-12-13 | [`Dillard Door &amp; Security`](https://google.com/search?q=Dillard+Door+%26amp%3B+Security) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-13 | [`cms.law`](https://google.com/search?q=cms.law) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-13 | [`King Aerospace%2C%20Inc.`](https://google.com/search?q=King+Aerospace%252C%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
