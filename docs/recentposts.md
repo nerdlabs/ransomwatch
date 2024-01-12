@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-12 | [`Alliedwoundcare`](https://google.com/search?q=Alliedwoundcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-01-12 | [`Primeimaging`](https://google.com/search?q=Primeimaging) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-01-12 | [`automotionshade.com`](https://google.com/search?q=automotionshade.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-12 | [`R Robertson Insurance Brokers`](https://google.com/search?q=R+Robertson+Insurance+Brokers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-12 | [`tradewindscorp-insbrok.com`](https://google.com/search?q=tradewindscorp-insbrok.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`petrotec.com.qa`](https://google.com/search?q=petrotec.com.qa) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-12 | [`kitahirosima.jp`](https://google.com/search?q=kitahirosima.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-12 | [`airtechthelong.com.vn`](https://google.com/search?q=airtechthelong.com.vn) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
