@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-14 | [`SPARTAN Light Metal Products`](https://google.com/search?q=SPARTAN+Light+Metal+Products) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2024-01-14 | [`American International College`](https://google.com/search?q=American+International+College) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2024-01-14 | [`Hartl European Transport Company`](https://google.com/search?q=Hartl+European+Transport+Company) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2024-01-14 | [`Builcore`](https://google.com/search?q=Builcore) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-14 | [`www.odalys-vacances.com\$151.1M\France\548gb\1%Disclosed`](https://google.com/search?q=www.odalys-vacances.com%5C%24151.1M%5CFrance%5C548gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`Hyman Hayes Associat es`](https://google.com/search?q=Hyman+Hayes+Associat+es) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-14 | [`www.cieautomotive.com\$3.6B\Spain\2.6tb\1%Disclosed`](https://google.com/search?q=www.cieautomotive.com%5C%243.6B%5CSpain%5C2.6tb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-14 | [`www.nationalnail.com\$678.9M\USA\195gb\1%Disclosed`](https://google.com/search?q=www.nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
