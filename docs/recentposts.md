@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-14 | [`coop.se\$6.5B\Sweden\257GB\100%DISCLOSED`](https://google.com/search?q=coop.se%5C%246.5B%5CSweden%5C257GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-14 | [`amenitek.com`](https://google.com/search?q=amenitek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`Northeast Spine and Sports Medicine's`](https://google.com/search?q=Northeast+Spine+and+Sports+Medicine%27s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-13 | [`turascandinavia.com`](https://google.com/search?q=turascandinavia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-14 | [`mcs360.com`](https://google.com/search?q=mcs360.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-14 | [`www.isc.dk\$60.1M\Denmark\130gb\1%Disclosed`](https://google.com/search?q=www.isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-14 | [`www.dillarddoor.com\$8.5M\USA\87gb\1%Disclosed`](https://google.com/search?q=www.dillarddoor.com%5C%248.5M%5CUSA%5C87gb%5C1%25Disclosed) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-14 | [`grandrapidswomenshealth.com`](https://google.com/search?q=grandrapidswomenshealth.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
