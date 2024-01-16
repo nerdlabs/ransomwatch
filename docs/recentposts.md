@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-16 | [`Premium Guard`](https://google.com/search?q=Premium+Guard) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-16 | [`Bestway Sales`](https://google.com/search?q=Bestway+Sales) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-16 | [`TGS Transportation`](https://google.com/search?q=TGS+Transportation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-16 | [`www.fjohara.com`](https://google.com/search?q=www.fjohara.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-15 | [`Nexiga`](https://google.com/search?q=Nexiga) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-12-15 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-15 | [`Commonwealth Capital`](https://google.com/search?q=Commonwealth+Capital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-12-15 | [`rpassoc.com`](https://google.com/search?q=rpassoc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
