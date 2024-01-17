@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-17 | [`Rosens Diversified Inc`](https://google.com/search?q=Rosens+Diversified+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-17 | [`Stone, Avant &amp; Daniels`](https://google.com/search?q=Stone%2C+Avant+%26amp%3B+Daniels) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-16 | [`millgate.co.uk`](https://google.com/search?q=millgate.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-16 | [`Becker Logistics`](https://google.com/search?q=Becker+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-16 | [`cts.co.uk\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\&lt;1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-16 | [`CTS.CO.UK\$13.5 M\UK\945gb\1%DISCLOSED`](https://google.com/search?q=CTS.CO.UK%5C%2413.5+M%5CUK%5C945gb%5C1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-15 | [`hebeler.com`](https://google.com/search?q=hebeler.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
