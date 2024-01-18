@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-18 | [`digipwr.com`](https://google.com/search?q=digipwr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-18 | [`http://www.gocruisers.org`](https://google.com/search?q=http%3A%2F%2Fwww.gocruisers.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-18 | [`GROWTH by NCRC`](https://google.com/search?q=GROWTH+by+NCRC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-18 | [`jaffeandasher.com`](https://google.com/search?q=jaffeandasher.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-17 | [`Chetu`](https://google.com/search?q=Chetu) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`ATCO Products Inc`](https://google.com/search?q=ATCO+Products+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-17 | [`Biomatrix LLC`](https://google.com/search?q=Biomatrix+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2023-12-17 | [`rodo.co.uk`](https://google.com/search?q=rodo.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
