@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`evit.edu`](https://google.com/search?q=evit.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`foxsemicon.com`](https://google.com/search?q=foxsemicon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`www.projects-world.com`](https://google.com/search?q=www.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-18 | [`digipwr.com`](https://google.com/search?q=digipwr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`www.vyera.com`](https://google.com/search?q=www.vyera.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-18 | [`Electrical Connections`](https://google.com/search?q=Electrical+Connections) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-18 | [`www.hallidays.co.uk`](https://google.com/search?q=www.hallidays.co.uk) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
-| 2023-12-17 | [`Chetu`](https://google.com/search?q=Chetu) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
