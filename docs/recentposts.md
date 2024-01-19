@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-19 | [`seiu1000.org`](https://google.com/search?q=seiu1000.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`pratt.edu`](https://google.com/search?q=pratt.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`Martinaire Aviation`](https://google.com/search?q=Martinaire+Aviation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`dywidag.com`](https://google.com/search?q=dywidag.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-18 | [`parat-technology.com`](https://google.com/search?q=parat-technology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-18 | [`nationalnail.com\$678.9M\USA\195gb\&lt;1%DISCLOSED`](https://google.com/search?q=nationalnail.com%5C%24678.9M%5CUSA%5C195gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-18 | [`Viking Therapeutics reported to the SEC following a breach`](https://google.com/search?q=Viking+Therapeutics+reported+to+the+SEC+following+a+breach) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-18 | [`isc.dk\$60.1M\Denmark\130gb\&lt;1%DISCLOSED`](https://google.com/search?q=isc.dk%5C%2460.1M%5CDenmark%5C130gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
