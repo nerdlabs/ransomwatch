@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-20 | [`swiftair.com`](https://google.com/search?q=swiftair.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-20 | [`Sykes Consulting%2C%20Inc.`](https://google.com/search?q=Sykes+Consulting%252C%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-20 | [`intercityinvestments.com\$31.1M\USA\10gb\100%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-20 | [`Hamilton-Madison Hou se`](https://google.com/search?q=Hamilton-Madison+Hou+se) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-19 | [`Richard Harris Personal Injury Law Firm`](https://google.com/search?q=Richard+Harris+Personal+Injury+Law+Firm) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-19 | [`Schoepe Display`](https://google.com/search?q=Schoepe+Display) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-19 | [`Waldners`](https://google.com/search?q=Waldners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-19 | [`Succes Schoonmaak`](https://google.com/search?q=Succes+Schoonmaak) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
