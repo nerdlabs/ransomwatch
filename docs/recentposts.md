@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-20 | [`Anna Jaques Hospital`](https://google.com/search?q=Anna+Jaques+Hospital) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
 | 2024-01-20 | [`North Star Tax And Accounting`](https://google.com/search?q=North+Star+Tax+And+Accounting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`KC Pharmaceuticals`](https://google.com/search?q=KC+Pharmaceuticals) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`seiu1000.org`](https://google.com/search?q=seiu1000.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-19 | [`DYWIDAG-Systems & American Transportation`](https://google.com/search?q=DYWIDAG-Systems+%26+American+Transportation) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`C?????z????`](https://google.com/search?q=C%3F%3F%3F%3F%3Fz%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-18 | [`The CM Paula`](https://google.com/search?q=The+CM+Paula) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-18 | [`parat-technology.com`](https://google.com/search?q=parat-technology.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
