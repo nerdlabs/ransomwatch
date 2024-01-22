@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-22 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-22 | [`Waldner&#039;s`](https://google.com/search?q=Waldner%26%23039%3Bs) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-22 | [`Pozzi Italy`](https://google.com/search?q=Pozzi+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-21 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-21 | [`Packaging Solutions`](https://google.com/search?q=Packaging+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
