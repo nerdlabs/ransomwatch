@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-22 | [`wittmann.at`](https://google.com/search?q=wittmann.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-22 | [`deknudtframes.be`](https://google.com/search?q=deknudtframes.be) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2024-01-22 | [`umi-tiles.com`](https://google.com/search?q=umi-tiles.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-22 | [`synnex-grp.com`](https://google.com/search?q=synnex-grp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-20 | [`Di Martino Group (Unpay-Full public)`](https://google.com/search?q=Di+Martino+Group+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-20 | [`Great Valley School District`](https://google.com/search?q=Great+Valley+School+District) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2023-12-20 | [`smudlers.com`](https://google.com/search?q=smudlers.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-20 | [`Rockford Gastroenterology Associates (Unpay)`](https://google.com/search?q=Rockford+Gastroenterology+Associates+%28Unpay%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
