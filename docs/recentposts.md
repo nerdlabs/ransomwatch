@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`micrometals.com`](https://google.com/search?q=micrometals.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-01-23 | [`sierrafrontgroup.com`](https://google.com/search?q=sierrafrontgroup.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-23 | [`lyonshipyard.com`](https://google.com/search?q=lyonshipyard.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-23 | [`Cryopak`](https://google.com/search?q=Cryopak) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-22 | [`esepac.com`](https://google.com/search?q=esepac.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`denford.co.uk`](https://google.com/search?q=denford.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-21 | [`Unite Here`](https://google.com/search?q=Unite+Here) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2023-12-21 | [`hunterbuildings.com\$130.4M\USA\166gb\&lt;1%DISCLOSED`](https://google.com/search?q=hunterbuildings.com%5C%24130.4M%5CUSA%5C166gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
