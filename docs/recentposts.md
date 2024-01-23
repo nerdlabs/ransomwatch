@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`Wilhoit Properties`](https://google.com/search?q=Wilhoit+Properties) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-23 | [`Smith Capital - Press Release`](https://google.com/search?q=Smith+Capital+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-01-23 | [`bellgroup.co.uk\$103.6M\UK\9GB\100%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-21 | [`wkw-group.com\$707M\Germany\575gb\&lt;1%DISCLOSED`](https://google.com/search?q=wkw-group.com%5C%24707M%5CGermany%5C575gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-21 | [`dbmgroup.com\$43.6M\USA\110gb\&lt;1%DISCLOSED`](https://google.com/search?q=dbmgroup.com%5C%2443.6M%5CUSA%5C110gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-21 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay-Full public)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
-| 2023-12-21 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
