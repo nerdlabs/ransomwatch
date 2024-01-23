@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-23 | [`bellgroup.co.uk\$103.6M\UK\9GB\100%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-22 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-22 | [`Waldner&#039;s`](https://google.com/search?q=Waldner%26%23039%3Bs) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-21 | [`SUMMIT VETERINARY PHARMACEUTICALS LIMITED (Unpay-Full public)`](https://google.com/search?q=SUMMIT+VETERINARY+PHARMACEUTICALS+LIMITED+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-21 | [`Informist Media (Unpay-Full public)`](https://google.com/search?q=Informist+Media+%28Unpay-Full+public%29) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
 | 2023-12-21 | [`Jon Richard`](https://google.com/search?q=Jon+Richard) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2023-12-21 | [`Concept Data`](https://google.com/search?q=Concept+Data) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
