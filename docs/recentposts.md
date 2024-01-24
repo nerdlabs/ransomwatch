@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-24 | [`NOVA Business Law Group`](https://google.com/search?q=NOVA+Business+Law+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-24 | [`The Wiser Financial Group`](https://google.com/search?q=The+Wiser+Financial+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-24 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-24 | [`Dirig Sheet Metal`](https://google.com/search?q=Dirig+Sheet+Metal) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-22 | [`ciasc.mx`](https://google.com/search?q=ciasc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-22 | [`www.whafh.com`](https://google.com/search?q=www.whafh.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-12-22 | [`Nissan Australia`](https://google.com/search?q=Nissan+Australia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-12-22 | [`xeinadin.com`](https://google.com/search?q=xeinadin.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
