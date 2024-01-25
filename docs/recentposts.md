@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-25 | [`Four Hands LLC`](https://google.com/search?q=Four+Hands+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
 | 2024-01-25 | [`www.leclairgroup.com`](https://google.com/search?q=www.leclairgroup.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2024-01-25 | [`caravanclub.co.uk`](https://google.com/search?q=caravanclub.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-25 | [`Toronto Zoo`](https://google.com/search?q=Toronto+Zoo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-23 | [`quakerwindows.com\$271.6M\USA\233gb\&lt;1%DISCLOSED`](https://google.com/search?q=quakerwindows.com%5C%24271.6M%5CUSA%5C233gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-23 | [`castores.com.mx`](https://google.com/search?q=castores.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`Viking Therapeutics`](https://google.com/search?q=Viking+Therapeutics) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-22 | [`Navigation Financial Group`](https://google.com/search?q=Navigation+Financial+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
