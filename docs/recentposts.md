@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-25 | [`ANI Networks`](https://google.com/search?q=ANI+Networks) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`Brightstar Care`](https://google.com/search?q=Brightstar+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-25 | [`CloudFire Italy`](https://google.com/search?q=CloudFire+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-25 | [`Four Hands LLC`](https://google.com/search?q=Four+Hands+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-23 | [`Bay Orthopedic and Rehabilitation Supply`](https://google.com/search?q=Bay+Orthopedic+and+Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2023-12-23 | [`PriceSmart (Update)`](https://google.com/search?q=PriceSmart+%28Update%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-23 | [`zurcherodioraven.com`](https://google.com/search?q=zurcherodioraven.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-23 | [`quakerwindows.com\$271.6M\USA\233gb\&lt;1%DISCLOSED`](https://google.com/search?q=quakerwindows.com%5C%24271.6M%5CUSA%5C233gb%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
