@@ -110,7 +110,7 @@
 | [xinof](https://ransomwatch.telemetry.ltd/#/profiles?id=xinof) |  | 🔴 | 2021-05-01 | wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion |
 | [spook](https://ransomwatch.telemetry.ltd/#/profiles?id=spook) | Spook | 🔴 | 2021-10-26 | spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |
 | [RAMP](https://ransomwatch.telemetry.ltd/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |
-| [RAMP](https://ransomwatch.telemetry.ltd/#/profiles?id=RAMP) | Log in - RAMP | 🔴 | 2024-01-25 | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |
+| [RAMP](https://ransomwatch.telemetry.ltd/#/profiles?id=RAMP) | Log in - RAMP | 🟢 |  | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |
 | [RAMP](https://ransomwatch.telemetry.ltd/#/profiles?id=RAMP) |  | 🔴 | 2021-05-01 | ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion |
 | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) | BLOG | 🔴 | 2021-11-13 | 54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |
 | [sabbath](https://ransomwatch.telemetry.ltd/#/profiles?id=sabbath) |  | 🔴 | 2022-04-13 | 54bb47h.blog |
@@ -120,7 +120,7 @@
 | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |  | 🟢 |  | medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion |
 | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | News | 🔴 | 2023-11-02 | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | News | 🔴 | 2022-12-13 | snatch.press |
-| [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | 403 Forbidden | 🔴 | 2024-01-25 | dwhyj2.top |
+| [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | 403 Forbidden | 🟢 |  | dwhyj2.top |
 | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | Website filesnatchcloud.top is ready. The content  | 🔴 | 2023-12-26 | filesnatchcloud.top |
 | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | Just a moment... | 🟢 |  | sn76920193ch.top |
 | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) | Just a moment... | 🟢 |  | snatchnews.top |
@@ -231,7 +231,7 @@
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion |
 | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🔴 | 2024-01-25 | lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion |
-| [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🔴 | 2024-01-25 | lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion |
+| [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion |
 | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |  | 🔴 | 2022-11-10 | 232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion |
 | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) | Data Leak | 🟢 |  | 7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion |
 | [icefire](https://ransomwatch.telemetry.ltd/#/profiles?id=icefire) | Leakage List | 🔴 | 2022-08-24 | kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion |
@@ -244,7 +244,7 @@
 | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) | Qilin blog | 🟢 |  | kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion |
 | [diavol](https://ransomwatch.telemetry.ltd/#/profiles?id=diavol) | Chat | 🔴 | 2022-10-31 | 7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion |
 | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) | 404 Not Found | 🔴 | 2022-10-10 | 4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion |
-| [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) | MONTI - Leaks site | 🟢 |  | mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion |
+| [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) | MONTI - Leaks site | 🔴 | 2024-01-25 | mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion |
 | [sparta](https://ransomwatch.telemetry.ltd/#/profiles?id=sparta) | Blog | 🔴 | 2022-10-01 | zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion |
 | [chilelocker](https://ransomwatch.telemetry.ltd/#/profiles?id=chilelocker) | Login | 🔴 | 2023-04-19 | z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion |
 | [dagonlocker](https://ransomwatch.telemetry.ltd/#/profiles?id=dagonlocker) | The Chat | 🔴 | 2022-11-10 | dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion |
@@ -254,7 +254,7 @@
 | [mallox](https://ransomwatch.telemetry.ltd/#/profiles?id=mallox) |  Mallox - Data Leaks | 🟢 |  | wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion |
 | [projectrelic](https://ransomwatch.telemetry.ltd/#/profiles?id=projectrelic) | Project Relic. Dumps, leaks, news, announcements | 🔴 | 2023-06-03 | relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion |
 | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🔴 | 2024-01-23 | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion |
-| [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🔴 | 2024-01-25 | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion |
+| [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) | PLAY NEWS | 🟢 |  | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion |
 | [dataleak](https://ransomwatch.telemetry.ltd/#/profiles?id=dataleak) | DataLeak | 🔴 | 2023-02-22 | woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion |
 | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) | Home - UnSafeBlog | 🟢 |  | unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion |
 | [nevada](https://ransomwatch.telemetry.ltd/#/profiles?id=nevada) | NEVADA | 🔴 | 2023-04-21 | nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion |
@@ -266,7 +266,7 @@
 | [darkbit01](https://ransomwatch.telemetry.ltd/#/profiles?id=darkbit01) |  | 🔴 | 2021-05-01 | iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion |
 | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |  | 🟢 |  | 3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion |
 | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |  | 🟢 |  | blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion |
-| [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) | Dunghill Leak - Details | 🔴 | 2024-01-25 | p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion |
+| [dunghill_leak](https://ransomwatch.telemetry.ltd/#/profiles?id=dunghill_leak) | Dunghill Leak - Details | 🟢 |  | p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion |
 | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |  | 🟢 |  | akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion |
 | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) | / | 🔴 | 2024-01-25 | akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion |
 | [darkpower](https://ransomwatch.telemetry.ltd/#/profiles?id=darkpower) |  | 🔴 | 2021-05-01 | powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion |
@@ -291,10 +291,10 @@
 | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |  | 🟢 |  | cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion |
 | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) | Please wait... | 🟢 |  | knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion |
 | [knight](https://ransomwatch.telemetry.ltd/#/profiles?id=knight) | Blog - Knight | 🔴 | 2023-10-13 | nt3rrzq5hcyznvdkpslvqbbc2jqecqrinhi5jtwoae2x7psqtcb6dcad.onion |
-| [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |  | 🔴 | 2024-01-25 | incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion |
+| [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |  | 🟢 |  | incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion |
 | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) | INC Ransom | 🟢 |  | incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion |
 | [metaencryptor](https://ransomwatch.telemetry.ltd/#/profiles?id=metaencryptor) | Metaencryptor::Home | 🔴 | 2023-12-27 | metacrptmytukkj7ajwjovdpjqzd7esg5v3sg344uzhigagpezcqlpyd.onion |
-| [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) | 403 Forbidden | 🔴 | 2024-01-25 | cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion |
+| [cloak](https://ransomwatch.telemetry.ltd/#/profiles?id=cloak) | 403 Forbidden | 🟢 |  | cloak7jpvcb73rtx2ff7kaw2kholu7bdiivxpzbhlny4ybz75dpxckqd.onion |
 | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |  | 🟢 |  | f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion |
 | [ransomedvc](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomedvc) |  | 🟢 |  | ransomed.vc |
 | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) | CiphBit | 🟢 |  | ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion |
