@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-26 | [`jaygroup.com\$62.2M\USA\270GB\&lt;1%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-26 | [`securinux.net`](https://google.com/search?q=securinux.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-26 | [`Lush`](https://google.com/search?q=Lush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`OrthoNY%2C Orthopedic%20Care`](https://google.com/search?q=OrthoNY%252C+Orthopedic%2520Care) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-24 | [`Prefeitura Municipal de Itabira`](https://google.com/search?q=Prefeitura+Municipal+de+Itabira) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-24 | [`bkf-fleuren.de`](https://google.com/search?q=bkf-fleuren.de) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-23 | [`avescorent.ch`](https://google.com/search?q=avescorent.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-23 | [`Associates Family Dentistry`](https://google.com/search?q=Associates+Family+Dentistry) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
