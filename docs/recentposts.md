@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-26 | [`FULL LEAK! Busse & Busee, PC Attorneys at Law`](https://google.com/search?q=FULL+LEAK%21+Busse+%26+Busee%2C+PC+Attorneys+at+Law) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-26 | [`Draneas Huglin Dooley LLC`](https://google.com/search?q=Draneas+Huglin+Dooley+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-26 | [`Brazilian Business P ark`](https://google.com/search?q=Brazilian+Business+P+ark) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-26 | [`Valley TeleCom Group`](https://google.com/search?q=Valley+TeleCom+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-25 | [`tecnifibre.com`](https://google.com/search?q=tecnifibre.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`hendelsinc.com`](https://google.com/search?q=hendelsinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-12-25 | [`co.pickens.sc.us`](https://google.com/search?q=co.pickens.sc.us) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-12-25 | [`coastalplainsctr.org`](https://google.com/search?q=coastalplainsctr.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
