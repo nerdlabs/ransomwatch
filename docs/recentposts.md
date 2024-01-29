@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-29 | [`Shoma group`](https://google.com/search?q=Shoma+group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-28 | [` neafidi.it`](https://google.com/search?q=+neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-28 | [`www.mordfin.com`](https://google.com/search?q=www.mordfin.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-27 | [`oogp.com\$11.4M\USA\63GB\&lt;1%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-26 | [`Abdali Hospital`](https://google.com/search?q=Abdali+Hospital) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-26 | [`Tshwane University of Technology`](https://google.com/search?q=Tshwane+University+of+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2023-12-25 | [`http://www.blaineschools.org`](https://google.com/search?q=http%3A%2F%2Fwww.blaineschools.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2023-12-25 | [`cts.co.uk\$13.5 M\UK\945gb\100%DISCLOSED`](https://google.com/search?q=cts.co.uk%5C%2413.5+M%5CUK%5C945gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
