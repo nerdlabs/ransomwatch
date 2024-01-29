@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-29 | [`Safe Plating`](https://google.com/search?q=Safe+Plating) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-29 | [`CORBETT EXTERMINATING%20Inc`](https://google.com/search?q=CORBETT+EXTERMINATING%2520Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-29 | [`North American%20University`](https://google.com/search?q=North+American%2520University) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-29 | [`MA Engineering`](https://google.com/search?q=MA+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-27 | [`EPS.RS`](https://google.com/search?q=EPS.RS) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-12-27 | [`Aura Engineering, LLC`](https://google.com/search?q=Aura+Engineering%2C+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-12-27 | [`FIRST 5 Santa Clara County`](https://google.com/search?q=FIRST+5+Santa+Clara+County) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-27 | [`Ultra Intelligence & Communications`](https://google.com/search?q=Ultra+Intelligence+%26+Communications) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
