@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-01-30 | [`hi-cone.com\$27M\USA\650GB\100%DISCLOSED`](https://google.com/search?q=hi-cone.com%5C%2427M%5CUSA%5C650GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-30 | [`clackamas.edu`](https://google.com/search?q=clackamas.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-30 | [`TECHNICA - HACKED AND MORE THEN 300 GB DATA LEAKED!`](https://google.com/search?q=TECHNICA+-+HACKED+AND+MORE+THEN+300+GB+DATA+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-30 | [`Black Butte%20Coal%20Co`](https://google.com/search?q=Black+Butte%2520Coal%2520Co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-29 | [`bellgroup.co.uk\$103.6M\UK\9GB\&lt;1%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-29 | [`coop.se\$6.5B\Sweden\257GB\&lt;1%DISCLOSED`](https://google.com/search?q=coop.se%5C%246.5B%5CSweden%5C257GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2023-12-29 | [`tridon.com.au\$34M\Australia\175GB\&lt;1%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2023-12-29 | [`Wesgar Inc.`](https://google.com/search?q=Wesgar+Inc.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
