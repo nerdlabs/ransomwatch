@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-01 | [`dms-imaging`](https://google.com/search?q=dms-imaging) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2024-02-01 | [`etsolutions.com.mx`](https://google.com/search?q=etsolutions.com.mx) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-01 | [`taloninternational.com`](https://google.com/search?q=taloninternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`bandcllp.com`](https://google.com/search?q=bandcllp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-02 | [`groupe-idea.com`](https://google.com/search?q=groupe-idea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-02 | [`SAED International`](https://google.com/search?q=SAED+International) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-02 | [`http://www.mpmmedicalsupply.com`](https://google.com/search?q=http%3A%2F%2Fwww.mpmmedicalsupply.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-01-01 | [`Aspiration Training`](https://google.com/search?q=Aspiration+Training) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
