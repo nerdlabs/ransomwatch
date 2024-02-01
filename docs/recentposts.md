@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-01 | [`Robert D. Clements Jr Law Group, LLLP`](https://google.com/search?q=Robert+D.+Clements+Jr+Law+Group%2C+LLLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-01 | [`CNPC Peru S.A.`](https://google.com/search?q=CNPC+Peru+S.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-01 | [`mnorch.org`](https://google.com/search?q=mnorch.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`Primeimaging database for sale`](https://google.com/search?q=Primeimaging+database+for+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-12-30 | [`M?????n C?????? & W?? & The ???? G????`](https://google.com/search?q=M%3F%3F%3F%3F%3Fn+C%3F%3F%3F%3F%3F%3F+%26+W%3F%3F+%26+The+%3F%3F%3F%3F+G%3F%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Keyser Mason Ball`](https://google.com/search?q=Keyser+Mason+Ball) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-12-30 | [`Nej Inc was hacked`](https://google.com/search?q=Nej+Inc+was+hacked) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-12-30 | [`Xerox Corp`](https://google.com/search?q=Xerox+Corp) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
