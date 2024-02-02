@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-02 | [`Thomas LLP`](https://google.com/search?q=Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`Chaney, Couch, Callaway, Carter and Associates Family Dentistry.`](https://google.com/search?q=Chaney%2C+Couch%2C+Callaway%2C+Carter+and+Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-02 | [`manitou-group.com`](https://google.com/search?q=manitou-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-08 | [`CellNetix Pathology%20%26%20Laboratories%2C%20LLC`](https://google.com/search?q=CellNetix+Pathology%2520%2526%2520Laboratories%252C%2520LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-08 | [`morganpilate.com`](https://google.com/search?q=morganpilate.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-08 | [`mciwv.com`](https://google.com/search?q=mciwv.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-07 | [`capitalhealth.org`](https://google.com/search?q=capitalhealth.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
