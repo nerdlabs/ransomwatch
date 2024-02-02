@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-02 | [`manitou-group.com`](https://google.com/search?q=manitou-group.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`lexcaribbean.com`](https://google.com/search?q=lexcaribbean.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`gera`](https://google.com/search?q=gera) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Law Office of Michael H Joseph`](https://google.com/search?q=Law+Office+of+Michael+H+Joseph) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-07 | [`capitalhealth.org`](https://google.com/search?q=capitalhealth.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-06 | [`Rehabilitation Supply`](https://google.com/search?q=Rehabilitation+Supply) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-06 | [`Televerde`](https://google.com/search?q=Televerde) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-01-06 | [`The Lutheran World Federation`](https://google.com/search?q=The+Lutheran+World+Federation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
