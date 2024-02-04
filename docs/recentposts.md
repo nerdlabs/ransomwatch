@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-04 | [`cxm.com`](https://google.com/search?q=cxm.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-03 | [`Associates Family Dentistry.`](https://google.com/search?q=Associates+Family+Dentistry.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-03 | [`pbwtulsa.com`](https://google.com/search?q=pbwtulsa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-02 | [`Digitel Venezuela`](https://google.com/search?q=Digitel+Venezuela) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-08 | [`www.halleonard.com.au`](https://google.com/search?q=www.halleonard.com.au) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-08 | [`Heller Industries`](https://google.com/search?q=Heller+Industries) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-08 | [`Van Buren Public Sch ools`](https://google.com/search?q=Van+Buren+Public+Sch+ools) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-08 | [`CellNetix Pathology%20%26%20Laboratories%2C%20LLC`](https://google.com/search?q=CellNetix+Pathology%2520%2526%2520Laboratories%252C%2520LLC) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
