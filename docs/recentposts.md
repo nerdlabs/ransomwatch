@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-05 | [`prima.com`](https://google.com/search?q=prima.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`hutchpaving.com`](https://google.com/search?q=hutchpaving.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`davis-french-associates.co.uk`](https://google.com/search?q=davis-french-associates.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`portline.pt`](https://google.com/search?q=portline.pt) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-10 | [`twt.co.za`](https://google.com/search?q=twt.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`tiautoinvestments.co.za`](https://google.com/search?q=tiautoinvestments.co.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-10 | [`Group Bogart`](https://google.com/search?q=Group+Bogart) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-01-10 | [`hartalega.com.my`](https://google.com/search?q=hartalega.com.my) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
