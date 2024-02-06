@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`deltron.com`](https://google.com/search?q=deltron.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-06 | [`Greenwich Leisure`](https://google.com/search?q=Greenwich+Leisure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Sciba`](https://google.com/search?q=Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-01-12 | [`pharrusa.com`](https://google.com/search?q=pharrusa.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-12 | [`Republic Shipping Consolidators, Inc`](https://google.com/search?q=Republic+Shipping+Consolidators%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
