@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`Virgin Islands Lottery`](https://google.com/search?q=Virgin+Islands+Lottery) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Premier Facility Management`](https://google.com/search?q=Premier+Facility+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Douglas County Libraries`](https://google.com/search?q=Douglas+County+Libraries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Leaders Staffing`](https://google.com/search?q=Leaders+Staffing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`SHIBLEY RIGHTON`](https://google.com/search?q=SHIBLEY+RIGHTON) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-12 | [`Alliedwoundcare`](https://google.com/search?q=Alliedwoundcare) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-01-12 | [`Primeimaging`](https://google.com/search?q=Primeimaging) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-01-12 | [`automotionshade.com`](https://google.com/search?q=automotionshade.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
