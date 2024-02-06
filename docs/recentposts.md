@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Sciba`](https://google.com/search?q=Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`B Electric Inc`](https://google.com/search?q=B+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`Hbl Cpas, P.C.`](https://google.com/search?q=Hbl+Cpas%2C+P.C.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-12 | [`Republic Shipping Consolidators, Inc`](https://google.com/search?q=Republic+Shipping+Consolidators%2C+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-12 | [`olea.com`](https://google.com/search?q=olea.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-12 | [`Washington School%20For%20The%20Deaf`](https://google.com/search?q=Washington+School%2520For%2520The%2520Deaf) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
