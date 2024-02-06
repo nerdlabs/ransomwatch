@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`Shipleys LLP`](https://google.com/search?q=Shipleys+LLP) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-06 | [`AVer Information`](https://google.com/search?q=AVer+Information) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-06 | [`Celeste`](https://google.com/search?q=Celeste) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-06 | [`deltron.com`](https://google.com/search?q=deltron.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-13 | [`Lee Spring`](https://google.com/search?q=Lee+Spring) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-01-13 | [`tridon.com.au\$34M\Australia\175GB\100%DISCLOSED`](https://google.com/search?q=tridon.com.au%5C%2434M%5CAustralia%5C175GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-12 | [`arrowinternational.com`](https://google.com/search?q=arrowinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-12 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
