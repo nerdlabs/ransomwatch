@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-06 | [`Celeste`](https://google.com/search?q=Celeste) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-06 | [`deltron.com`](https://google.com/search?q=deltron.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-06 | [`Greenwich Leisure`](https://google.com/search?q=Greenwich+Leisure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-12 | [`arrowinternational.com`](https://google.com/search?q=arrowinternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-12 | [`thecsi.com`](https://google.com/search?q=thecsi.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-01-12 | [`pharrusa.com`](https://google.com/search?q=pharrusa.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-01-12 | [`www.hotelcontinental.no`](https://google.com/search?q=www.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
