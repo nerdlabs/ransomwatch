@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-07 | [`http://www.wmc-i.com`](https://google.com/search?q=http%3A%2F%2Fwww.wmc-i.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`TeraGo`](https://google.com/search?q=TeraGo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-07 | [`transaxle.com`](https://google.com/search?q=transaxle.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-07 | [`spbglobal.com\$81.4M\Spain\706GB\&lt;1%DISCLOSED`](https://google.com/search?q=spbglobal.com%5C%2481.4M%5CSpain%5C706GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-15 | [`hosted-it.co.uk`](https://google.com/search?q=hosted-it.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-14 | [`SPARTAN Light Metal Products`](https://google.com/search?q=SPARTAN+Light+Metal+Products) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
 | 2024-01-14 | [`American International College`](https://google.com/search?q=American+International+College) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
-| 2024-01-14 | [`Hartl European Transport Company`](https://google.com/search?q=Hartl+European+Transport+Company) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
