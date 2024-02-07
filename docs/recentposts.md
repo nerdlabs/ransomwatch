@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-07 | [`VCS Observation`](https://google.com/search?q=VCS+Observation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-07 | [`vimarequipment.com`](https://google.com/search?q=vimarequipment.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-07 | [`axsbolivia.com`](https://google.com/search?q=axsbolivia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-06 | [`Shipleys LLP`](https://google.com/search?q=Shipleys+LLP) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-14 | [`amenitek.com`](https://google.com/search?q=amenitek.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-13 | [`Northeast Spine and Sports Medicine's`](https://google.com/search?q=Northeast+Spine+and+Sports+Medicine%27s) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-13 | [`turascandinavia.com`](https://google.com/search?q=turascandinavia.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-13 | [`Lee Spring`](https://google.com/search?q=Lee+Spring) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
