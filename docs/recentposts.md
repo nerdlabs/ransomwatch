@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-08 | [`Distecna`](https://google.com/search?q=Distecna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-07 | [`http://swbindinglaminating.com`](https://google.com/search?q=http%3A%2F%2Fswbindinglaminating.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`http://www.wmc-i.com`](https://google.com/search?q=http%3A%2F%2Fwww.wmc-i.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`TeraGo`](https://google.com/search?q=TeraGo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-15 | [`maisonsdelavenir.com`](https://google.com/search?q=maisonsdelavenir.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`shinwajpn.co.jp`](https://google.com/search?q=shinwajpn.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`hosted-it.co.uk`](https://google.com/search?q=hosted-it.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-14 | [`SPARTAN Light Metal Products`](https://google.com/search?q=SPARTAN+Light+Metal+Products) | [unsafeleak](https://ransomwatch.telemetry.ltd/#/profiles?id=unsafeleak) |
