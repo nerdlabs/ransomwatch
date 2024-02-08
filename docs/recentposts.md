@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-08 | [`perkinsmfg.com`](https://google.com/search?q=perkinsmfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`originalfootwear.com`](https://google.com/search?q=originalfootwear.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-08 | [`Distecna`](https://google.com/search?q=Distecna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-07 | [`http://swbindinglaminating.com`](https://google.com/search?q=http%3A%2F%2Fswbindinglaminating.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-16 | [`Donear Industries`](https://google.com/search?q=Donear+Industries) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-15 | [`vasudhapharma.com`](https://google.com/search?q=vasudhapharma.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-15 | [`maisonsdelavenir.com`](https://google.com/search?q=maisonsdelavenir.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-15 | [`shinwajpn.co.jp`](https://google.com/search?q=shinwajpn.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
