@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`cdtmedicus.pl`](https://google.com/search?q=cdtmedicus.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`grupomoraval.com`](https://google.com/search?q=grupomoraval.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`moneyadvicetrust.org`](https://google.com/search?q=moneyadvicetrust.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`bsaarchitects.com`](https://google.com/search?q=bsaarchitects.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`LT Business Dynamics`](https://google.com/search?q=LT+Business+Dynamics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-17 | [`DENHAM the Jeanmaker`](https://google.com/search?q=DENHAM+the+Jeanmaker) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-17 | [`Rosens Diversified Inc`](https://google.com/search?q=Rosens+Diversified+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-17 | [`Stone, Avant &amp; Daniels`](https://google.com/search?q=Stone%2C+Avant+%26amp%3B+Daniels) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
