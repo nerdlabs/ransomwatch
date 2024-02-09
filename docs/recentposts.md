@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`seymourct.org`](https://google.com/search?q=seymourct.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`northseayachtsupport.nl`](https://google.com/search?q=northseayachtsupport.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`magi-erp.com`](https://google.com/search?q=magi-erp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`maximumresearch.com`](https://google.com/search?q=maximumresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-19 | [`foxsemicon.com`](https://google.com/search?q=foxsemicon.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`www.projects-world.com`](https://google.com/search?q=www.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-01-18 | [`digipwr.com`](https://google.com/search?q=digipwr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-18 | [`http://www.gocruisers.org`](https://google.com/search?q=http%3A%2F%2Fwww.gocruisers.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
