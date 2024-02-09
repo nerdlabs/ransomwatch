@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`moneyadvicetrust.org`](https://google.com/search?q=moneyadvicetrust.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`bsaarchitects.com`](https://google.com/search?q=bsaarchitects.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`posen.com`](https://google.com/search?q=posen.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-09 | [`macqueeneq.com`](https://google.com/search?q=macqueeneq.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-17 | [`Rosens Diversified Inc`](https://google.com/search?q=Rosens+Diversified+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-17 | [`Stone, Avant &amp; Daniels`](https://google.com/search?q=Stone%2C+Avant+%26amp%3B+Daniels) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-16 | [`millgate.co.uk`](https://google.com/search?q=millgate.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-16 | [`Becker Logistics`](https://google.com/search?q=Becker+Logistics) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
