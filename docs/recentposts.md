@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`maximumresearch.com`](https://google.com/search?q=maximumresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`indoramaventures.com`](https://google.com/search?q=indoramaventures.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`alfiras.com`](https://google.com/search?q=alfiras.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`cdtmedicus.pl`](https://google.com/search?q=cdtmedicus.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`http://www.gocruisers.org`](https://google.com/search?q=http%3A%2F%2Fwww.gocruisers.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-01-18 | [`GROWTH by NCRC`](https://google.com/search?q=GROWTH+by+NCRC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-18 | [`jaffeandasher.com`](https://google.com/search?q=jaffeandasher.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-18 | [`LT Business Dynamics`](https://google.com/search?q=LT+Business+Dynamics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
