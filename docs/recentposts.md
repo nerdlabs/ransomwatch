@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-09 | [`indoramaventures.com`](https://google.com/search?q=indoramaventures.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`alfiras.com`](https://google.com/search?q=alfiras.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`cdtmedicus.pl`](https://google.com/search?q=cdtmedicus.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`grupomoraval.com`](https://google.com/search?q=grupomoraval.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-18 | [`GROWTH by NCRC`](https://google.com/search?q=GROWTH+by+NCRC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-18 | [`jaffeandasher.com`](https://google.com/search?q=jaffeandasher.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-18 | [`LT Business Dynamics`](https://google.com/search?q=LT+Business+Dynamics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-17 | [`DENHAM the Jeanmaker`](https://google.com/search?q=DENHAM+the+Jeanmaker) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
