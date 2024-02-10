@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`aisg-online.com`](https://google.com/search?q=aisg-online.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-10 | [`Pacific American%20Fish%20Company%20Inc.`](https://google.com/search?q=Pacific+American%2520Fish%2520Company%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-10 | [`jaygroup.com\$62.2M\USA\270GB\100%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-10 | [`oogp.com\$11.4M\USA\63GB\100%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-20 | [`intercityinvestments.com\$31.1M\USA\10gb\100%DISCLOSED`](https://google.com/search?q=intercityinvestments.com%5C%2431.1M%5CUSA%5C10gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-20 | [`Hamilton-Madison Hou se`](https://google.com/search?q=Hamilton-Madison+Hou+se) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-20 | [`Anna Jaques Hospital`](https://google.com/search?q=Anna+Jaques+Hospital) | [moneymessage](https://ransomwatch.telemetry.ltd/#/profiles?id=moneymessage) |
-| 2024-01-20 | [`North Star Tax And Accounting`](https://google.com/search?q=North+Star+Tax+And+Accounting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
