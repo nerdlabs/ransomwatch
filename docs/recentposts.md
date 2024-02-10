@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`Capozzi Adler, P.C.`](https://google.com/search?q=Capozzi+Adler%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-10 | [`CTSI`](https://google.com/search?q=CTSI) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-10 | [`Drost Kivlahan McMahon and O'Connor LLC`](https://google.com/search?q=Drost+Kivlahan+McMahon+and+O%27Connor+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`J.P. Original`](https://google.com/search?q=J.P.+Original) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-19 | [`Martinaire Aviation`](https://google.com/search?q=Martinaire+Aviation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`dywidag.com`](https://google.com/search?q=dywidag.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`jdbchina.com`](https://google.com/search?q=jdbchina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-19 | [`TPG Architecture`](https://google.com/search?q=TPG+Architecture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
