@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`Drost Kivlahan McMahon and O'Connor LLC`](https://google.com/search?q=Drost+Kivlahan+McMahon+and+O%27Connor+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`J.P. Original`](https://google.com/search?q=J.P.+Original) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`TechNet Kronoberg AB`](https://google.com/search?q=TechNet+Kronoberg+AB) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-09 | [`soken-ce.co.jp`](https://google.com/search?q=soken-ce.co.jp) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-19 | [`jdbchina.com`](https://google.com/search?q=jdbchina.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-19 | [`TPG Architecture`](https://google.com/search?q=TPG+Architecture) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-01-19 | [`Hydratek`](https://google.com/search?q=Hydratek) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-19 | [`evit.edu`](https://google.com/search?q=evit.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
