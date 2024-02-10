@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-10 | [`oogp.com\$11.4M\USA\63GB\100%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-10 | [`www.wannagocloud.com`](https://google.com/search?q=www.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-10 | [`verdimed.es`](https://google.com/search?q=verdimed.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-10 | [`zivilgeometer.at`](https://google.com/search?q=zivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-20 | [`North Star Tax And Accounting`](https://google.com/search?q=North+Star+Tax+And+Accounting) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`KC Pharmaceuticals`](https://google.com/search?q=KC+Pharmaceuticals) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-19 | [`seiu1000.org`](https://google.com/search?q=seiu1000.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-19 | [`pratt.edu`](https://google.com/search?q=pratt.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
