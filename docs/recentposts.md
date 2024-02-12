@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`camarotto.it`](https://google.com/search?q=camarotto.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`grotonschools.org`](https://google.com/search?q=grotonschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`The Gainsborough Bath`](https://google.com/search?q=The+Gainsborough+Bath) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-12 | [`Kadac Australia`](https://google.com/search?q=Kadac+Australia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-21 | [`stjohnrochester.org`](https://google.com/search?q=stjohnrochester.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`jasman.com.mx`](https://google.com/search?q=jasman.com.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-21 | [`bmc-cpa.com`](https://google.com/search?q=bmc-cpa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-21 | [`subway.com`](https://google.com/search?q=subway.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
