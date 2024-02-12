@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`sealco-leb.com`](https://google.com/search?q=sealco-leb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`robs.org`](https://google.com/search?q=robs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`plexustelerad.com`](https://google.com/search?q=plexustelerad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`parkhomeassist.co.uk`](https://google.com/search?q=parkhomeassist.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-22 | [`The Gainsborough Bath `](https://google.com/search?q=The+Gainsborough+Bath+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-22 | [`Richmond Fellowship Scotland`](https://google.com/search?q=Richmond+Fellowship+Scotland) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-22 | [`wittmann.at`](https://google.com/search?q=wittmann.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-22 | [`deknudtframes.be`](https://google.com/search?q=deknudtframes.be) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
