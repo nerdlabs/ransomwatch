@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-12 | [`plexustelerad.com`](https://google.com/search?q=plexustelerad.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`parkhomeassist.co.uk`](https://google.com/search?q=parkhomeassist.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`paltertonprimary.co.uk`](https://google.com/search?q=paltertonprimary.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`lyon.co.uk`](https://google.com/search?q=lyon.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-22 | [`wittmann.at`](https://google.com/search?q=wittmann.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-22 | [`deknudtframes.be`](https://google.com/search?q=deknudtframes.be) | [cuba](https://ransomwatch.telemetry.ltd/#/profiles?id=cuba) |
 | 2024-01-22 | [`umi-tiles.com`](https://google.com/search?q=umi-tiles.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-22 | [`synnex-grp.com`](https://google.com/search?q=synnex-grp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
