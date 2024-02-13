@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-13 | [`garonproducts.com`](https://google.com/search?q=garonproducts.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-13 | [`http://antunovich.com`](https://google.com/search?q=http%3A%2F%2Fantunovich.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-13 | [`Modern Kitchens `](https://google.com/search?q=Modern+Kitchens+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`Milestone Environmen tal Contracting`](https://google.com/search?q=Milestone+Environmen+tal+Contracting) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-23 | [`Wilhoit Properties`](https://google.com/search?q=Wilhoit+Properties) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-23 | [`Smith Capital - Press Release`](https://google.com/search?q=Smith+Capital+-+Press+Release) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2024-01-23 | [`bellgroup.co.uk\$103.6M\UK\9GB\100%DISCLOSED`](https://google.com/search?q=bellgroup.co.uk%5C%24103.6M%5CUK%5C9GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
