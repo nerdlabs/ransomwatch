@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`doprastav.sk`](https://google.com/search?q=doprastav.sk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`auruminstitute.org`](https://google.com/search?q=auruminstitute.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-13 | [`garonproducts.com`](https://google.com/search?q=garonproducts.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-23 | [`lyonshipyard.com`](https://google.com/search?q=lyonshipyard.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-23 | [`Cryopak`](https://google.com/search?q=Cryopak) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-23 | [`Milestone Environmen tal Contracting`](https://google.com/search?q=Milestone+Environmen+tal+Contracting) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-23 | [`Wilhoit Properties`](https://google.com/search?q=Wilhoit+Properties) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
