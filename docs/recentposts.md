@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`tecasrl.it`](https://google.com/search?q=tecasrl.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`silverairways.com`](https://google.com/search?q=silverairways.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`sealco-leb.com`](https://google.com/search?q=sealco-leb.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`robs.org`](https://google.com/search?q=robs.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-22 | [`Waldner&#039;s`](https://google.com/search?q=Waldner%26%23039%3Bs) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-22 | [`Pozzi Italy`](https://google.com/search?q=Pozzi+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-22 | [`The Gainsborough Bath `](https://google.com/search?q=The+Gainsborough+Bath+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-22 | [`Richmond Fellowship Scotland`](https://google.com/search?q=Richmond+Fellowship+Scotland) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
