@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-13 | [`vhprimary.com`](https://google.com/search?q=vhprimary.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`textiles.org.tw`](https://google.com/search?q=textiles.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`tecasrl.it`](https://google.com/search?q=tecasrl.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`silverairways.com`](https://google.com/search?q=silverairways.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-22 | [`HOE Pharmaceuticals Sdn Bhd`](https://google.com/search?q=HOE+Pharmaceuticals+Sdn+Bhd) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-01-22 | [`davidsbridal.com`](https://google.com/search?q=davidsbridal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-22 | [`Waldner&#039;s`](https://google.com/search?q=Waldner%26%23039%3Bs) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-22 | [`Pozzi Italy`](https://google.com/search?q=Pozzi+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
