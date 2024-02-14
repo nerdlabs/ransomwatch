@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-14 | [`vanwingerden.com`](https://google.com/search?q=vanwingerden.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-14 | [`kaleedscpa.com`](https://google.com/search?q=kaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-14 | [`conseguros.com.gt`](https://google.com/search?q=conseguros.com.gt) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-14 | [`kabat.pl`](https://google.com/search?q=kabat.pl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-25 | [`caravanclub.co.uk`](https://google.com/search?q=caravanclub.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-25 | [`Toronto Zoo`](https://google.com/search?q=Toronto+Zoo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-25 | [`wannagocloud.com`](https://google.com/search?q=wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-01-25 | [`neafidi.it`](https://google.com/search?q=neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
