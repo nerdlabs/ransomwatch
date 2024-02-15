@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-15 | [`Pierce`](https://google.com/search?q=Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-15 | [`Advantage Orthopedic and Sports Medicine Clinic`](https://google.com/search?q=Advantage+Orthopedic+and+Sports+Medicine+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-15 | [`sitrack.com`](https://google.com/search?q=sitrack.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`pradiergranulats.fr`](https://google.com/search?q=pradiergranulats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-26 | [`Valley TeleCom Group`](https://google.com/search?q=Valley+TeleCom+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-26 | [`jaygroup.com\$62.2M\USA\270GB\&lt;1%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-26 | [`securinux.net`](https://google.com/search?q=securinux.net) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-26 | [`Lush`](https://google.com/search?q=Lush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
