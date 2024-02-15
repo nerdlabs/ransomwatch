@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-15 | [`champion.com.co`](https://google.com/search?q=champion.com.co) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`centralepaysanne.lu`](https://google.com/search?q=centralepaysanne.lu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`Nekoosa School Distr ict`](https://google.com/search?q=Nekoosa+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-14 | [`studiogalbusera.com`](https://google.com/search?q=studiogalbusera.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-25 | [`Brightstar Care`](https://google.com/search?q=Brightstar+Care) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-25 | [`CloudFire Italy`](https://google.com/search?q=CloudFire+Italy) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-01-25 | [`Four Hands LLC`](https://google.com/search?q=Four+Hands+LLC) | [0mega](https://ransomwatch.telemetry.ltd/#/profiles?id=0mega) |
-| 2024-01-25 | [`www.leclairgroup.com`](https://google.com/search?q=www.leclairgroup.com) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
