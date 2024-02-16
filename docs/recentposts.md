@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-16 | [`DuBose Strapping`](https://google.com/search?q=DuBose+Strapping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-16 | [`SilverLining`](https://google.com/search?q=SilverLining) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-15 | [`Pierce`](https://google.com/search?q=Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-15 | [`Advantage Orthopedic and Sports Medicine Clinic`](https://google.com/search?q=Advantage+Orthopedic+and+Sports+Medicine+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-26 | [`Draneas Huglin Dooley LLC`](https://google.com/search?q=Draneas+Huglin+Dooley+LLC) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-26 | [`Brazilian Business P ark`](https://google.com/search?q=Brazilian+Business+P+ark) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-01-26 | [`Valley TeleCom Group`](https://google.com/search?q=Valley+TeleCom+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-01-26 | [`jaygroup.com\$62.2M\USA\270GB\&lt;1%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
