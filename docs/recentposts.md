@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-16 | [`etisalat.ae`](https://google.com/search?q=etisalat.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`theclosingagent.com`](https://google.com/search?q=theclosingagent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`spaldingssd.com`](https://google.com/search?q=spaldingssd.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`Procopio`](https://google.com/search?q=Procopio) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`dtsolutions.net\$31.1M\USA\34gb\100%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-01-29 | [`Cislo and Thomas LLP`](https://google.com/search?q=Cislo+and+Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-29 | [`Image Craft`](https://google.com/search?q=Image+Craft) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-01-29 | [`Shoma group`](https://google.com/search?q=Shoma+group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
