@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-16 | [`HR Ewell & Hy-tec`](https://google.com/search?q=HR+Ewell+%26+Hy-tec) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-16 | [`tormetal.cl`](https://google.com/search?q=tormetal.cl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`etisalat.ae`](https://google.com/search?q=etisalat.ae) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-16 | [`theclosingagent.com`](https://google.com/search?q=theclosingagent.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`North American%20University`](https://google.com/search?q=North+American%2520University) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-01-29 | [`MA Engineering`](https://google.com/search?q=MA+Engineering) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-01-29 | [`dtsolutions.net\$31.1M\USA\34gb\100%DISCLOSED`](https://google.com/search?q=dtsolutions.net%5C%2431.1M%5CUSA%5C34gb%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-01-29 | [`Cislo and Thomas LLP`](https://google.com/search?q=Cislo+and+Thomas+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
