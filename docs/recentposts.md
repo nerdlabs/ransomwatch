@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-18 | [`bucher-strauss.ch`](https://google.com/search?q=bucher-strauss.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-17 | [`ASP Basilicata`](https://google.com/search?q=ASP+Basilicata) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-17 | [`Asam`](https://google.com/search?q=Asam) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-17 | [`BRAM Auto Group`](https://google.com/search?q=BRAM+Auto+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-29 | [`grimme.dk`](https://google.com/search?q=grimme.dk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`ese.com`](https://google.com/search?q=ese.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-29 | [`crowe.com.za`](https://google.com/search?q=crowe.com.za) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-29 | [`Benjamin Plumbing%20Inc`](https://google.com/search?q=Benjamin+Plumbing%2520Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
