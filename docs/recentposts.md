@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-19 | [`soco.be`](https://google.com/search?q=soco.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-19 | [`Sports Medicine Clinic`](https://google.com/search?q=Sports+Medicine+Clinic) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-19 | [`BandB Electric Inc`](https://google.com/search?q=BandB+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-19 | [`Prudential Financial`](https://google.com/search?q=Prudential+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-01 | [`Primeimaging database for sale`](https://google.com/search?q=Primeimaging+database+for+sale) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-01-31 | [`Hydraflow`](https://google.com/search?q=Hydraflow) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-31 | [`derrama.org.pe`](https://google.com/search?q=derrama.org.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-01-31 | [`apeagers.au`](https://google.com/search?q=apeagers.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
