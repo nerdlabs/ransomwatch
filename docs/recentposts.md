@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-19 | [`VSP Dental`](https://google.com/search?q=VSP+Dental) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-18 | [`aeromechinc.com`](https://google.com/search?q=aeromechinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`carlfischer.com`](https://google.com/search?q=carlfischer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`Bimbo Bakeries`](https://google.com/search?q=Bimbo+Bakeries) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-30 | [`clackamas.edu`](https://google.com/search?q=clackamas.edu) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-30 | [`TECHNICA - HACKED AND MORE THEN 300 GB DATA LEAKED!`](https://google.com/search?q=TECHNICA+-+HACKED+AND+MORE+THEN+300+GB+DATA+LEAKED%21) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-01-30 | [`Black Butte%20Coal%20Co`](https://google.com/search?q=Black+Butte%2520Coal%2520Co) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-01-29 | [`Waterford Country%20School%20Inc`](https://google.com/search?q=Waterford+Country%2520School%2520Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
