@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-19 | [`BandB Electric Inc`](https://google.com/search?q=BandB+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-19 | [`Prudential Financial`](https://google.com/search?q=Prudential+Financial) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-19 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-19 | [`gocco.com\$937.9M\Spain\136GB\100%DISCLOSED`](https://google.com/search?q=gocco.com%5C%24937.9M%5CSpain%5C136GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-01-31 | [`derrama.org.pe`](https://google.com/search?q=derrama.org.pe) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-31 | [`apeagers.au`](https://google.com/search?q=apeagers.au) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-01-31 | [`Galaxy Fireworks, Inc`](https://google.com/search?q=Galaxy+Fireworks%2C+Inc) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-01-31 | [`Sefin`](https://google.com/search?q=Sefin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
