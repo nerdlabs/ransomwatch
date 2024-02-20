@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-20 | [`http://zivilgeometer.at`](https://google.com/search?q=http%3A%2F%2Fzivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-20 | [`http://giraudpereetfils.com/`](https://google.com/search?q=http%3A%2F%2Fgiraudpereetfils.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-20 | [`http://kaleedscpa.com`](https://google.com/search?q=http%3A%2F%2Fkaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-19 | [`http://conseguros.com.gt`](https://google.com/search?q=http%3A%2F%2Fconseguros.com.gt) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-01 | [`taloninternational.com`](https://google.com/search?q=taloninternational.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`bandcllp.com`](https://google.com/search?q=bandcllp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-01 | [`Robert D. Clements Jr Law Group, LLLP`](https://google.com/search?q=Robert+D.+Clements+Jr+Law+Group%2C+LLLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-01 | [`CNPC Peru S.A.`](https://google.com/search?q=CNPC+Peru+S.A.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
