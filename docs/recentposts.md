@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-21 | [`Desarrollo De Tecnol ogia y Sistemas Ltda`](https://google.com/search?q=Desarrollo+De+Tecnol+ogia+y+Sistemas+Ltda) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-21 | [`HRTec Inc`](https://google.com/search?q=HRTec+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-21 | [`Marchassociates`](https://google.com/search?q=Marchassociates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-21 | [`http://unique-relations.at`](https://google.com/search?q=http%3A%2F%2Funique-relations.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-05 | [`LeClair Group`](https://google.com/search?q=LeClair+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-05 | [`philogen.com`](https://google.com/search?q=philogen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`logtainer.com`](https://google.com/search?q=logtainer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-04 | [`www.commonwealthsign.com`](https://google.com/search?q=www.commonwealthsign.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
