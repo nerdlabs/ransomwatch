@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-22 | [`Worthen Industries [We're giving you one last chance to save your business]`](https://google.com/search?q=Worthen+Industries+%5BWe%27re+giving+you+one+last+chance+to+save+your+business%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-21 | [`Lancaster`](https://google.com/search?q=Lancaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-21 | [`Desarrollo De Tecnol ogia y Sistemas Ltda`](https://google.com/search?q=Desarrollo+De+Tecnol+ogia+y+Sistemas+Ltda) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-21 | [`HRTec Inc`](https://google.com/search?q=HRTec+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-05 | [`noe.wifi.at`](https://google.com/search?q=noe.wifi.at) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`ksa-architecture.com`](https://google.com/search?q=ksa-architecture.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`LeClair Group`](https://google.com/search?q=LeClair+Group) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-05 | [`philogen.com`](https://google.com/search?q=philogen.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
