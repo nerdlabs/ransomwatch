@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-23 | [`Acorn`](https://google.com/search?q=Acorn) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-23 | [`Pressco Technology`](https://google.com/search?q=Pressco+Technology) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-23 | [`H*********** *********y **********`](https://google.com/search?q=H%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2Ay+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-23 | [`APEX - apexspedition.de`](https://google.com/search?q=APEX+-+apexspedition.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`GRTC Transit System`](https://google.com/search?q=GRTC+Transit+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`SportsMEDIA Technology`](https://google.com/search?q=SportsMEDIA+Technology) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-06 | [`Vail-Summit Orthopaedics & Neurosurgery (VSON)`](https://google.com/search?q=Vail-Summit+Orthopaedics+%26+Neurosurgery+%28VSON%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-06 | [`ultraflexx.com`](https://google.com/search?q=ultraflexx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
