@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-23 | [`APEX - apexspedition.de`](https://google.com/search?q=APEX+-+apexspedition.de) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-02-23 | [`KHSS (You have 3 days)`](https://google.com/search?q=KHSS+%28You+have+3+days%29) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-23 | [`Hardeman County Community Health Center`](https://google.com/search?q=Hardeman+County+Community+Health+Center) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-22 | [`W???h?`](https://google.com/search?q=W%3F%3F%3Fh%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`ultraflexx.com`](https://google.com/search?q=ultraflexx.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`themisbourne.co.uk`](https://google.com/search?q=themisbourne.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-05 | [`tgestiona.br`](https://google.com/search?q=tgestiona.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-05 | [`semesco.com`](https://google.com/search?q=semesco.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
