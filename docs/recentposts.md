@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-24 | [`Welchs`](https://google.com/search?q=Welchs) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-23 | [`Rapid Granulator`](https://google.com/search?q=Rapid+Granulator) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-23 | [`remkes.nl\$31.4M\Netherlands\190GB\&lt;1%DISCLOSED`](https://google.com/search?q=remkes.nl%5C%2431.4M%5CNetherlands%5C190GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-23 | [`Acorn`](https://google.com/search?q=Acorn) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`Premier Facility Management`](https://google.com/search?q=Premier+Facility+Management) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Douglas County Libraries`](https://google.com/search?q=Douglas+County+Libraries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Leaders Staffing`](https://google.com/search?q=Leaders+Staffing) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-06 | [`GRTC Transit System`](https://google.com/search?q=GRTC+Transit+System) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
