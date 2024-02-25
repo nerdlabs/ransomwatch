@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-25 | [`Roncelli Plastics`](https://google.com/search?q=Roncelli+Plastics) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-24 | [`Wangkanai Group`](https://google.com/search?q=Wangkanai+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-24 | [`Spine West`](https://google.com/search?q=Spine+West) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-02-24 | [`Worthen Industries [FULL DATA]`](https://google.com/search?q=Worthen+Industries+%5BFULL+DATA%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`Hannon Transport`](https://google.com/search?q=Hannon+Transport) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`McMillan Pazdan Smith`](https://google.com/search?q=McMillan+Pazdan+Smith) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Mason Construction`](https://google.com/search?q=Mason+Construction) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-06 | [`Albert Bartlett`](https://google.com/search?q=Albert+Bartlett) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
