@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-26 | [`Webber International University`](https://google.com/search?q=Webber+International+University) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-26 | [`Family Health center`](https://google.com/search?q=Family+Health+center) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-25 | [`http://www.potogoldcoffee.com`](https://google.com/search?q=http%3A%2F%2Fwww.potogoldcoffee.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-02-25 | [`Dobrowski Stafford and Pierce`](https://google.com/search?q=Dobrowski+Stafford+and+Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`B Electric Inc`](https://google.com/search?q=B+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-06 | [`Hbl Cpas, P.C.`](https://google.com/search?q=Hbl+Cpas%2C+P.C.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-06 | [`ArpuPlus`](https://google.com/search?q=ArpuPlus) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-06 | [`Northeastern Sheet Metal`](https://google.com/search?q=Northeastern+Sheet+Metal) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
