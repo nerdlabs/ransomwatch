@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-26 | [`GCA Nederland`](https://google.com/search?q=GCA+Nederland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-26 | [`The Professional Liability Fund `](https://google.com/search?q=The+Professional+Liability+Fund+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-26 | [`Banco Promerica`](https://google.com/search?q=Banco+Promerica) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-02-26 | [`Webber International University`](https://google.com/search?q=Webber+International+University) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-06 | [`Greenwich Leisure`](https://google.com/search?q=Greenwich+Leisure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Ready Mixed Concrete`](https://google.com/search?q=Ready+Mixed+Concrete) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-06 | [`Sciba`](https://google.com/search?q=Sciba) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-06 | [`B Electric Inc`](https://google.com/search?q=B+Electric+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
