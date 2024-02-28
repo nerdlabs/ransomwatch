@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-28 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-28 | [`http://www.piperroofing.com`](https://google.com/search?q=http%3A%2F%2Fwww.piperroofing.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-28 | [`http://etairoshealth.com`](https://google.com/search?q=http%3A%2F%2Fetairoshealth.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-28 | [`DTN Management Compa ny`](https://google.com/search?q=DTN+Management+Compa+ny) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-09 | [`galbusera.it`](https://google.com/search?q=galbusera.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`Jewish Home Lifecare`](https://google.com/search?q=Jewish+Home+Lifecare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-08 | [`water.cc`](https://google.com/search?q=water.cc) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-08 | [`perkinsmfg.com`](https://google.com/search?q=perkinsmfg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
