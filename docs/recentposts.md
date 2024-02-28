@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-28 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-28 | [`Orange Public%20School%20District`](https://google.com/search?q=Orange+Public%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-27 | [`JS International`](https://google.com/search?q=JS+International) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-27 | [`Electro Marteix`](https://google.com/search?q=Electro+Marteix) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-07 | [`http://swbindinglaminating.com`](https://google.com/search?q=http%3A%2F%2Fswbindinglaminating.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`http://www.wmc-i.com`](https://google.com/search?q=http%3A%2F%2Fwww.wmc-i.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-02-07 | [`TeraGo`](https://google.com/search?q=TeraGo) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-07 | [`transaxle.com`](https://google.com/search?q=transaxle.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
