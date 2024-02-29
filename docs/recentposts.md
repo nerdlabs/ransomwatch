@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-02-29 | [`S+C Partners`](https://google.com/search?q=S%2BC+Partners) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-29 | [`verbraucherzentrale hessen`](https://google.com/search?q=verbraucherzentrale+hessen) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-28 | [`HAL Allergy`](https://google.com/search?q=HAL+Allergy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-02-28 | [`http://www.piperroofing.com`](https://google.com/search?q=http%3A%2F%2Fwww.piperroofing.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-09 | [`macqueeneq.com`](https://google.com/search?q=macqueeneq.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`parksite.com\$452.7M\USA\170GB\&lt;1%DISCLOSED`](https://google.com/search?q=parksite.com%5C%24452.7M%5CUSA%5C170GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-09 | [`galbusera.it`](https://google.com/search?q=galbusera.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`Jewish Home Lifecare`](https://google.com/search?q=Jewish+Home+Lifecare) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
