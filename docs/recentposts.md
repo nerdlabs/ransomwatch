@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-01 | [`CoreData`](https://google.com/search?q=CoreData) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-01 | [`Allan Berger & Associates`](https://google.com/search?q=Allan+Berger+%26+Associates) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-29 | [`Gilmore & Associates`](https://google.com/search?q=Gilmore+%26+Associates) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-29 | [`sunharbormanor.com`](https://google.com/search?q=sunharbormanor.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-09 | [`grupomoraval.com`](https://google.com/search?q=grupomoraval.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`moneyadvicetrust.org`](https://google.com/search?q=moneyadvicetrust.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`bsaarchitects.com`](https://google.com/search?q=bsaarchitects.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`posen.com`](https://google.com/search?q=posen.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
