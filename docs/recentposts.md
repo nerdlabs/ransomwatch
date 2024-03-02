@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-02 | [`Coastal Car`](https://google.com/search?q=Coastal+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-02 | [`New Bedford Welding Supply`](https://google.com/search?q=New+Bedford+Welding+Supply) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-02 | [`Influence Communication`](https://google.com/search?q=Influence+Communication) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-01 | [`Kool-air`](https://google.com/search?q=Kool-air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-09 | [`seymourct.org`](https://google.com/search?q=seymourct.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`northseayachtsupport.nl`](https://google.com/search?q=northseayachtsupport.nl) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-09 | [`magi-erp.com`](https://google.com/search?q=magi-erp.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-09 | [`maximumresearch.com`](https://google.com/search?q=maximumresearch.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
