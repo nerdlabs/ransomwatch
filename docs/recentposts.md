@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-03 | [`Ewig Usa`](https://google.com/search?q=Ewig+Usa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-03 | [`Petrus Resources Ltd.`](https://google.com/search?q=Petrus+Resources+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-03-03 | [`SBM & Co [You have 48 hours. Check your e-mail]`](https://google.com/search?q=SBM+%26+Co+%5BYou+have+48+hours.+Check+your+e-mail%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`oogp.com\$11.4M\USA\63GB\100%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-10 | [`www.wannagocloud.com`](https://google.com/search?q=www.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-10 | [`verdimed.es`](https://google.com/search?q=verdimed.es) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-10 | [`zivilgeometer.at`](https://google.com/search?q=zivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
