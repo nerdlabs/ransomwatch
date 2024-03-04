@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-04 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-04 | [`America Chung Nam or ACN`](https://google.com/search?q=America+Chung+Nam+or+ACN) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-03 | [`Ewig Usa`](https://google.com/search?q=Ewig+Usa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`Pacific American%20Fish%20Company%20Inc.`](https://google.com/search?q=Pacific+American%2520Fish%2520Company%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-02-10 | [`jaygroup.com\$62.2M\USA\270GB\100%DISCLOSED`](https://google.com/search?q=jaygroup.com%5C%2462.2M%5CUSA%5C270GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-10 | [`oogp.com\$11.4M\USA\63GB\100%DISCLOSED`](https://google.com/search?q=oogp.com%5C%2411.4M%5CUSA%5C63GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-02-10 | [`www.wannagocloud.com`](https://google.com/search?q=www.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
