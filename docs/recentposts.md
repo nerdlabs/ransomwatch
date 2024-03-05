@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-05 | [`http://www.hotelcontinental.no`](https://google.com/search?q=http%3A%2F%2Fwww.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-05 | [`http://www.hawita.de`](https://google.com/search?q=http%3A%2F%2Fwww.hawita.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-05 | [`http://iemsc.com`](https://google.com/search?q=http%3A%2F%2Fiemsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-04 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-10 | [`www.umtownship.org`](https://google.com/search?q=www.umtownship.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-10 | [`mranet.org`](https://google.com/search?q=mranet.org) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-02-10 | [`aisg-online.com`](https://google.com/search?q=aisg-online.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-10 | [`Pacific American%20Fish%20Company%20Inc.`](https://google.com/search?q=Pacific+American%2520Fish%2520Company%2520Inc.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
