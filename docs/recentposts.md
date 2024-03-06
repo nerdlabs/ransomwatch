@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-06 | [`Liquid Environmental%20Solutions`](https://google.com/search?q=Liquid+Environmental%2520Solutions) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-06 | [`Steiner (Austrian fu rniture makers)`](https://google.com/search?q=Steiner+%28Austrian+fu+rniture+makers%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-06 | [`Telecentro`](https://google.com/search?q=Telecentro) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-06 | [`Infosoft`](https://google.com/search?q=Infosoft) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`grotonschools.org`](https://google.com/search?q=grotonschools.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`The Gainsborough Bath`](https://google.com/search?q=The+Gainsborough+Bath) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-12 | [`Kadac Australia`](https://google.com/search?q=Kadac+Australia) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-11 | [`Amoskeag Network Consulting Group LLC`](https://google.com/search?q=Amoskeag+Network+Consulting+Group+LLC) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
