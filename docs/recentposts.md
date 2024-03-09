@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-09 | [`https://ghcscw.com/`](https://google.com/search?q=https%3A%2F%2Fghcscw.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-09 | [`Continental Aerospace Technologies`](https://google.com/search?q=Continental+Aerospace+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-08 | [`http://www.epowerrail.com`](https://google.com/search?q=http%3A%2F%2Fwww.epowerrail.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-07 | [`New York Home Healthcare`](https://google.com/search?q=New+York+Home+Healthcare) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`jacksonvillebeach.org`](https://google.com/search?q=jacksonvillebeach.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`isspol.gov`](https://google.com/search?q=isspol.gov) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`germaintoiture.fr`](https://google.com/search?q=germaintoiture.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`fidcornelis.be`](https://google.com/search?q=fidcornelis.be) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
