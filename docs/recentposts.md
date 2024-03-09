@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-09 | [`Lindsay Municipal Hospital`](https://google.com/search?q=Lindsay+Municipal+Hospital) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-09 | [`Fincasrevuelta`](https://google.com/search?q=Fincasrevuelta) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-03-09 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-09 | [`https://ghcscw.com/`](https://google.com/search?q=https%3A%2F%2Fghcscw.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-12 | [`parkhomeassist.co.uk`](https://google.com/search?q=parkhomeassist.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`paltertonprimary.co.uk`](https://google.com/search?q=paltertonprimary.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-12 | [`lyon.co.uk`](https://google.com/search?q=lyon.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-12 | [`jacksonvillebeach.org`](https://google.com/search?q=jacksonvillebeach.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
