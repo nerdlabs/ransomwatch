@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`Bridger Insurance`](https://google.com/search?q=Bridger+Insurance) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`SREE Hotels`](https://google.com/search?q=SREE+Hotels) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`Q?? ??o??`](https://google.com/search?q=Q%3F%3F+%3F%3Fo%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`Premier Technology`](https://google.com/search?q=Premier+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`Sanok Rubber Company Spólka Akcyjna`](https://google.com/search?q=Sanok+Rubber+Company+Sp%C3%B3lka+Akcyjna) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-13 | [`garonproducts.com`](https://google.com/search?q=garonproducts.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-13 | [`http://antunovich.com`](https://google.com/search?q=http%3A%2F%2Fantunovich.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-02-13 | [`Modern Kitchens `](https://google.com/search?q=Modern+Kitchens+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
