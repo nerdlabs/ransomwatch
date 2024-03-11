@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-11 | [`Premier Technology`](https://google.com/search?q=Premier+Technology) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-11 | [`plymouth.com\$137M\USA\1.83TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=plymouth.com%5C%24137M%5CUSA%5C1.83TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`cleshar.co.uk\$239.3M\UK\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`neigc.com`](https://google.com/search?q=neigc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-13 | [`Modern Kitchens `](https://google.com/search?q=Modern+Kitchens+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-13 | [`vhprimary.com`](https://google.com/search?q=vhprimary.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`textiles.org.tw`](https://google.com/search?q=textiles.org.tw) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-13 | [`tecasrl.it`](https://google.com/search?q=tecasrl.it) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
