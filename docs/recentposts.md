@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-12 | [`https://www.walkersandford.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.walkersandford.co.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-12 | [`Canada Revenue Agency`](https://google.com/search?q=Canada+Revenue+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-12 | [`White Oak Partners`](https://google.com/search?q=White+Oak+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-12 | [`Ruda Auto`](https://google.com/search?q=Ruda+Auto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-14 | [`Trans-Northern Pipelines`](https://google.com/search?q=Trans-Northern+Pipelines) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-14 | [`adioscancer.com`](https://google.com/search?q=adioscancer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-13 | [`giraudpereetfils.com/`](https://google.com/search?q=giraudpereetfils.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-13 | [`motilaloswal.com`](https://google.com/search?q=motilaloswal.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
