@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-14 | [`iamdesign.com`](https://google.com/search?q=iamdesign.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-14 | [`yarco.com`](https://google.com/search?q=yarco.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-13 | [`remkes.nl\$31.4M\Netherlands\190GB\100%DISCLOSED`](https://google.com/search?q=remkes.nl%5C%2431.4M%5CNetherlands%5C190GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-13 | [`Summit Almonds`](https://google.com/search?q=Summit+Almonds) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-14 | [`Nekoosa School Distr ict`](https://google.com/search?q=Nekoosa+School+Distr+ict) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-14 | [`studiogalbusera.com`](https://google.com/search?q=studiogalbusera.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-14 | [`vanwingerden.com`](https://google.com/search?q=vanwingerden.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-02-14 | [`kaleedscpa.com`](https://google.com/search?q=kaleedscpa.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
