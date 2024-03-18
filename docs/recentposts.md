@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-18 | [`eclinicalsol.com\$24.5M\USA\3TB\&lt;1%`](https://google.com/search?q=eclinicalsol.com%5C%2424.5M%5CUSA%5C3TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-16 | [`Consolidated Benefits Resources`](https://google.com/search?q=Consolidated+Benefits+Resources) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-16 | [`Acculabs Inc`](https://google.com/search?q=Acculabs+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-15 | [`http://www.sspps.org`](https://google.com/search?q=http%3A%2F%2Fwww.sspps.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-15 | [`sitrack.com`](https://google.com/search?q=sitrack.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`pradiergranulats.fr`](https://google.com/search?q=pradiergranulats.fr) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-15 | [`hatsinteriors.com`](https://google.com/search?q=hatsinteriors.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2024-02-15 | [`coreengg.com`](https://google.com/search?q=coreengg.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
