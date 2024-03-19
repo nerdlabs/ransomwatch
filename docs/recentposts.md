@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-19 | [`PandB Capital Group`](https://google.com/search?q=PandB+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-19 | [`Dr. Leeman ENT`](https://google.com/search?q=Dr.+Leeman+ENT) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-18 | [`http://t.me/+OVXlbwml5bE5YWQ0`](https://google.com/search?q=http%3A%2F%2Ft.me%2F%2BOVXlbwml5bE5YWQ0) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-18 | [`Schokinag`](https://google.com/search?q=Schokinag) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-16 | [`MeerServices`](https://google.com/search?q=MeerServices) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-16 | [`DuBose Strapping`](https://google.com/search?q=DuBose+Strapping) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-16 | [`SilverLining`](https://google.com/search?q=SilverLining) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-02-15 | [`Pierce`](https://google.com/search?q=Pierce) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
