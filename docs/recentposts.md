@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-22 | [`Bira 91`](https://google.com/search?q=Bira+91) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-22 | [`Chambers Construction Co.`](https://google.com/search?q=Chambers+Construction+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-22 | [`kelson.on.ca\$61.8M\Canada\1.5TB\&lt;1%`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-22 | [`newagesys.com\$24.1M\USA\319GB\&lt;1%`](https://google.com/search?q=newagesys.com%5C%2424.1M%5CUSA%5C319GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-17 | [`ASP Basilicata`](https://google.com/search?q=ASP+Basilicata) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-17 | [`Asam`](https://google.com/search?q=Asam) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-17 | [`BRAM Auto Group`](https://google.com/search?q=BRAM+Auto+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-02-17 | [`LD Davis`](https://google.com/search?q=LD+Davis) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
