@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-25 | [`Calida`](https://google.com/search?q=Calida) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-25 | [`Vita IT`](https://google.com/search?q=Vita+IT) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-25 | [`European Centre for  Compensation`](https://google.com/search?q=European+Centre+for++Compensation) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-25 | [`http://https://www.bigissue.com`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fwww.bigissue.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-19 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-19 | [`gocco.com\$937.9M\Spain\136GB\100%DISCLOSED`](https://google.com/search?q=gocco.com%5C%24937.9M%5CSpain%5C136GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-19 | [`First Professional Services`](https://google.com/search?q=First+Professional+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-19 | [`parksite.com\$452.7M\USA\170GB\100%DISCLOSED`](https://google.com/search?q=parksite.com%5C%24452.7M%5CUSA%5C170GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
