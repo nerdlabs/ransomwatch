@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-25 | [`Ej%C3%A9rcito del%20Per`](https://google.com/search?q=Ej%25C3%25A9rcito+del%2520Per) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-25 | [`Law Offices%20of%20John%20V.%20Orrick%2C%20P.L.`](https://google.com/search?q=Law+Offices%2520of%2520John%2520V.%2520Orrick%252C%2520P.L.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-25 | [`Pantana CPA`](https://google.com/search?q=Pantana+CPA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-23 | [`Butler, Lavanceau &amp; Sober`](https://google.com/search?q=Butler%2C+Lavanceau+%26amp%3B+Sober) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-18 | [`aeromechinc.com`](https://google.com/search?q=aeromechinc.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`carlfischer.com`](https://google.com/search?q=carlfischer.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2024-02-18 | [`Bimbo Bakeries`](https://google.com/search?q=Bimbo+Bakeries) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-18 | [`bucher-strauss.ch`](https://google.com/search?q=bucher-strauss.ch) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
