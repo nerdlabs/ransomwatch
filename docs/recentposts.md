@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`Lambda Energy Resources`](https://google.com/search?q=Lambda+Energy+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`lindquistinsurance.com`](https://google.com/search?q=lindquistinsurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-27 | [`contenderboats.com\$51.8M\USA\65GB\&lt;1%`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-26 | [`NHS Scotland`](https://google.com/search?q=NHS+Scotland) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`http://www.wannagocloud.com`](https://google.com/search?q=http%3A%2F%2Fwww.wannagocloud.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-20 | [`http://www.commonwealthsign.com`](https://google.com/search?q=http%3A%2F%2Fwww.commonwealthsign.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-20 | [`http://zivilgeometer.at`](https://google.com/search?q=http%3A%2F%2Fzivilgeometer.at) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-20 | [`http://giraudpereetfils.com/`](https://google.com/search?q=http%3A%2F%2Fgiraudpereetfils.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
