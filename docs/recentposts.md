@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-27 | [`Alber Law Group`](https://google.com/search?q=Alber+Law+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Hartz`](https://google.com/search?q=Hartz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Quality Enclosures`](https://google.com/search?q=Quality+Enclosures) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Lawrence Semiconductor Research Laboratory`](https://google.com/search?q=Lawrence+Semiconductor+Research+Laboratory) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-20 | [`http://www.umtownship.org`](https://google.com/search?q=http%3A%2F%2Fwww.umtownship.org) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-20 | [`http://www.projects-world.com`](https://google.com/search?q=http%3A%2F%2Fwww.projects-world.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-02-20 | [`http:// neafidi.it`](https://google.com/search?q=http%3A%2F%2F+neafidi.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-02-20 | [`http://www.mordfin.com`](https://google.com/search?q=http%3A%2F%2Fwww.mordfin.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
