@@ -1,6 +1,6 @@
 
 ## summary
-_march 26th, 2024_
+_march 27th, 2024_
 
 currently tracking `163` groups across `299` relays & mirrors - _`74` currently online_
 
