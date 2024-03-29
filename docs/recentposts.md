@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-29 | [`Control Technology`](https://google.com/search?q=Control+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-29 | [`Graypen Ltd`](https://google.com/search?q=Graypen+Ltd) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-29 | [`http://t.me/c/2054177498/3`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2054177498%2F3) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-29 | [`PSEC Church`](https://google.com/search?q=PSEC+Church) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-22 | [`W???h?`](https://google.com/search?q=W%3F%3F%3Fh%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-02-22 | [`Quik Pawn Shop`](https://google.com/search?q=Quik+Pawn+Shop) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-22 | [`mtmrobotics.com`](https://google.com/search?q=mtmrobotics.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-02-22 | [`abcor.com.au`](https://google.com/search?q=abcor.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
