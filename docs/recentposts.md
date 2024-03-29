@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-29 | [`Lodan Electronics%20Inc`](https://google.com/search?q=Lodan+Electronics%2520Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-28 | [`Lakes Precision`](https://google.com/search?q=Lakes+Precision) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-28 | [`Santa Cruz Seaside`](https://google.com/search?q=Santa+Cruz+Seaside) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-28 | [`Neurobehavioral Medicine Consultants`](https://google.com/search?q=Neurobehavioral+Medicine+Consultants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-21 | [`Lancaster`](https://google.com/search?q=Lancaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-21 | [`Desarrollo De Tecnol ogia y Sistemas Ltda`](https://google.com/search?q=Desarrollo+De+Tecnol+ogia+y+Sistemas+Ltda) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-21 | [`HRTec Inc`](https://google.com/search?q=HRTec+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-21 | [`Marchassociates`](https://google.com/search?q=Marchassociates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
