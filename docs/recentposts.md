@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-03-29 | [`PSEC Church`](https://google.com/search?q=PSEC+Church) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-29 | [`rameywine.com`](https://google.com/search?q=rameywine.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-29 | [`Tech-Quip Inc`](https://google.com/search?q=Tech-Quip+Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-29 | [`Lodan Electronics%20Inc`](https://google.com/search?q=Lodan+Electronics%2520Inc) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-22 | [`abcor.com.au`](https://google.com/search?q=abcor.com.au) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-22 | [`PEER Consultants`](https://google.com/search?q=PEER+Consultants) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-22 | [`Worthen Industries [We're giving you one last chance to save your business]`](https://google.com/search?q=Worthen+Industries+%5BWe%27re+giving+you+one+last+chance+to+save+your+business%5D) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-02-21 | [`Lancaster`](https://google.com/search?q=Lancaster) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
