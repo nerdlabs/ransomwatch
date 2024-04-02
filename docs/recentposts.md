@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-02 | [`Fincasrevuelta Data Leak`](https://google.com/search?q=Fincasrevuelta+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-02 | [`http://https://t.me/c/2124313006/1294`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1294) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-02 | [`Crimsgroup Data Leak`](https://google.com/search?q=Crimsgroup+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-02 | [`http://gaiaherbs.com`](https://google.com/search?q=http%3A%2F%2Fgaiaherbs.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-26 | [`Bjuvs kommun`](https://google.com/search?q=Bjuvs+kommun) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-26 | [`Southwest Industrial Sales`](https://google.com/search?q=Southwest+Industrial+Sales) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
 | 2024-02-26 | [`GCA Nederland`](https://google.com/search?q=GCA+Nederland) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-02-26 | [`The Professional Liability Fund `](https://google.com/search?q=The+Professional+Liability+Fund+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
