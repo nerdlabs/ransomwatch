@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-02 | [`http://https://t.me/c/2124313006/1325`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1325) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-02 | [`http://https://t.me/c/2124313006/1346`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1346) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-02 | [`http://https://t.me/c/2124313006/1353`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1353) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-02 | [`Fincasrevuelta Data Leak`](https://google.com/search?q=Fincasrevuelta+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-27 | [`advancedprosolutions.com\$5M\USA\54GB\100%DISCLOSED`](https://google.com/search?q=advancedprosolutions.com%5C%245M%5CUSA%5C54GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-02-26 | [`Ironrock`](https://google.com/search?q=Ironrock) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-02-26 | [`Penn Cinema `](https://google.com/search?q=Penn+Cinema+) | [medusa](https://ransomwatch.telemetry.ltd/#/profiles?id=medusa) |
-| 2024-02-26 | [`Bjuvs kommun`](https://google.com/search?q=Bjuvs+kommun) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
