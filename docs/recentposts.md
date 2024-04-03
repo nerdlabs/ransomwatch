@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-03 | [`Leicester City%20Council`](https://google.com/search?q=Leicester+City%2520Council) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-03 | [`Seven Seas Technology`](https://google.com/search?q=Seven+Seas+Technology) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-03 | [`regencyfurniture.com\$369M\USA\300GB\&lt;1% DISCLOSED`](https://google.com/search?q=regencyfurniture.com%5C%24369M%5CUSA%5C300GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-02 | [`http://www.ppi-global.com`](https://google.com/search?q=http%3A%2F%2Fwww.ppi-global.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-27 | [`Angeles Medical Centers`](https://google.com/search?q=Angeles+Medical+Centers) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2024-02-27 | [`moore-tibbits.co.uk`](https://google.com/search?q=moore-tibbits.co.uk) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-02-27 | [`Ann & Robert H. Lurie Children's Hospital of Chicago`](https://google.com/search?q=Ann+%26+Robert+H.+Lurie+Children%27s+Hospital+of+Chicago) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-02-27 | [`Hardeman County%20Community%20Health%20Center`](https://google.com/search?q=Hardeman+County%2520Community%2520Health%2520Center) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
