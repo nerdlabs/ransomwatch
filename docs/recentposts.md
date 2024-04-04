@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-04 | [`Remitano -%20Cryptocurrency%20Exchange`](https://google.com/search?q=Remitano+-%2520Cryptocurrency%2520Exchange) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-04 | [`mcalvain.com\$199M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=mcalvain.com%5C%24199M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-04 | [`HSPG &amp; Associates`](https://google.com/search?q=HSPG+%26amp%3B+Associates) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-03 | [`http://wackslaw.net`](https://google.com/search?q=http%3A%2F%2Fwackslaw.net) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-02-28 | [`DTN Management Compa ny`](https://google.com/search?q=DTN+Management+Compa+ny) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-02-28 | [`Hypertension Nephrology Associates, P.C.`](https://google.com/search?q=Hypertension+Nephrology+Associates%2C+P.C.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-02-28 | [`Medall Healthcare Pvt Ltd.`](https://google.com/search?q=Medall+Healthcare+Pvt+Ltd.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-02-28 | [`abtexelgroup.com\$222.6M\Netherlands\1TB\&lt;1%DISCLOSED`](https://google.com/search?q=abtexelgroup.com%5C%24222.6M%5CNetherlands%5C1TB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
