@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-06 | [`http://www.termoplastic.it`](https://google.com/search?q=http%3A%2F%2Fwww.termoplastic.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-04-06 | [`http://t.me/c/2124313006/1260`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1260) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-06 | [`http://t.me/c/2124313006/1273`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1273) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-06 | [`http://t.me/c/2124313006/1452`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1452) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-02 | [`Winona Pattern & Mold`](https://google.com/search?q=Winona+Pattern+%26+Mold) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-02 | [`Marketon`](https://google.com/search?q=Marketon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-02 | [`Stack Infrastructure`](https://google.com/search?q=Stack+Infrastructure) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-02 | [`Coastal Car`](https://google.com/search?q=Coastal+Car) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
