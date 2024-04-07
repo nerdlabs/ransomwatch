@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-07 | [`Malaysian Industrial Development Finance`](https://google.com/search?q=Malaysian+Industrial+Development+Finance) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-07 | [`http://www.ellsworthcheese.com`](https://google.com/search?q=http%3A%2F%2Fwww.ellsworthcheese.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-07 | [`https://sip.be/`](https://google.com/search?q=https%3A%2F%2Fsip.be%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-06 | [`http://easchangesystems.com`](https://google.com/search?q=http%3A%2F%2Feaschangesystems.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-04 | [`America Chung Nam or ACN`](https://google.com/search?q=America+Chung+Nam+or+ACN) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-03 | [`Ewig Usa`](https://google.com/search?q=Ewig+Usa) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2024-03-03 | [`Petrus Resources Ltd.`](https://google.com/search?q=Petrus+Resources+Ltd.) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
