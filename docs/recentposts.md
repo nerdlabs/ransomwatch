@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-08 | [`PGF Technology Group`](https://google.com/search?q=PGF+Technology+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-08 | [`Malabar Gold &amp; Diamonds`](https://google.com/search?q=Malabar+Gold+%26amp%3B+Diamonds) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-07 | [`Malaysian Industrial Development Finance`](https://google.com/search?q=Malaysian+Industrial+Development+Finance) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-07 | [`http://www.ellsworthcheese.com`](https://google.com/search?q=http%3A%2F%2Fwww.ellsworthcheese.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-05 | [`http://iemsc.com`](https://google.com/search?q=http%3A%2F%2Fiemsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-04 | [`se.com\$$33.5B\France\1.5TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=se.com%5C%24%2433.5B%5CFrance%5C1.5TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-04 | [`America Chung Nam or ACN`](https://google.com/search?q=America+Chung+Nam+or+ACN) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-04 | [`Martin's, Inc.`](https://google.com/search?q=Martin%27s%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
