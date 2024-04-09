@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-09 | [`http://www.macuz.it`](https://google.com/search?q=http%3A%2F%2Fwww.macuz.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-04-08 | [`http://maccarinelli.it`](https://google.com/search?q=http%3A%2F%2Fmaccarinelli.it) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-08 | [`REV Drill Sales & Re ntals`](https://google.com/search?q=REV+Drill+Sales+%26+Re+ntals) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-08 | [`PGF Technology Group`](https://google.com/search?q=PGF+Technology+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-06 | [`K???o???`](https://google.com/search?q=K%3F%3F%3Fo%3F%3F%3F) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-05 | [`http://www.hotelcontinental.no`](https://google.com/search?q=http%3A%2F%2Fwww.hotelcontinental.no) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-05 | [`http://www.hawita.de`](https://google.com/search?q=http%3A%2F%2Fwww.hawita.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-03-05 | [`http://iemsc.com`](https://google.com/search?q=http%3A%2F%2Fiemsc.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
