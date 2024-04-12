@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-12 | [`Henningson %26%20Snoxell%2C%20Ltd.`](https://google.com/search?q=Henningson+%2526%2520Snoxell%252C%2520Ltd.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-12 | [`Retirement Line`](https://google.com/search?q=Retirement+Line) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-12 | [`MoldTech`](https://google.com/search?q=MoldTech) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-12 | [`Theatrixx Technologies`](https://google.com/search?q=Theatrixx+Technologies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-11 | [`plymouth.com\$137M\USA\1.83TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=plymouth.com%5C%24137M%5CUSA%5C1.83TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`cleshar.co.uk\$239.3M\UK\1TB\&lt;1%DISCLOSED\DATA SALE`](https://google.com/search?q=cleshar.co.uk%5C%24239.3M%5CUK%5C1TB%5C%26lt%3B1%25DISCLOSED%5CDATA+SALE) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-11 | [`neigc.com`](https://google.com/search?q=neigc.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-03-11 | [`Frencken`](https://google.com/search?q=Frencken) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
