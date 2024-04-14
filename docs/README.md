@@ -1,14 +1,14 @@
 
 ## summary
-_april 13th, 2024_
+_april 14th, 2024_
 
-currently tracking `163` groups across `299` relays & mirrors - _`75` currently online_
+currently tracking `163` groups across `299` relays & mirrors - _`71` currently online_
 
-⏲ there have been `1` posts within the `last 24 hours`
+⏲ there have been `0` posts within the `last 24 hours`
 
 🦈 there have been `95` posts within the `month of april`
 
-🪐 there have been `663` posts within the `last 90 days`
+🪐 there have been `662` posts within the `last 90 days`
 
 🏚 there have been `728` posts within the `year of 2024`
 
