@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-15 | [`http://www.biggscardosa.com`](https://google.com/search?q=http%3A%2F%2Fwww.biggscardosa.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-15 | [`compagniedephalsbourg.com`](https://google.com/search?q=compagniedephalsbourg.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2024-04-14 | [`Omni Hotels & Resorts  (US)`](https://google.com/search?q=Omni+Hotels+%26+Resorts++%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
 | 2024-04-12 | [`http://t.me/c/2124313006/1667`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1667) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-12 | [`https://www.walkersandford.co.uk`](https://google.com/search?q=https%3A%2F%2Fwww.walkersandford.co.uk) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-03-12 | [`Canada Revenue Agency`](https://google.com/search?q=Canada+Revenue+Agency) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-12 | [`White Oak Partners`](https://google.com/search?q=White+Oak+Partners) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-12 | [`Ruda Auto`](https://google.com/search?q=Ruda+Auto) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
