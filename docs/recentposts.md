@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-17 | [`besttrans.com\$24.8M\USA\24GB\100% DISCLOSED`](https://google.com/search?q=besttrans.com%5C%2424.8M%5CUSA%5C24GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-17 | [`http://www.dvelectronics.com`](https://google.com/search?q=http%3A%2F%2Fwww.dvelectronics.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-17 | [`Len Dubois Trucking`](https://google.com/search?q=Len+Dubois+Trucking) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-17 | [`Pioneer Oil Company, Inc.`](https://google.com/search?q=Pioneer+Oil+Company%2C+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-19 | [`Dr. Leeman ENT`](https://google.com/search?q=Dr.+Leeman+ENT) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-18 | [`http://t.me/+OVXlbwml5bE5YWQ0`](https://google.com/search?q=http%3A%2F%2Ft.me%2F%2BOVXlbwml5bE5YWQ0) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-18 | [`Schokinag`](https://google.com/search?q=Schokinag) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-18 | [`grupatopex.com\$66.5M\Poland\638GB\&lt;1%`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
