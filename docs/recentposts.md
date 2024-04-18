@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-18 | [`xdconnects.com\$50.5M\Netherlands\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-17 | [`http://truenetcommunications.com`](https://google.com/search?q=http%3A%2F%2Ftruenetcommunications.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
 | 2024-04-17 | [`Delano Joint%20Union%20High%20School%20District`](https://google.com/search?q=Delano+Joint%2520Union%2520High%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-17 | [`drmarbys.com\$266.6M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=drmarbys.com%5C%24266.6M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-19 | [`Delta Pipeline`](https://google.com/search?q=Delta+Pipeline) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-19 | [`http://t.me/c/2124313006/848`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F848) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-19 | [`http://t.me/c/2124313006/794`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F794) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-03-19 | [`http://t.me/c/2124313006/735`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F735) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
