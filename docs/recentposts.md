@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-18 | [`B Capital Group`](https://google.com/search?q=B+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-18 | [`JE Owens and Company PA.`](https://google.com/search?q=JE+Owens+and+Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-18 | [`Western Saw Inc.`](https://google.com/search?q=Western+Saw+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-18 | [`xdconnects.com\$50.5M\Netherlands\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-20 | [`MarineMax`](https://google.com/search?q=MarineMax) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-20 | [`http://t.me/c/2124313006/1066`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1066) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-20 | [`Kolbe Striping`](https://google.com/search?q=Kolbe+Striping) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
-| 2024-03-19 | [`Delta Pipeline`](https://google.com/search?q=Delta+Pipeline) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
