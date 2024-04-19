@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-19 | [`Alltruck Bodies`](https://google.com/search?q=Alltruck+Bodies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`SIS Automatisering`](https://google.com/search?q=SIS+Automatisering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`Pennsylvania Convention Center`](https://google.com/search?q=Pennsylvania+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`Canadian Psychological Association`](https://google.com/search?q=Canadian+Psychological+Association) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-22 | [`Bira 91`](https://google.com/search?q=Bira+91) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-22 | [`Chambers Construction Co.`](https://google.com/search?q=Chambers+Construction+Co.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-22 | [`kelson.on.ca\$61.8M\Canada\1.5TB\&lt;1%`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-22 | [`newagesys.com\$24.1M\USA\319GB\&lt;1%`](https://google.com/search?q=newagesys.com%5C%2424.1M%5CUSA%5C319GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
