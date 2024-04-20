@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-20 | [`Lutheran Social%20Services%20of%20Indiana`](https://google.com/search?q=Lutheran+Social%2520Services%2520of%2520Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-19 | [`http://t.me/c/2124313006/1757`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1757) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-19 | [`http://https://dr-fingerle.de`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fdr-fingerle.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-19 | [`Alltruck Bodies`](https://google.com/search?q=Alltruck+Bodies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-25 | [`Law Offices%20of%20John%20V.%20Orrick%2C%20P.L.`](https://google.com/search?q=Law+Offices%2520of%2520John%2520V.%2520Orrick%252C%2520P.L.) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-25 | [`Pantana CPA`](https://google.com/search?q=Pantana+CPA) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-23 | [`Butler, Lavanceau &amp; Sober`](https://google.com/search?q=Butler%2C+Lavanceau+%26amp%3B+Sober) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-03-22 | [`Bira 91`](https://google.com/search?q=Bira+91) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
