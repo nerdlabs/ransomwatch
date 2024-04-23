@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-23 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED `](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED+) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-22 | [`http://www.jeannouvel.com`](https://google.com/search?q=http%3A%2F%2Fwww.jeannouvel.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-22 | [`Company PA.`](https://google.com/search?q=Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-22 | [`D'amico and Pettinicchi, LLC`](https://google.com/search?q=D%27amico+and+Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`Tanis Brush`](https://google.com/search?q=Tanis+Brush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-26 | [`Koi Design`](https://google.com/search?q=Koi+Design) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-03-26 | [`Crimsgroup`](https://google.com/search?q=Crimsgroup) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
-| 2024-03-25 | [`Calida`](https://google.com/search?q=Calida) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
