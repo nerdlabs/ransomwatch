@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-23 | [`rangam.com`](https://google.com/search?q=rangam.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-04-23 | [`saglobal.com\$243.7M\USA\41GB\100%DISCLOSED`](https://google.com/search?q=saglobal.com%5C%24243.7M%5CUSA%5C41GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-23 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED `](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED+) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-22 | [`http://www.jeannouvel.com`](https://google.com/search?q=http%3A%2F%2Fwww.jeannouvel.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`Barrie and%20Community%20Family%20Health%20Team`](https://google.com/search?q=Barrie+and%2520Community%2520Family%2520Health%2520Team) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-03-26 | [`Lieberman LLP`](https://google.com/search?q=Lieberman+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-03-26 | [`Tanis Brush`](https://google.com/search?q=Tanis+Brush) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-03-26 | [`Koi Design`](https://google.com/search?q=Koi+Design) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
