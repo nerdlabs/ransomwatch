@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-23 | [`Bank Pembangunan Daerah Banten Tbk PT`](https://google.com/search?q=Bank+Pembangunan+Daerah+Banten+Tbk+PT) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-23 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED    `](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED++++) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-23 | [`rangam.com`](https://google.com/search?q=rangam.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-04-23 | [`saglobal.com\$243.7M\USA\41GB\100%DISCLOSED`](https://google.com/search?q=saglobal.com%5C%24243.7M%5CUSA%5C41GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-26 | [`El Debate`](https://google.com/search?q=El+Debate) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-03-26 | [`http://www.summerfresh.com`](https://google.com/search?q=http%3A%2F%2Fwww.summerfresh.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-26 | [`Barrie and%20Community%20Family%20Health%20Team`](https://google.com/search?q=Barrie+and%2520Community%2520Family%2520Health%2520Team) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-26 | [`Lieberman LLP`](https://google.com/search?q=Lieberman+LLP) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
