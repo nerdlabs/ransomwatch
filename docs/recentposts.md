@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-23 | [`https://www.octapharmaplasma.com/`](https://google.com/search?q=https%3A%2F%2Fwww.octapharmaplasma.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-23 | [`Ministerio de Desarrollo Local`](https://google.com/search?q=Ministerio+de+Desarrollo+Local) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-23 | [`defi SOLUTIONS.`](https://google.com/search?q=defi+SOLUTIONS.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-23 | [`Bank Pembangunan Daerah Banten Tbk PT`](https://google.com/search?q=Bank+Pembangunan+Daerah+Banten+Tbk+PT) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`lindquistinsurance.com`](https://google.com/search?q=lindquistinsurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-03-27 | [`contenderboats.com\$51.8M\USA\65GB\&lt;1%`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-26 | [`NHS Scotland`](https://google.com/search?q=NHS+Scotland) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
-| 2024-03-26 | [`El Debate`](https://google.com/search?q=El+Debate) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
