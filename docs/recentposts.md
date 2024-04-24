@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-24 | [`Hirsh Industries`](https://google.com/search?q=Hirsh+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-23 | [`xdconnects.com\$50.5M\Netherlands\1TB\100% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-23 | [`https://www.octapharmaplasma.com/`](https://google.com/search?q=https%3A%2F%2Fwww.octapharmaplasma.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-23 | [`Ministerio de Desarrollo Local`](https://google.com/search?q=Ministerio+de+Desarrollo+Local) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Lawrence Semiconductor Research Laboratory`](https://google.com/search?q=Lawrence+Semiconductor+Research+Laboratory) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Lambda Energy Resources`](https://google.com/search?q=Lambda+Energy+Resources) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`lindquistinsurance.com`](https://google.com/search?q=lindquistinsurance.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
-| 2024-03-27 | [`contenderboats.com\$51.8M\USA\65GB\&lt;1%`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C%26lt%3B1%25) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
