@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-24 | [`http://petercondakes.com`](https://google.com/search?q=http%3A%2F%2Fpetercondakes.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-24 | [`STERCH - INTERNATIONAL s.r.o.`](https://google.com/search?q=STERCH+-+INTERNATIONAL+s.r.o.) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-24 | [`Army Welfare Trust`](https://google.com/search?q=Army+Welfare+Trust) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-04-24 | [`Hirsh Industries`](https://google.com/search?q=Hirsh+Industries) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Alber Law Group`](https://google.com/search?q=Alber+Law+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Hartz`](https://google.com/search?q=Hartz) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Quality Enclosures`](https://google.com/search?q=Quality+Enclosures) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-27 | [`Lawrence Semiconductor Research Laboratory`](https://google.com/search?q=Lawrence+Semiconductor+Research+Laboratory) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
