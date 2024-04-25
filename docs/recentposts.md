@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-25 | [`Protected: HIDE NAME SELL DATA SOON`](https://google.com/search?q=Protected%3A+HIDE+NAME+SELL+DATA+SOON) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-04-25 | [`CDSHotels`](https://google.com/search?q=CDSHotels) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-25 | [`Les Miroirs St-Antoine Inc`](https://google.com/search?q=Les+Miroirs+St-Antoine+Inc) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-24 | [`http://www.beloinlaw.com`](https://google.com/search?q=http%3A%2F%2Fwww.beloinlaw.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-27 | [`Weld Plus`](https://google.com/search?q=Weld+Plus) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`Festspielhaus Baden-Baden`](https://google.com/search?q=Festspielhaus+Baden-Baden) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-27 | [`West Monroe`](https://google.com/search?q=West+Monroe) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-03-27 | [`Frawner`](https://google.com/search?q=Frawner) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
