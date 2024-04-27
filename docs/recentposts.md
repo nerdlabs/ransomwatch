@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-04-27 | [`Yale Mortgage`](https://google.com/search?q=Yale+Mortgage) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-27 | [`Madata`](https://google.com/search?q=Madata) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-26 | [`Legislative Bill Drafting Commission`](https://google.com/search?q=Legislative+Bill+Drafting+Commission) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-26 | [`Toolmarts`](https://google.com/search?q=Toolmarts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-28 | [`grupatopex.com\$66.5M\Poland\638GB\100%DISCLOSED\`](https://google.com/search?q=grupatopex.com%5C%2466.5M%5CPoland%5C638GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-28 | [`Primeimaging Data Leak`](https://google.com/search?q=Primeimaging+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-03-28 | [`qosina.com\$37.9M\USA\375GB\100%DISCLOSED\`](https://google.com/search?q=qosina.com%5C%2437.9M%5CUSA%5C375GB%5C100%25DISCLOSED%5C) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-28 | [`Mermet`](https://google.com/search?q=Mermet) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
