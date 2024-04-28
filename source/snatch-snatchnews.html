@@ -1,1 +1,315 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131}button,html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{color:#ee730a;text-decoration:underline}body .lds-ring div{border-color:#999 transparent transparent}body .font-red{color:#b20f03}body .big-button,body .pow-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=)}body #challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+)}}body{display:flex;flex-direction:column;min-height:100vh}body.no-js .loading-spinner{visibility:hidden}body.no-js .challenge-running{display:none}body.dark{background-color:#222;color:#d9d9d9}body.dark a{color:#fff}body.dark a:hover{color:#ee730a;text-decoration:underline}body.dark .lds-ring div{border-color:#999 transparent transparent}body.dark .font-red{color:#b20f03}body.dark .big-button,body.dark .pow-button{background-color:#4693ff;color:#1d1d1d}body.dark #challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=)}body.dark #challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+)}body.light{background-color:transparent;color:#313131}body.light a{color:#0051c3}body.light a:hover{color:#ee730a;text-decoration:underline}body.light .lds-ring div{border-color:#595959 transparent transparent}body.light .font-red{color:#fc574a}body.light .big-button,body.light .pow-button{background-color:#003681;border-color:#003681;color:#fff}body.light #challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=)}body.light #challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+)}a{background-color:transparent;color:#0051c3;text-decoration:none;transition:color .15s ease}a:hover{color:#ee730a;text-decoration:underline}.main-content{margin:8rem auto;max-width:60rem;width:100%}.heading-favicon{height:2rem;margin-right:.5rem;width:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{height:1.5rem;width:1.5rem}}.footer,.main-content{padding-left:1.5rem;padding-right:1.5rem}.main-wrapper{align-items:center;display:flex;flex:1;flex-direction:column}.font-red{color:#b20f03}.spacer{margin:2rem 0}.h1{font-size:2.5rem;font-weight:500;line-height:3.75rem}.h2{font-weight:500}.core-msg,.h2{font-size:1.5rem;line-height:2.25rem}.body-text,.core-msg{font-weight:400}.body-text{font-size:1rem;line-height:1.25rem}@media (width <= 720px){.h1{font-size:1.5rem;line-height:1.75rem}.h2{font-size:1.25rem}.core-msg,.h2{line-height:1.5rem}.core-msg{font-size:1rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);padding-left:34px}#challenge-error-text,#challenge-success-text{background-repeat:no-repeat;background-size:contain}#challenge-success-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=);padding-left:42px}.text-center{text-align:center}.big-button{border:.063rem solid #0051c3;border-radius:.313rem;font-size:.875rem;line-height:1.313rem;padding:.375rem 1rem;transition-duration:.2s;transition-property:background-color,border-color,color;transition-timing-function:ease}.big-button:hover{cursor:pointer}.captcha-prompt:not(.hidden){display:flex}@media (width <= 720px){.captcha-prompt:not(.hidden){flex-wrap:wrap;justify-content:center}}.pow-button{background-color:#0051c3;color:#fff;margin:2rem 0}.pow-button:hover{background-color:#003681;border-color:#003681;color:#fff}.footer{font-size:.75rem;line-height:1.125rem;margin:0 auto;max-width:60rem;width:100%}.footer-inner{border-top:1px solid #d9d9d9;padding-bottom:1rem;padding-top:1rem}.clearfix:after{clear:both;content:"";display:table}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix:after{clear:none;content:none;display:initial;text-align:center}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-spinner{height:76.391px}.lds-ring{display:inline-block;position:relative}.lds-ring,.lds-ring div{height:1.875rem;width:1.875rem}.lds-ring div{animation:lds-ring 1.2s cubic-bezier(.5,0,.5,1) infinite;border:.3rem solid transparent;border-radius:50%;border-top-color:#313131;box-sizing:border-box;display:block;position:absolute}.lds-ring div:first-child{animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0)}to{transform:rotate(1turn)}}@media screen and (-ms-high-contrast:active),screen and (-ms-high-contrast:none){.main-wrapper,body{display:block}}.rtl .heading-favicon{margin-left:.5rem;margin-right:0}.rtl #challenge-success-text{background-position:100%;padding-left:0;padding-right:42px}.rtl #challenge-error-text{background-position:100%;padding-left:0;padding-right:34px}</style><meta http-equiv="refresh" content="375"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div id="challenge-error-title"><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: '3',cZone: "snatchnews.top",cType: 'managed',cNounce: '33178',cRay: '87b4f25d1821b7b5',cHash: 'd65ee5b84e0cded',cUPMDTk: "\/?__cf_chl_tk=N_iwvHRzFtDECEJWfIMP5gGgaowTDVFWOXemvYMzANk-1714285229-0.0.1.1-1450",cFPWv: 'b',cTTimeMs: '1000',cMTimeMs: '375000',cTplV: 5,cTplB: 'cf',cK: "visitor-time",fa: "\/?__cf_chl_f_tk=N_iwvHRzFtDECEJWfIMP5gGgaowTDVFWOXemvYMzANk-1714285229-0.0.1.1-1450",md: "0fPlWAYdD3.6H9.o_0FmQooOhcYOLxHqHAQcBZIW0Ic-1714285229-1.1.1.1-uPf5Vcc0rQCzlTKUVWihaeWYFXHvA.cA7YodJzcdXJqQdG8fABdMjBUCNrSgiKVF4UVBTN9OdRIr3dFaJgdptVhztnH7qdFsMdsVZvnKzk2dDH1wjAaz0R8jwLUmkw4BEz_X_2GVvpEvOaoQHJy4c.THiLfAoAac8gZ7SgHzmgXHe1DGVnGrDpJqCuwcPSgRskbrrBMtbPsnCCBLeSXECF2haAyHix3zkZLYeYyKQ9YnivX0ydr5DkChbqWniFXvMw58QX9xlVRsTgfmnUkmoi.B9VF4KpU9i9cwz.lpGHWz3HhmzSSLsBEmOSw_DbLfyUG2aemh09Ys2OLjxoXp79P5wHVKqsDrsjfvOIgnj6oQ0zMtWliYtsHVWD5CXYDXjiSZStoiJtD_TaPwrw9GCgMb_RLw_TBp9nxMI3HPOY2bnFObWlIN0HLK1D1oiIO6PoNvQkYQOXwBd9RWw8csWRIP2V2KEvtUpCw38h7Rl2gzYbF1u.38Wi_y5ugkoj0T0Bjzagsb.rCIvjMXwjYcv5LjaRNjVghbTmw3RDhnPhurF4adX0UtcNR.YOsXpQf2u6BjHJinwko5ZzOyIHXsshfTmJy5Qk7vuzU_DWUmcrw0.BqSE41rrI5mVuOChfzk.Qe0y1WOwHcF1FKfgMtRhdCp_XG8S7CJHI4U37ITKXGvu9hkthcKHYo.18yLUnIrfaOqjRNpvbjNRbzOq3bECjndaMqqQa0yUSvsYsAZCiAdzQHC9WfDwvwryZ8dM7EUo7yrMuI7iddqAIXv9_8qNdCAXf2M3wC3Ip5GUWm_IHdpoamga9StC65gubg0V9zmnhuYZuCMtpeUO1TiW9ogIs0O.jIHDPTrcJWVp2kLXeyNYHMcQlDxfPlipTZzdfC9ayBPS1v7rwbwK26EVHMtRJDqo4pT6KVThBv8A5esx9e0ZQDHhWzC8MamrWrTFIF2G8sJBSL.njG4Wb9qAo6UB2788PWzj_JW6hLFPIcxt5PcPsXpcVLo2e.fMNCebAvrtY7bVtQzvcAlmfsICPsX_b90.4o_D0iKPlvAaBy5OErMxiVU6QyKkoHSd37yJFXID6xLL3De6mYnQZPpQFjIuztGLG5VuSXNRCUzpm1MIlvUzvqGvTCZ69KDEVS92WNeltnmC.9yF11YNb8Oi4S2wIf48VHIbBntAmTsvj7gc4PIgh4V_Tc2CbWIvUToYBsVoywJC.ivuh.w2aA0GnBH6TKfNwYUW2Jh0Gpc_ZgpoQLH3hoX_9EVtUvk66rh8_DDbKv0QHU5tqxKHHVobV7googic2KNkmJbT47kyGg7mwk.CqPWxBoBHBRNdWyjkBynO0_8X.eVcZAnzcg40d9bfqe8Lf5awIXJAE2M9hzpvQQ",mdrd: "AcNoBOV.BPg0K4Rq1zw.myYVXkD47xFHn2opqhB0O2E-1714285229-1.1.1.1-DKVGISSoxpftnVL.gV9wZqLJl9llZapNmU65nCb5IiBW9G9b0x3fJN6wKepumE6bXbEYf7SQMwwlfmE6tOM.7.Ex2zBGCY9B5CuZ6rx0f8XeczCNErPe1_nRJSkvykjONxfa9FUEl3219xPvPvR2923ZIVo66PSzMSVnup3CDys5ITM_a9bgIQcjnk52iR0B3sdq1KlI_NWCEWemvzOzrFfWomgxv3_CCbPxOIDjT.ZLUEjSSZ1Yz5PdNw2JDyi3N7A.UHc9UJPjeX7PAuWTwzw.u342g_HWOajC4Sq3P84SInd73pPU7YZcVWwH7Sh5rsJqYDE40Yl9SC2w2PK5W6_ZNF4BXvmE_0G9QD536NhHyI9MuSNtId0amDW5hXzNa2V9l.lZXrZovxSwaNwoNlWYIuPH0N01d21tGEHnPurBDFbD59pkU7DoKg9JuheB1wHF23foFFHdtTCx3Xi29HY8MIWp2BYAEk8cZS8Vh56G2UYpZnxqLB35Ntv2rA1UXEv4Xnf4rr6a1XMufBv7dz9DUMCJwCChe2QedIWLPwmgb_G1I9.WPa0Dm1pifJFbnW2ib9Bb0tnVyStS.c1dVgbSw_YJGxffGSc4P0CgNYQFfOd9MgV0ttoblUBBlP.NgrINlP6pOhfUgEzsdmrP8hzVuioSl_O0WxAl86_VQg78B3f3MKiCoKHAUgEwauimplkzAF.tBJLBwecAHTroM_dwRnce29kgg.7rPibprHBJDACIz3198pltzIDnCAdlBv3FQ8y_WUIfAH9ZLb5vK0rLLDCjzFRAgbhRJttyugjEW72lkC9baTC2jivTUkQY03bvE0TxlYWgKi.QOpaXlG8NRKqR5RyC6.XWu0aMLfB3RbMfNtK6ldN_gMPaIrTm3L9BjE9m3rw_t7yBNV7RzDHUt0bOc_kI9iV_CLFJrospyag1B1SEiwfR84JXIXBxnVSGmRXhy21a_NqjJ7OpZffU0Yj8Iwf2ScYir7gM7MyA5RXrzW.dmEQ4xTlfN.ssDXQEKMcHHOPsqTmruiQjAA0vmwEhqw3vX_J8INPWne8z2nThU7tT0PMUcAOfPOxIb7LZ6o84u9WY.Gfvb_MzivoEDTJaQBau0AKAeZkXxpVp2Tl8h96IKh6iwm_vrKrSn31ssCIWo_tYTOpPAnpBJl5XDfZm3YEYaGQdCSimmB3YsWp._juS5mPX2ISZXZYqCTLLrnPxz8vrKtjzKVIXfKEmQsQjjNRhhTJZPY2WGTo85BAj_yVAhWweNBMrlwJBj2P2ON0nN95zzvwpaCKVoYUNBwkxFs8NjmlALnmwBDGfIMFsb77pixBYFgFPqPh8p_1dCPIfBybZ2QtnfO9iPF2z6.qTcTVdOKMpnVz.ZjuM1_RTsIEkZuSyU4ISVuAK_mECFW_AOqQBVqS78jQxIMg7GKmut8aEpS2E4XF7D3cs06x3cXRiowV2t3N16hB4LqWB8DwdEvjfn.ACVX3dgd6oKP.9DFr3k98xH5YzBMiDygAl6Er85NoWtaxIQbcH_fxixB9f9Pz2h9DqYZHLzeIsHv_KsyuGX0YjaCPNI3RoRkIb2sgZlSyM3O73.MNspXymcThTOdZaTXIsw2Q7FCR4aAzo5Th.kc8Anmw3BiNeCGjI94nS8yThQwZc3cXs1RKr8eMYhQ5xOuhXGw2gGOlFaS1OvdgObvDNoBjRMP_hSDD5ksuDitrdx_5TGAEPFeX8Kxg4u6TiyZBFf8Zn1aOKDIS.WFzoeqgOBywVPnRht_Rz2NXV2Vi0L5xaHnmP1OYcWOFo5vaaXHuXuVXRAO45WDoCAOxcUt988SLOYLifZxu817LsJtVTpBIKhRLL4qXZIkkX9oDyC3SrZUublXCxkXDYw7_f5qYN4h2M0hBuWzfprXVeiU8PZYnBV6qZBJ27AHkcahQ1zDxSyqrwqEfbaAqIkHqIsM9VtgoFFr6EvlG7J5xB2NbwR4_mLZHeWWgmv1X6g1Wtt73nCwBGoI7o81juId_WkxRF3Y3.f7_uw.k8mhusiziyN_9bWXltRLOqwA4QEDPbBt9_1pBFIhHyFRmUPJmR.JsWHqGvxfdKWAmZw5C1vlY8cW2G7dtSS6mc3dGYe0We2NYLl29hxmJ5oBEB60.Ycsdc4.iNjmfAc49Ftak1Tt0ZtgXO_GhGWqhcUsWfHvEq.Ke4gRjdmoAY_Ajl3R.rehBYjA59GB7erXZ2KB8TjW1eERsZhayUSrUsGvfY242nWUU2Es_X2.gmvue7W_X2g8S8hRtkGHjs2lcVhcnw0Axh2aMof3WJ",cRq: {ru: 'aHR0cHM6Ly9zbmF0Y2huZXdzLnRvcC8=',ra: 'TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk4LjAuNDc1OC4xMTkgWWFCcm93c2VyLzIyLjMuMC4yNDMwIFlvd3Nlci8yLjUgU2FmYXJpLzUzNy4zNg==',rm: 'R0VU',d: 'YzzgILFqDZk0YZb0BluC5333yajEkLZR6OY05GrHypJj1kugIuqrZ6WAsMUUCSX6hqzv85xBcB45VKH7sD7XPG85NW2u28uz8j/pXXj/c5XXzDMsybEKP2SqfnBeMsfaxnY02N0Pd0XXdtlxREliQSldK48+or/3xWmB72IIo6ja/mpLlyMIgah5p9O2tfEyEV30hpg9tnj3oqUmYWoy9FHDi8fThk2xW90uZnVroDH/TwWcK/jYN3KMZ5jq5OdZjYBZR+knwj6YgWwB5iyVHJtU767y/KFEpbx6GKs40ACJKpQ5sK3zhn2ca67cI8elju7wXTUF+dftfBDWc/09f9J6MUbVZpv+W/cdm68M9YDHvrJ66NmYqbIBFG6hUbfDbMpqCugh7NsDJ7RTFUWV37J6YWtEKr7W5fo7w3ZMiL34BqVlp9mSdFwr08Gb7Sbvo/ZXrzrYOjGaf2w4pS3HHmPMIAAyCCH710kogaUTRnV9Ml8ffSi8yV0d076C1bCy',t: 'MTcxNDI4NTIyOS42MjIwMDA=',cT: Math.floor(Date.now() / 1000),m: '6bJBclQk5VHwOBc33aedOKvUS0Ngmu+weBJsoN9sSLM=',i1: 'H/w25I4vgI/D7w1HcTAAoQ==',i2: 'OZaiXWJMJCmuCmpmGvw3cQ==',zh: 'TyU7hvPaEanaurlN9ybKgjkbiXS/tgvuCBmO2pqPVS8=',uh: 'ZZoQWYvLyqh4LnASl1TAwNJAC1AS46eVM9NOZvf8Pxk=',hh: 'aFKKvOT22jjGA6OkB92aibFO8sE3gvWk4q1t7bOXsOw=',}};var cpo = document.createElement('script');cpo.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=87b4f25d1821b7b5';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\/?__cf_chl_rt_tk=N_iwvHRzFtDECEJWfIMP5gGgaowTDVFWOXemvYMzANk-1714285229-0.0.1.1-1450" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(cpo);}());</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>News</title>
+    <meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" href="../assets/css/reset.css" />
+<link rel="stylesheet" href="../assets/css/bootstrap-grid.min.css" />
+<link rel="stylesheet" href="../assets/css/swiper-bundle.min.css" />
+
+<link rel="stylesheet" href="../assets/css/style.css" />
+
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/swiper-bundle.min.js"></script>
+<script src="../assets/js/app.js" defer></script>
+</head>
+<body>
+<div class="wrapper">
+    
+<div id="UUID" class="mainModal">
+    <div class="modalUUID">
+        <a href="" title="Close" class="close">X</a>
+        <h2>ENTER UUID</h2>
+        <p>
+            To contact us, you must enter your personal UUID in the field below and press ENTER.
+            After logging in, you will receive detailed information about your company.
+        </p>
+        <form action="" method="post">
+            <input
+                    class="uuid-input"
+                    name="uuid"
+                    type="text"
+                    minlength="20"
+                    required
+                    placeholder="XXXX-XXXX-XXXX-XXXX"
+            />
+            <input type="hidden" name="uuid_redirect">
+            <input type="submit" value="ENTER" />
+        </form>
+        <p class="gotofb">
+            If you do not have UUID, please contact via the
+            <a href="#feedback">feedback</a> form
+        </p>
+    </div>
+</div>
+<div id="feedback" class="mainModal">
+    <div class="modalFeedback">
+        <a href="#close" title="Закрыть" class="close">X</a>
+        <h2>Feedback</h2>
+        <p>
+            If you are the owner of the company you can leave your contact details and you will be provided with a UUID to enter the chat. If you are a media outlet, leave your contacts and we will contact you very soon.
+        </p>
+        <form action="" method="post">
+            <input
+                    name="feedback-name"
+                    required
+                    autocomplete="on"
+                    id="1"
+                    type="text"
+                    placeholder="Your name"
+            />
+            <input
+                    id="2"
+                    required
+                    name="feedback-contacts"
+                    autocomplete="on"
+                    type="email"
+                    placeholder="Your email"
+            />
+            <textarea
+                    name="feedback-message"
+                    required
+                    id="3"
+                    cols="30"
+                    rows="4"
+                    minlength="20"
+                    placeholder="Your message"
+            ></textarea>
+            <img src="data:image/jpeg;base64,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" alt="Enable images to see captcha" width="200" height="60"/>
+            <input
+                    name="captcha"
+                    required
+                    id="captcha"
+                    type="text"
+                    placeholder="Complete captcha"
+            />
+            <input type="hidden" name="gc_value" value="$2y$10$0JmaiMtPt13ShOpVqSrkCuz9EkM8Vs4y0frkcuFMK4tF2thKZ45Pu">
+            <input type="hidden" name="feedback_form">
+            <input type="submit" value="SEND" />
+        </form>
+    </div>
+</div>
+<div id="public_notice" class="mainModal">
+    <div class="modalNotice">
+        <a href="" title="Close" class="close">X</a>
+        
+        <h2>Public notice</h2>
+        <p>
+            — I ain't fucking buying that.
+        </p>
+		<p>
+            — That's handy because I ain't fucking selling it. It's a fact.
+        </p>
+		<p>
+            by Guy Ritchie
+        </p>
+        <br>
+        <p>
+            1. Snatch is a leakage data base open for public use.
+        </p>
+        <p>
+            2. Snatch does not assume any responsibility for the information and the methods of its acquisition.
+        </p>
+        <p>
+            3. Snatch is ready to cooperate with any groups and companies that provide exclusive information for its further publication. The information source should in that case refuse to carry any responsibility for this information.
+        </p>
+        <p>
+            4. Snatch is ready to publish information of any content and confidential level ignoring all the possible consequences.
+        </p>
+        <p>
+            5. All responsibility for the publications lies upon the persons who made the information leakage possible from the sources they have been entrusted with.
+        </p>
+        <p>
+            6. Snatch publishes personal data and contacts of the personalities who are responsible for  data leakage and made it possible.
+        </p>
+        <p>
+            7. All the information and data published on our resource is of public use and can be shared with similar resources – but the right of the first publication always belongs to the Snatch team.
+        </p>
+        <p>
+            8. Snatch is open to the collaboration with any media to make data leakage situations shared and visible to wide range of people.
+        </p>
+        <p>
+            9. Snatch is always open for a dialogue with the owners of the data and is willing to solve the situation. One can always contact us within the confidential chat room or with the help of feedback form.
+        </p>
+        <p>
+            10. All negotiations are possible only with the means of our chat platform and are kept absolutely confidential.
+        </p>
+        <p>
+            11. Snatch does not assume any responsibility for the data publication consequences and confidential data usage. All the responsibility lies upon those who made the data leakage possible.
+        </p>    </div>
+</div>
+
+<div id="press_release" class="mainModal">
+    <div class="modalRelease">
+        <a href="" title="Close" class="close">X</a>
+        
+        <h2>Press release</h2>
+
+        
+        
+
+        <!-- Slider main container -->
+        <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide"><h3>S.N.Atch Manifesto</h3>
+                    <p class="release-data">2024-01-26 06:24:00 PM</p>
+                    <p>Dear Ladies and Gentlemen. In connection with the current catastrophic situation in the field of cybersecurity in the United States and other countries, in order to accelerate changes in the attitude of the existing authorities to the ongoing leaks and huge data dumping into the public segment of the Internet, we have decided not to publish any more information according to the scheme - impersonal business and impersonal power.</p><p>Business and power are united and go hand in hand. And each leak has its own name and face, both from the side of the business that allowed it and from the side of the authorities covering this business. That's why from now on each of our publications will be accompanied by personal data of presidents (owners of companies) and personal data of representatives of authorities assigned to this region. If the authorities don't care about personal data of ordinary citizens, then they don't care about their own data leakage either. That's why from now on all publications will follow a new formula - the face of the company, the face of the representative of the authority covering the company. De jure, any government official has the same rights and freedoms as ordinary citizens, so if a company voluntarily leaks its customers' and partners' data to the network, the government official responsible for legislation in this area should also be leaked. We do not hope to change the world and the government's attitude to what is happening, but we want you to know the face of those responsible for your cyber genocide.</p>
+                    </div><div class="swiper-slide"><h3>S.N.Atch out of politics</h3>
+                    <p class="release-data">2023-10-11 11:00:00 PM</p>
+                    <p>Many of our subscribers ask how we feel about what is happening in the world. Why, unlike, for example, Killnet or pro-Ukrainian hacker groups, we do not make loud statements and do not indicate our position on what is happening in the world. Why there are no targets on our portal, that are attached to one or another side in the confrontation. The answer is simple. We believe that it is unacceptable to deprive a person of life. Life is a great gift, given not by man, but to man. And under no circumstances, under no excuses another person has a right to take away this gift. Never on our portals you will find neither Russian, nor Ukrainian, nor Israeli, nor Palestinian targets. And we will ban with no mercy those who try to post them. </p><p><br></p><p>We want to prevent an imminent catastrophe, the name of which is World War III. And this war will not be as you are used to seeing it - explosions, deaths, bombings. Half of it will be held in cyberspace, thanks to the connivance of those who sneer at network security. We have already described on the channel attacks on a couple of targets that could collapse if they had been blocked. And there are thousands of such targets, and with a well-planned and organized attack it is possible to plunge the entire critical infrastructure of a single country into deep chaos. And the damage including human lives from such an attack will be much higher and much scarier than from bombing! </p><p><br></p><p>That is why we are against the coming apocalypse and we are trying by all possible means to draw your attention, the attention of the entire world community to the existing problems. This is our position, this is our mission and we will always keep to the chosen path. So do not wait for loud statements as other groups do, blood and tears cannot be justified! The precept "thou shalt not murder" - has no footnotes or annotations!</p>
+                    </div><div class="swiper-slide"><h3>Security Notification Attachment</h3>
+                    <p class="release-data">2023-09-27 12:00:00 AM</p>
+                    <p>We&nbsp;have&nbsp;been&nbsp;very&nbsp;often&nbsp;written&nbsp;about&nbsp;in&nbsp;various&nbsp;media&nbsp;in&nbsp;recent&nbsp;times.&nbsp;</p><p>We&nbsp;look&nbsp;through&nbsp;these&nbsp;articles&nbsp;and&nbsp;unfortunately&nbsp;we&nbsp;see&nbsp;the&nbsp;same&nbsp;mistake&nbsp;</p><p>in&nbsp;them&nbsp;that&nbsp;the&nbsp;media&nbsp;repeat&nbsp;year&nbsp;after&nbsp;year,&nbsp;without&nbsp;bothering&nbsp;to&nbsp;check&nbsp;the</p><p>data&nbsp;and&nbsp;study&nbsp;the&nbsp;history&nbsp;of&nbsp;the&nbsp;project.&nbsp;So&nbsp;we&nbsp;decided&nbsp;to&nbsp;help&nbsp;them.</p><p><br></p><p>First&nbsp;of&nbsp;all&nbsp;we&nbsp;have&nbsp;nothing&nbsp;to&nbsp;do&nbsp;with&nbsp;the&nbsp;Snatch&nbsp;ransomware&nbsp;project&nbsp;that&nbsp;</p><p>appeared&nbsp;in&nbsp;2019&nbsp;and&nbsp;existed&nbsp;for&nbsp;about&nbsp;2&nbsp;years.&nbsp;</p><p>We&nbsp;are&nbsp;the&nbsp;Security&nbsp;Notification&nbsp;Attachment&nbsp;(SNAtch&nbsp;for&nbsp;short)&nbsp;Team,&nbsp;</p><p>a&nbsp;group&nbsp;specializing&nbsp;exclusively&nbsp;in&nbsp;leaked&nbsp;sensitive&nbsp;data.&nbsp;</p><p>We&nbsp;don't&nbsp;deal&nbsp;with&nbsp;locking&nbsp;companies&nbsp;or&nbsp;critical&nbsp;infrastructure,&nbsp;</p><p>we&nbsp;don't&nbsp;aim&nbsp;to&nbsp;stop&nbsp;a&nbsp;company&nbsp;from&nbsp;operating&nbsp;by&nbsp;attacking&nbsp;it&nbsp;with&nbsp;software&nbsp;</p><p>that&nbsp;blocks&nbsp;the&nbsp;control&nbsp;servers.&nbsp;</p><p>If&nbsp;journalists&nbsp;analyze&nbsp;our&nbsp;work&nbsp;carefully,&nbsp;</p><p>they&nbsp;will&nbsp;see&nbsp;that&nbsp;not&nbsp;a&nbsp;single&nbsp;client&nbsp;of&nbsp;ours&nbsp;has&nbsp;been&nbsp;attacked&nbsp;by&nbsp;a&nbsp;malware</p><p>that&nbsp;can&nbsp;be&nbsp;called&nbsp;Snatch.&nbsp;</p><p><br></p><p>Yes,&nbsp;many&nbsp;of&nbsp;them&nbsp;have&nbsp;been&nbsp;attacked&nbsp;by&nbsp;various&nbsp;ransomware,</p><p>as&nbsp;we&nbsp;are&nbsp;open&nbsp;for&nbsp;cooperation&nbsp;and&nbsp;often&nbsp;groups&nbsp;that&nbsp;work&nbsp;in&nbsp;this&nbsp;direction</p><p>give&nbsp;us&nbsp;unique&nbsp;confidential&nbsp;data&nbsp;that&nbsp;were&nbsp;leaked&nbsp;from&nbsp;the&nbsp;attacked&nbsp;companies.&nbsp;</p><p>But&nbsp;once&nbsp;again,&nbsp;the&nbsp;Snatch&nbsp;locker&nbsp;that&nbsp;we&nbsp;are&nbsp;compared&nbsp;to&nbsp;in&nbsp;the&nbsp;media&nbsp;has&nbsp;never&nbsp;been&nbsp;used.&nbsp;</p><p><br></p><p>We&nbsp;believe&nbsp;that&nbsp;in&nbsp;order&nbsp;to&nbsp;solve&nbsp;the&nbsp;issue&nbsp;of&nbsp;computer&nbsp;security&nbsp;of&nbsp;the&nbsp;attacked&nbsp;company</p><p>it&nbsp;is&nbsp;necessary&nbsp;not&nbsp;to&nbsp;pressure&nbsp;with&nbsp;threats&nbsp;to&nbsp;completely&nbsp;stop&nbsp;the&nbsp;functioning&nbsp;of&nbsp;the&nbsp;company,&nbsp;</p><p>but&nbsp;the&nbsp;make&nbsp;voluntary&nbsp;obligation&nbsp;of&nbsp;the&nbsp;managers&nbsp;of&nbsp;the&nbsp;company&nbsp;for:</p><p> -&nbsp;data&nbsp;leaks</p><p> -&nbsp;network&nbsp;architecture&nbsp;leaks&nbsp;</p><p> -&nbsp;leaks&nbsp;of&nbsp;personal&nbsp;data&nbsp;of&nbsp;the&nbsp;company's&nbsp;management</p><p><br></p><p>In&nbsp;addition&nbsp;to&nbsp;payment,&nbsp;it&nbsp;is&nbsp;important&nbsp;for&nbsp;us&nbsp;that&nbsp;the&nbsp;company's&nbsp;management&nbsp;realizes</p><p>its&nbsp;responsibility&nbsp;for&nbsp;its&nbsp;customers&nbsp;and&nbsp;re-equips&nbsp;the&nbsp;network&nbsp;perimeter&nbsp;on&nbsp;a&nbsp;full&nbsp;scale.&nbsp;</p><p>Otherwise&nbsp;these&nbsp;leaks&nbsp;will&nbsp;continue&nbsp;year&nbsp;after&nbsp;year.</p><p><br></p><p>So&nbsp;the&nbsp;main&nbsp;thing&nbsp;that&nbsp;we&nbsp;want&nbsp;to&nbsp;say&nbsp;and&nbsp;convey&nbsp;to&nbsp;you&nbsp;is&nbsp;that</p><p>the&nbsp;Security&nbsp;Notification&nbsp;Attachment&nbsp;Team&nbsp;(SNAtch&nbsp;for&nbsp;short)&nbsp;has&nbsp;nothing&nbsp;to&nbsp;do&nbsp;with&nbsp;the&nbsp;Snatch</p><p>ransomware&nbsp;project.&nbsp;We&nbsp;are&nbsp;always&nbsp;open&nbsp;for&nbsp;cooperation&nbsp;and&nbsp;communication&nbsp;and&nbsp;if&nbsp;you&nbsp;</p><p>have&nbsp;any&nbsp;questions&nbsp;we&nbsp;are&nbsp;ready&nbsp;to&nbsp;answer&nbsp;them&nbsp;here&nbsp;&nbsp;in&nbsp;our&nbsp;tg&nbsp;channel&nbsp;<a href="https://t.me/snatch_team" target="_blank">https://t.me/snatch_team</a></p>
+                    </div>
+        </div>
+
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- If we need scrollbar -->
+        <div class="swiper-scrollbar"></div>
+        </div>
+
+        <div class="swiper-footer">
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+        
+
+    </div>
+
+</div>
+
+
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="header-content">
+                <div class="header-start">
+                    <a href="#UUID">
+                        <span>Enter UUID</span>
+                    </a>
+                    <a href="#feedback">
+                        <span>Feedback</span>
+                    </a>
+                    <a href="#public_notice">
+                        <span>Public notice</span>
+                    </a>
+                    <a href="#press_release">
+                        <span>Press release</span>
+                    </a>
+                </div>
+                <div class="header-end">
+                    <div class="header-socials">
+                        <a href="https://t.me/snatch_team">
+                            <img src="../assets/images/telegram.svg" alt="telegram" />
+                        </a>
+                    </div>
+                    <div class="header-buttons">
+                        <button class="b_tor" onclick="window.location.href='http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/';">TOR</button>
+                        <button class="b_web" onclick="window.location.href='https://snatchnews.top/';">WEB</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>    <main>
+        <div class="container">
+            <div class="row">
+                <div class="sub-header">
+                    <div class="sh-start">
+                        <a href="index.php"><img src="./assets/images/logo.png" alt="Logo" /></a>
+                    </div>
+                    <div class="sh-midle">
+                        <nav class="sh-midle-nav">
+                            <ul>
+                                <li class="sh-m-l"><a href="index.php?filter=new">New company</a></li><li class="sh-m-l"><a href="index.php?filter=full">Full data</a></li><li class="sh-m-l"><a href="index.php?filter=archive">Archive</a></li>                            </ul>
+                        </nav>
+                    </div>
+                    <div class="sh-end">
+                        <form class="news-search" method="post">
+                            <input
+                                    class="news-search_input"
+                                    type="text"
+                                    placeholder="Search for company..."
+                                    name="search"
+                            />
+                            <button class="news-search_button" type="submit">
+                                <img src="./assets/images/n-search.svg" alt="" />
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                <div id="information_block">
+                    <div class="two-col-grid">
+                        <div class="grid-item">
+                            <div id='info_block'><p><p>Attention! Check out our manifesto! <strong>S.N.Atch Manifesto</strong> posted in the Press Release menu. It fundamentally changes the approaches to the work of the project and the attitude to working with targets. <a href="https://snatchteam.cc/#press_release"><strong>https://snatchteam.cc/#press_release</strong></a></p></p></div>                        </div>
+                        <div class="grid-item">
+                            <div id="info_block">
+                                <p>Your presence at this page means that we obtain your sensitive information and in case of your silence and refuse to bear responsibility all this data will be published no matter how important and confidential it is.</p>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="m-main-content"><div class="m-c-main">
+<div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Apr 25, 2024 11:49 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">11913</p></div></div><div class="a-b-name"><div class="a-b-n-name">Miki Travel Limited</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for data leakage:</p><p>Sir Mark Peter Rowley QPM is a British senior police officer who has been the Commissioner of Police of the Metropolis since September 2022. Wikipedia</p><p>Born: November 1964 (age 59 years)</p><p>Books: The Sleep of</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=63cbe846-ea89-42bd-aeed-9ab97937a22f'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Apr 25, 2024 11:44 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">31347</p></div></div><div class="a-b-name"><div class="a-b-n-name">Canadian Psychological Association</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for data leakage:</p><p>lenn Brimacombe : Director, Policy and Public Affairs</p><p>https://www.linkedin.com/in/glenn-brimacombe-802b545</p><p>https://facebook.com/glenn.brimacombe</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a8cadac1c5c9cbc7c5cacde8c9cbc9c0c786c7dacf">[email&#160;protected]</a></p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c5a2a7b7aca8a4a6aaa8a7a085a6b5a4eba6a4">[email&#160;protected]</a></p><p>+16138663613;</p><p>Email:</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="482a3a2125292b27252a2d08292b29202766273a2f">[email&#160;protected]</a></p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f1969d949c9383989c90929e9c9394b1999e859c90989ddf929e9c">[email&#160;protected]</a></p><p>Name:</p><p>brimacombe glenn</p><p>Brimacombe Glenn</p><p>glenn brimacombe</p><p>Address:</p><p>861 CLEARCREST CRES</p><p>ontario, canada ontario</p><p>OTTAWA</p><p>ottawa, canada</p><p>Location:</p><p>45.41,-75.69</p><p>Password:</p><p>shaneb</p><p>shaneb7</p><p>Telephone:</p><p>16138663613;</p><p>Leanna Verrucci : Director, Marketing and Membership</p><p>https://www.linkedin.com/in/leannaverrucci/</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bed2dbdfd0d0dfc8dbcccccbddddd7feccd1d9dbcccd90ddd1d3">[email&#160;protected]</a></p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e9858c88878788c79f8c9b9b9c8a8a80a988858e8687989c80878a8685858c8e8cc78a8684">[email&#160;protected]</a></p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1579637067676076767c557665743b7674">[email&#160;protected]</a>;</p><p>Email:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d29e97939c9c93849780808791919b92809d95978081fc919d9f">[email&#160;protected]</a></p><p>Telephone:5146946200</p><p>Address:4117 BOUGAINVILLA DR</p><p>State:FL</p><p>City: LD-B-T-S</p><p>Postal code: 33308</p><p>Name: GIL VERRUCCI</p><p>Region: POINTE CLAIRE</p><p>Insurance number:&nbsp;132648437;</p><p>Email:&nbsp;<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a9c5ccc8c7c7c8dfccdbdbdccacac0e9dbc6ceccdbda87cac6c4">[email&#160;protected]</a></p><p>Encrypted password:&nbsp;83798b56955927aebf8f6f597aad0550f22724f4f664d7f31fba8a5f2ef645b9</p><p>Birth</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=1a6e2f97-9d6b-4b88-86e4-c16ac81abee1'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Apr 25, 2024 11:43 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">6216</p></div></div><div class="a-b-name"><div class="a-b-n-name">The Royal Family of Great Britain</div><span class="a-b-n-tag">New</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Charles III, the King</p><p>Camilla, the Queen</p><p>William, Prince of Wales</p><p>Catherine, the Princess of Wales</p><p>Prince George of Wales</p><p>Princess Charlotte of Wales</p><p>Prince Louis of Wales</p><p>Prince Henry, Duke of Sussex</p><p>Meghan, Duchess of Sussex</p><p>Prince Archie of Sussex</p><p>Princess Lilibet os Sussex</p><p>Prince Edward Duke</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=e5b6cf15-27df-42ab-bb25-d3a98137dbbd'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Apr 15, 2024 12:18 AM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">18627</p></div></div><div class="a-b-name"><div class="a-b-n-name">Butler, Lavanceau &amp; Sober</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for data leakage:</p><p>Phone: (202) 727-2643</p><p>Address:&nbsp;1350 Penn Ave NW FL 5 washington district of columbia</p><p>Date of registration: 2022-04-01 23:08:17.</p><p>Date of Birth: 1972-08-02</p><p>Document number: No Document</p><p>Job Title: Mayor of District of Columbia DC elected in 2015</p><p>Name: Muriel</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=75b74f15-2216-44bb-b0f4-7622a111d31e'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 4, 2024 10:39 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">19336</p></div></div><div class="a-b-name"><div class="a-b-n-name">HSPG &amp; Associates</div><span class="a-b-n-tag">New 180 GB</span></div><div class="a-b-text"><p>180&nbsp;GB&nbsp;,&nbsp;205,877&nbsp;Files,&nbsp;25,598&nbsp;Folders&nbsp;of&nbsp;confidential&nbsp;information&nbsp;has&nbsp;been&nbsp;moved&nbsp;to&nbsp;our&nbsp;servers.</p><p>database&nbsp;backups&nbsp;Professional&nbsp;Tax&nbsp;Software&nbsp;|&nbsp;Tax&nbsp;Preparer&nbsp;Software&nbsp;|&nbsp;Intuit&nbsp;ProSeries</p></div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=43b6177f-77a6-4279-aa20-02289bb69733'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 5, 2024 04:27 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">33016</p></div></div><div class="a-b-name"><div class="a-b-n-name">US government (private data) +Rothschild&amp;Rockefeller</div></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>If you are wary of downloading information from our portal, all of it is duplicated in the open in our telegram channel.</p><p><br></p><p>Joseph (Joe) Robinett Biden Jr.(+ Bonus Hunter Biden )</p><p>Lloyd James Austin III</p><p>Antony John Blinken</p><p>William Joseph Burns</p><p>Kimberly</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=94daf822-9f55-48c9-8f34-dc63ef6e9445'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 7, 2024 10:24 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">32288</p></div></div><div class="a-b-name"><div class="a-b-n-name">Hawbaker Engineering</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a> Persons responsible for data leakage:</p><p>Gary Pate: Senior Construction Manager</p><p>https://linkedin.com/in/gary-pate-553a5b45;</p><p>+78143554848</p><p>+18143554848</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ec8b9c8d9889ac8b81818f8f9e839f9f8582c28f8381">[email&#160;protected]</a></p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c2a5b2a3b6a782a5afafa1a1b0adb1b1abaceca1adaf">[email&#160;protected]</a></p><p>g*<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7606361e170114171d13041318111f181313041f18115815191b">[email&#160;protected]</a>;</p><p>Full name:</p><p>pate gary</p><p>Location:</p><p>40.79,-78.05</p><p>40.79597222 -77.8293333</p><p>40.861528 -77.782954</p><p>40.86169444 -77.7829166</p><p>40.91241666 -77.7676111</p><p>Address:</p><p>2780 Benner Pike</p><p>2780 BENNER PIKE</p><p>2780 benner pike bellefonte pennsylvania</p><p>Bellefonie</p><p>Bellefonte</p><p>BELLEFONTE</p><p>Bellefonte 2780 Benner Pike</p><p>Pennsylvania Bellefonie 2780 Bkrnbh Pike</p><p>pennsylvania, united states rheinland-pfalz</p><p>Pennsylvania|Centre County Bellefonte</p><p>Pennsylvania|Centre County</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=24ae1e5f-f0c8-49e5-8592-2da3bc2579c4'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 7, 2024 10:23 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">43647</p></div></div><div class="a-b-name"><div class="a-b-n-name">Banco Promerica</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a> Persons responsible for data leakage:</p><p>Dr Irving Francis McIntyre</p><p>Here is his dossier:</p><p>https://www.facebook.com/DrIrvingMcIntyre/</p><p>Passwords:</p><p>Firegirl74</p><p>Encrypted passwords:</p><p>$2a$08$dz.U1i9FQw//sk.LCK9DgeIOl6EtJtd5rxMMnAFxuzuh/N29ILfdC</p><p>$2a$08$PCWRfjOrY36yu6KSgTZa9.wcAQ/X03oObCgXdH3JRuDw5n5TA1g6y</p><p>842769ef42ba8a780e149aa892690afa9880a503</p><p>7744018191315144a36963f9191848aa63ee9434</p><p>be9aa9b041316e140a33c9bb9a18f4ab3eae3863</p><p>Email:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b8ded1d6d9d6dbddf8dcd7d5d1d6d1dbd996dfd7ce96dcd5">[email&#160;protected]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Phone:(767) 266 3340</p><p>Fax:(767) 448 0054</p><p>IP</p><p>205.217.252.15</p><p>69.80.44.33</p><p>Possible real estate, as reports say he traveled to the US frequently:</p><p>Street suffix: St.</p><p>Address: 12 Woolson St</p><p>Street: Woolson</p><p>Time zone: 5</p><p>State: CT</p><p>City:</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=871a2096-8407-4aa3-9d2f-e8ef783cc4cf'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 5, 2024 09:54 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">34789</p></div></div><div class="a-b-name"><div class="a-b-n-name">Malabar Gold &amp; Diamonds</div><span class="a-b-n-tag">Full Data</span></div><div class="a-b-text"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a> Persons responsible for data leakage:</p><p>M P Ahammed:</p><p>https://linkedin.com/in/ahammed-mp-bb2b3a248</p><p>https://www.facebook.com/MPAhammed/ - userID:100045520211114 - https://www.facebook.com/profile.php?id=100045520211114</p><p>https://www.instagram.com/MPAhammed/</p><p>https://twitter.com/MPAhammed</p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bad7cadbd2dbd7d7dfded7dbd4c9d5d5c8faddd7dbd3d694d9d5d7">[email&#160;protected]</a></p><p><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ccada4ada1a1a9a8a1b8bcfbf4f58caba1ada5a0e2afa3a1">[email&#160;protected]</a>;</p><p>Encrypted password:</p><p>pbkdf2_sha256$24000$BhbmLMuAwSF3$6HgdO4m2vFLXxHO6YGwv7wbavCUxSeHVeajJtwshh3w=</p><p>pbkdf2_sha256$24000$TrUsgqcXt4et$9XgUl38ftW92Vse3ICkkCFomYerLA90cZrzbkUgr+VI=</p><p>pbkdf2_sha256$24000$FtSlEt0Un8E0$6d2DwlNj2YW30TsN6jO9Y7QZ0Njzm+ATSXYTLxOgifc=</p><p>pbkdf2_sha256$24000$eIf34vLOPs6u$lMoTRV157v3+jEPsTjQO80THgQETYGu6mH9cojMo+nI=</p><p>pbkdf2_sha256$24000$uJbChGoIbLRt$2zGNfkpkf9qNAplniHzaPw8vqxVHN3ovAUmk2NVe3nQ=</p><p>pbkdf2_sha256$24000$nkPluYyC2fLQ$1qhIkIFm8F1S36wBdpYNaeoG0fc4O+8YR+3KnxjPBto=</p><p>pbkdf2_sha256$24000$4CIlkocHBaoq$R4aZuuTJO5BAmkiLIekwwPpeeQhrNX2WPSdPZccMP5A=</p><p>pbkdf2_sha256$24000$tspyk9fnj9ql$BsJ3Z9xvHbMLn/sjLjRUalRph0AUafM52sin1kKWIvU=</p><p>pbkdf2_sha256$24000$uvw0KTFH3WwF$4l3A90JdnRTXRedC7gEsVE52gSYDSHVPAB+kgxdggbY=</p><p>pbkdf2_sha256$20000$OKM2vXAtjTeS$rEWs0gA+vkxljzdfvn7oMRy/v44QvFB7abHLwCGkkp4=</p><p>pbkdf2_sha256$24000$AOkSFaU8xBcT$4oid7LH7xEhOwHoWkms/jytsH+/EyEMAhX/PVu4HyWQ=</p><p>pbkdf2_sha256$24000$KNrNz5Oo2umW$kyP/bNHA3MDB2AmQdK6kCI+q+TFUbCfdxUGxnvz6fFg=</p><p>pbkdf2_sha256$24000$RaDTsfIsOqaK$hHJIsUNmEs20yXgJBf00BHIfwuzKvxhqL3PGNgBhE/0=</p><p>pbkdf2_sha256$24000$5ntyS0NgTvt5$FfNB/YbX+WNjn2QuyZXHbxlib4QBdbfiPWx0mhGLZHM=</p><p>$2y$10$WoFiN90EdQOcrkmDFtzgtOP4m.L/fEyOQJ6LjGHATszUX4rcTXKmu</p><p>7869f9fb398e8ffb8ec7f5c90f7a4e41</p><p>58431b77843f7b9a6a0ce607e097b8ef</p><p>1d2c39c565db769fc24f2cf4f933b990</p><p>MM74D</p><p>5e492f7b3e407a9649819ffe25fc0d16bcd3acb7</p><p>66c047234e93ed87e2ea405cd84ce174e4bb8da6</p><p>PU3MZ</p><p>25TJP</p><p>!290596be482eeddd02eab41be554a240</p><p>b8cddb17ac840bdbd6e1bb82fe6a864a</p><p>2711194;</p><p>Password:</p><p>aadhulahammed</p><p>Ahammed</p><p>ahammed12</p><p>AHAMMEDM</p><p>ahammedmunnaxx</p><p>ahammedniyoti12</p><p>AhammedReshad#02874224</p><p>ahammeds</p><p>Amt@7012253796</p><p>azxcvy1234;</p><p>Was seen at the following&nbsp;Address:</p><p>PK 04 Lahore 54000</p><p>BD 81 Dhaka 1000;</p><p>IP:</p><p>119.30.32.56</p><p>39.42.68.247</p><p>180.211.187.161</p><p>106.51.25.243</p><p>162.158.167.182</p><p>137.97.14.9</p><p>103.230.104.17;</p><p>Longitude: 77.6050022</p><p>Latitude: 12.9643214</p><p>Name: M P Ahammed</p><p>Device: samsung | 28 | 3.13.0.0 | 1205 | gps-</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=c8fb3770-f964-4d21-b3a8-e2dfec46ee85'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div><div class="ann-block"><div class="a-b-head"><div class="a-b-h-time">Mar 12, 2024 11:39 PM</div><div class="a-b-h-views-count d-flex"><img src="./assets/images/views-count.svg" alt="" /><p class="a-b-h-v-c-views">17846</p></div></div><div class="a-b-name"><div class="a-b-n-name">Seven Seas Group</div><span class="a-b-n-tag">New</span></div><div class="a-b-text"><p>Seven Seas is a global maritime services group that specializes in providing general ship supplies, stores, provisions, and leading technical maritime brands through its extensive global network. Over five decades, Seven Seas has strived to be a trusted partner to our customers. Founded in 1971,</div><div class="a-b-bottom"><div class="a-b-b-tags"></div><div class="a-b-b-readmore"><a href="#" class="a-b-b-r-link"><button class="a-b-b-r-l-button" onclick="window.location='news.php?id=fada4fc3-e1af-44b8-bcfc-2ced6ca31dd9'"><p class="a-b-b-r-l-b-text">Read more</p><img class="a-b-b-r-l-b-img" src="./assets/images/readmore-arrow.svg" alt="arrow"/></button></a></div></div></div></div>
+<div class="m-c-aside">
+    <div class="m-c-aside-1">
+        <h2 class="aside-head">New Company</h2>
+        <div class="aside-card"><a href="news.php?id=e5b6cf15-27df-42ab-bb25-d3a98137dbbd"><div class="aside-card-content"><h3 class="a-c-c-h3">The Royal Family of Great Britain</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Charles III, the...</h4></div></a></div>    </div>
+    <div class="m-c-aside-2">
+        <h2 class="aside-head">Full Data</h2>
+        <div class="aside-card"><a href="news.php?id=63cbe846-ea89-42bd-aeed-9ab97937a22f"><div class="aside-card-content"><h3 class="a-c-c-h3">Miki Travel Limited</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for...</h4></div></a></div><div class="aside-card"><a href="news.php?id=1a6e2f97-9d6b-4b88-86e4-c16ac81abee1"><div class="aside-card-content"><h3 class="a-c-c-h3">Canadian Psychological Association</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for...</h4></div></a></div><div class="aside-card"><a href="news.php?id=75b74f15-2216-44bb-b0f4-7622a111d31e"><div class="aside-card-content"><h3 class="a-c-c-h3">Butler, Lavanceau &amp; Sober</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for...</h4></div></a></div><div class="aside-card"><a href="news.php?id=c866760a-ef8e-453a-8236-12addcbd206e"><div class="aside-card-content"><h3 class="a-c-c-h3">Daylesford Organic</h3><h4 class="a-c-c-h4"><p>Persons responsible for data leakage: +61 3 5348 3329 Richard Smith:Director...</h4></div></a></div><div class="aside-card"><a href="news.php?id=a83b6ad6-ae66-43bb-9513-840fdad630b2"><div class="aside-card-content"><h3 class="a-c-c-h3">Retirement Line</h3><h4 class="a-c-c-h4"><p>More information in our telegram channel <a href="https://t.me/snatch_team" target="_blank"><strong>https://t.me/snatch_team</strong></a></p><p>Persons responsible for...</h4></div></a></div>    </div>
+</div></div><div class="main-nav">
+    <div class="main-nav-nav">
+        <a class="m-n-n-link link-unactive"><p class="m-n-n-l-text">Previous page</p></a>        <div class="main-nav-numbers">
+        <a class="m-n-n-number">1</a><a class="m-n-n-number" href="index.php?page=2">2</a><a class="m-n-n-number" href="index.php?page=3">3</a><a class="m-n-n-number" href="index.php?page=4">4</a>        </div>
+        <a class="m-n-n-link" href="index.php?page=2"><p class="m-n-n-l-text">Next page</p></a>    </div>
+</div>            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="header-content">
+                    <div class="header-start">
+                        <a href="#UUID">
+                            <span>Enter UUID</span>
+                        </a>
+                        <a href="#feedback">
+                            <span>Feedback</span>
+                        </a>
+                    </div>
+                    <div class="header-end">
+                        <div class="header-socials">
+                            <a href="https://t.me/snatch_team">
+                                <img src="./assets/images/telegram.svg" alt="telegram" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    $("body").on("input", ".uuid-input", function () {
+        this.value = this.value.toUpperCase();
+    });
+</script>
+<script>
+    let banner_div = document.getElementById("banner_place");
+    if ((window.location.pathname !== "/index.php" && window.location.pathname !== "/") || window.location.search !== "") {
+        banner_div.style.display = "none";
+    } else {
+        if (banner_div.innerText !== "")
+        {
+            document.getElementsByClassName("m-main-content")[0].style.marginTop = "3rem"
+        }
+    }
+</script>
+</body>
+</html>
