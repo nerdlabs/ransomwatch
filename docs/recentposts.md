@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-01 | [`Studio Libeskind`](https://google.com/search?q=Studio+Libeskind) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-01 | [`GCH Hotel Group`](https://google.com/search?q=GCH+Hotel+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-01 | [`tudio Libeskind`](https://google.com/search?q=tudio+Libeskind) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-01 | [`Advanced Business Networks`](https://google.com/search?q=Advanced+Business+Networks) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-29 | [`W?????? ????????y`](https://google.com/search?q=W%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3Fy) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-03-29 | [`kelson.on.ca\$61.8M\Canada\1.5TB\100%DISCLOSED`](https://google.com/search?q=kelson.on.ca%5C%2461.8M%5CCanada%5C1.5TB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-03-29 | [`contenderboats.com\$51.8M\USA\65GB\100%DISCLOSED`](https://google.com/search?q=contenderboats.com%5C%2451.8M%5CUSA%5C65GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-03-29 | [`Control Technology`](https://google.com/search?q=Control+Technology) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
