@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-02 | [`Imedi L`](https://google.com/search?q=Imedi+L) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-02 | [`INC News`](https://google.com/search?q=INC+News) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-05-02 | [`Lopez Hnos`](https://google.com/search?q=Lopez+Hnos) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-01 | [`Canatal Industries`](https://google.com/search?q=Canatal+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-03-31 | [`http://https://t.me/c/2124313006/1220`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1220) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-31 | [`http://https://t.me/c/2124313006/1260`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1260) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-03-31 | [`http://https://t.me/c/2124313006/1273`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Ft.me%2Fc%2F2124313006%2F1273) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-03-31 | [`Dörr Group`](https://google.com/search?q=D%C3%B6rr+Group) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
