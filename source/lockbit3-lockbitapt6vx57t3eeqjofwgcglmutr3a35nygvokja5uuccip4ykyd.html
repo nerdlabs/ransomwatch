@@ -530,7 +530,7 @@
   });
 
 // hit counters
-  let hits = {"\/posts\/lbsupp-whoishe.php":"16","\/posts\/press-release.php":"20","\/posts\/whatlearnt.php":"10","\/posts\/whatdoing.php":"8","\/posts\/theresmore.php":"9","\/posts\/more-exposed.php":"11","\/posts\/prevent.php":"8","\/posts\/report-attack.php":"4"};
+  let hits = {"\/posts\/lbsupp-whoishe.php":"74","\/posts\/press-release.php":"84","\/posts\/whatlearnt.php":"36","\/posts\/whatdoing.php":"34","\/posts\/theresmore.php":"45","\/posts\/more-exposed.php":"32","\/posts\/prevent.php":"25","\/posts\/report-attack.php":"19"};
   $(".hitcount").each(function (i, e) {
     let post = $(e).parents("a")[0].href.split("/",5);
     e.innerHTML = hits['/posts/'+post[4]]??0;
