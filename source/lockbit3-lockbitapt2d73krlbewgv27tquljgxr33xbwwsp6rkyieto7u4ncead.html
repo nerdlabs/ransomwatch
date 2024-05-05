@@ -1,7 +1,543 @@
 <head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
+<script data-noload="1" src="public/js/jquery.min.js"></script>
+<script data-noload="1" src="public/js/core.js"></script>
+
+
+<style>
+  html, body {
+    /*width: 1600px;*/
+    /*min-width: 1600px;*/
+  }
+
+  .preloader_global {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .loader {
+
+  }
+
+  .loader svg {
+    position: absolute;
+    -webkit-animation: triangulate 1.5s ease infinite;
+    animation: triangulate 1.5s ease infinite;
+  }
+
+  .loader .loader-triangle {
+    -webkit-animation-delay: -0.5s;
+    animation-delay: -0.5s;
+    fill: #FF5A5A;
+  }
+
+  .loader .loader-square {
+    -webkit-animation-delay: -1s;
+    animation-delay: -1s;
+    fill: #62AAFF;
+  }
+
+  .loader .loader-pentagon {
+    -webkit-animation-delay: 0;
+    animation-delay: 0;
+    fill: #FFD220;
+  }
+
+  .containerr {
+    display: flex; /* Use flexbox to layout children */
+
+  }
+
+  /* Style for the image */
+  .containerr img {
+    float: left;
+  }
+
+  /* Style for the text */
+  .containerr .text {
+    float: right;
+  }
+
+  .svg-container {
+    display: flex; /* Use Flexbox */
+    justify-content: center; /* Center children horizontally */
+    align-items: center; /* Center children vertically */
+    height: 100px; /* Set a height for the container */
+    gap: 10px; /* Optional: adds space between SVGs */
+  }
+
+  .banner {
+    display: flex;
+    background-color: red;
+    color: white;
+  }
+
+  .banner-message {
+    flex: 3; /* Takes up 3/5ths of the space */
+    font-size: 18px; /* Example font size, adjust as needed */
+    font-weight: bold;
+    padding-top: 5px;
+    padding-left: 10px;
+  }
+
+  .banner-images {
+
+  }
+
+  .post-timer {
+    width: 100%;
+    text-align: center;
+    font-weight: bold
+  }
+
+
+  @keyframes triangulate {
+    0%, 100% {
+      transform: translate3d(-130px, -75px, 30px) rotate(0);
+    }
+    33% {
+      transform: translate3d(77px, -75px, 30px);
+    }
+    66% {
+      transform: translate3d(-16px, 75px, 30px) rotate(360deg);
+    }
+  }
+
+  @keyframes rotate {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  .new {
+    background: red;
+    padding: 1px 10px;
+    color: white;
+    border-radius: 4px;
+    position: absolute;
+    left: -10px;
+    top: 0px;
+    z-index: 1;
+    rotate: -30deg;
+    font-weight: bold;
+  }
+
+  .updated {
+    background: red;
+    padding: 1px 10px;
+    color: white;
+    border-radius: 4px;
+    position: absolute;
+    left: -10px;
+    top: 5px;
+    z-index: 1;
+    rotate: -30deg;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .extend {
+    background: blue;
+    padding: 1px 10px;
+    color: white;
+    border-radius: 4px;
+    position: absolute;
+    left: -10px;
+    top: 5px;
+    z-index: 1;
+    rotate: -30deg;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+  /*.banner-message {*/
+  /*  font-size: 0.8em;*/
+  /*}*/
+</style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="public/css/app.css">
+  <link rel="stylesheet" href="public/css/bootstrap-min.css">
+  <link rel="stylesheet" href="public/css/style.css">
+  <link rel="stylesheet" href="public/css/blog.css">
+
+  <link rel="stylesheet" href="public/timer/countup/jquery.countup.css">
+  <title>LockBit BLOG</title>
+
+</head>
+<body class="page">
+
+<div class="header">
+  <img src="public/img/loading.gif" id="loading_global">
+
+  <div class="container h-100 d-flex align-items-center justify-content-between">
+    <div class="d-flex align-items-center">
+      <div class="header-logo">
+        <a href="index.php">
+          <img src="public/images/Logo.png" alt="">
+        </a>
+      </div>
+      <div class="header-img-leaked">
+        <a href="index.php">
+          <img src="public/images/leaker.svg" alt="">
+        </a>
+      </div>
+    </div>
+    <div class="container-header">
+      <div class="banner align-items-center justify-content-center  d-none d-xl-flex" height="100px">
+        <div class="banner-message">
+          THIS SITE IS NOW UNDER THE CONTROL OF THE UK, THE US AND THE CRONOS TASK FORCE
+        </div>
+        <div class="banner-images">
+          <img src="public/images/nca-black.png" width="140px" height="50px">
+          <img src="public/images/Seal_of_the_Federal_Bureau_of_Investigation.svg.png" width="100px" height="100px">
+          <img src="public/images/europol_vertical_logo_RGB_White.png" style="width: auto; height: 100px;">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="page-wrapper">
+  <div class="container">
+    <div class="post-big-list  ">
+<!--1 PR-->
+      <a href="/posts/press-release.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> Press Releases</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="svg-container">
+            <img src="public/images/uk.png" style="float: left; margin-right: 20px;" width="25%" height="25%" alt="">
+            <img src="public/images/1024px-United-states_flag_icon_round.svg.png" style="float: left; margin-right: 20px;" width="25%" height="25%" alt="">
+            <img src="public/images/Europe_flag_circle.png" style="float: left; margin-right: 20px;" width="25%" height="25%" alt="">
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">17</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--2 WHOIS-->
+      <a href="/posts/lbsupp-whoishe.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> Who is LockbitSupp?</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            <span style="font-weight: bold">The $10m question</span>
+            <img src="public/images/money.png" style="" width="70%">
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">15</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--3 THERES MORE -->
+      <a href="/posts/theresmore.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> But there's more...</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            <img src="public/images/question_mark.jpg" width="15%" height="15%">
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">7</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--4 WHAT LEARNT-->
+      <a href="/posts/whatlearnt.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> What have we learnt?</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            <span style="display: block; clear: both; margin-bottom: 10px;">Some facts and figures from the backend!</span>
+            <img src="public/images/NCA%20Logo.png" width="110px" style="margin-right:10px">
+            <img src="public/images/LB%20Logo.png" width="96px">
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">10</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--5 MORE EXP-->
+      <a href="/posts/more-exposed.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> More LB hackers exposed</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            <img src="public/assets/Hacker%20icon.png" width="25%" style="float: left; margin-right: 20px;">
+            After compromising Lockbit's platform, Law Enforcement will be coordinating activity to deal with Lockbit's affiliates.
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">11</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--6 WHAT DOING-->
+      <a href="/posts/whatdoing.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> What have we been doing?</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center; ">
+
+            <span>Supporting victims worldwide!</span>
+            <img src="../public/images/LB Flags no BG.png" style="float: left" width="80">
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">7</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--7-->
+      <a href="/posts/prevent.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> Preventing and protecting</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            <img src="public/images/NCSC.png" width="65%" style="margin-top: 10px;">
+
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">7</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--8-->
+      <a href="/posts/report-attack.php" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> Report Cyber Attacks!</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 07, 2024 14:00:00">1D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            Please report your Cyber Incident. To enable Law Enforcement to take protective and disruptive action, it is vital that victims report attacks and engage with Law Enforcement.
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">3</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+<!--9-->
+      <a href="#" class="post-block bad">
+        <div class="post-head">
+          <div class="post-top-block">
+            <div class="post-title-block">
+              <div class="post-title"> Close</div>
+              <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+              </div>
+              <div class="post-timer" end="May 10, 2024 14:00:00">4D 18H 23M 29S</div>
+            </div>
+          </div>
+        </div>
+        <div class="post-block-body">
+          <div class="post-block-text" style="text-align: center">
+            This leak site (lockbit blog) to close.
+          </div>
+        </div>
+        <div class="views">
+          <div class="updated-post-date">
+                    <span>
+                      <img style="filter: opacity(40%);padding-right: 2px" src="public/images/clock2.svg" width="20" alt=""> Updated: 02 May, 2024,&nbsp;&nbsp; 13:37 BST
+                    </span>
+          </div>
+          <div style="filter: opacity(30%);">
+            <span style="font-size: 12px; font-weight: bold" class="hitcount">0</span>
+            <img src="public/images/view-show.svg" width="20" alt="">
+          </div>
+        </div>
+      </a>
+    </div>
+
+
+  </div>
+
+  <div class="container pl-4 pr-4">
+
+  </div>
+
+
+  <div class="countup-block">
+
+  </div>
+
+
+</div>
+
+<script>
+// Countdown timers
+  $(".post-timer").each(function (i, e) {
+    if ($(e).attr("end") === undefined) {
+      $(e).html("insert date");
+      return;
+    }
+    let dateStr = Date.parse($(e).attr("end"));
+
+    setInterval(function () {
+      let now = new Date().getTime();
+
+      let distance = dateStr - now;
+
+      let days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      let seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      $(e).html(days + "D " + hours + "H "
+              + minutes + "M " + seconds + "S");
+
+      if (distance < 0) {
+        $(e).html("PUBLISHED");
+        $(e).removeClass("post-timer");
+        $(e).addClass("post-timer-end");
+        let b = $(e).parents(".bad")[0];
+        $(b).removeClass("bad");
+        $(b).addClass("good");
+      }
+    }, 1000);
+
+  });
+
+// hit counters
+  let hits = {"\/posts\/lbsupp-whoishe.php":"15","\/posts\/press-release.php":"17","\/posts\/whatlearnt.php":"10","\/posts\/whatdoing.php":"7","\/posts\/theresmore.php":"7","\/posts\/more-exposed.php":"11","\/posts\/prevent.php":"7","\/posts\/report-attack.php":"3"};
+  $(".hitcount").each(function (i, e) {
+    let post = $(e).parents("a")[0].href.split("/",5);
+    e.innerHTML = hits['/posts/'+post[4]]??0;
+  });
+
+</script>
+
+
 
 </body>
