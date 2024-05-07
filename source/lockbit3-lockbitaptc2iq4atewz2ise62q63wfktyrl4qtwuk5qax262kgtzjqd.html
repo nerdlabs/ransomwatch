@@ -179,12 +179,12 @@
   <div class="container h-100 d-flex align-items-center justify-content-between">
     <div class="d-flex align-items-center">
       <div class="header-logo">
-        <a href="index.php">
+        <a href="/index.php">
           <img src="public/images/Logo.png" alt="">
         </a>
       </div>
       <div class="header-img-leaked">
-        <a href="index.php">
+        <a href="/index.php">
           <img src="public/images/leaker.svg" alt="">
         </a>
       </div>
@@ -530,7 +530,7 @@
   });
 
 // hit counters
-  let hits = {"\/posts\/lbsupp-whoishe.php":"582","\/posts\/press-release.php":"595","\/posts\/whatlearnt.php":"314","\/posts\/whatdoing.php":"246","\/posts\/theresmore.php":"333","\/posts\/more-exposed.php":"304","\/posts\/prevent.php":"190","\/posts\/report-attack.php":"214","\/posts\/\/more-exposed.php":"1"};
+  let hits = {"\/posts\/lbsupp-whoishe.php":"786","\/posts\/press-release.php":"803","\/posts\/whatlearnt.php":"468","\/posts\/whatdoing.php":"380","\/posts\/theresmore.php":"487","\/posts\/more-exposed.php":"445","\/posts\/prevent.php":"322","\/posts\/report-attack.php":"345","\/posts\/\/more-exposed.php":"1"};
   $(".hitcount").each(function (i, e) {
     let post = $(e).parents("a")[0].href.split("/",5);
     e.innerHTML = hits['/posts/'+post[4]]??0;
