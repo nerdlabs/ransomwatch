@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-08 | [`woldae.com`](https://google.com/search?q=woldae.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-05-08 | [`Central Florida Equipment`](https://google.com/search?q=Central+Florida+Equipment) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-08 | [`High Performance Services`](https://google.com/search?q=High+Performance+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-07 | [`Mauritzon`](https://google.com/search?q=Mauritzon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-04 | [`Everbrite`](https://google.com/search?q=Everbrite) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-04 | [`Radiant Canada`](https://google.com/search?q=Radiant+Canada) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-04 | [`Inspection Services`](https://google.com/search?q=Inspection+Services) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-04 | [`Remitano -%20Cryptocurrency%20Exchange`](https://google.com/search?q=Remitano+-%2520Cryptocurrency%2520Exchange) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
