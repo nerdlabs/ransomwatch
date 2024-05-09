@@ -530,4 +530,10 @@
   });
 
 // hit counters
-  let hi</script></body>
+  let hits = {"\/posts\/lbsupp-whoishe.php":"3610","\/posts\/press-release.php":"2910","\/posts\/whatlearnt.php":"2501","\/posts\/whatdoing.php":"2083","\/posts\/theresmore.php":"2758","\/posts\/more-exposed.php":"2562","\/posts\/prevent.php":"1839","\/posts\/report-attack.php":"1805","\/posts\/\/more-exposed.php":"1"};
+  $(".hitcount").each(function (i, e) {
+    let post = $(e).parents("a")[0].href.split("/",5);
+    e.innerHTML = hits['/posts/'+post[4]]??0;
+  });
+
+</script></body>
