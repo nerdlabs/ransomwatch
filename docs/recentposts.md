@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-10 | [`Badger Tag & Label`](https://google.com/search?q=Badger+Tag+%26+Label) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-10 | [`Crescent Point Energy`](https://google.com/search?q=Crescent+Point+Energy) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-10 | [`Haumiller Engineering`](https://google.com/search?q=Haumiller+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-10 | [`Reading Electric`](https://google.com/search?q=Reading+Electric) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-07 | [`http://www.ellsworthcheese.com`](https://google.com/search?q=http%3A%2F%2Fwww.ellsworthcheese.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-07 | [`https://sip.be/`](https://google.com/search?q=https%3A%2F%2Fsip.be%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-06 | [`http://easchangesystems.com`](https://google.com/search?q=http%3A%2F%2Feaschangesystems.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-06 | [`http://www.madero.ca`](https://google.com/search?q=http%3A%2F%2Fwww.madero.ca) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
