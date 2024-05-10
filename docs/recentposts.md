@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-10 | [`Kuhn Rechtsanwlte GmbH`](https://google.com/search?q=Kuhn+Rechtsanwlte+GmbH) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-09 | [`http://t.me/c/2124313006/2171`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F2171) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-09 | [`http://https://edlong.com`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fedlong.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-09 | [`http://frankmiller.com`](https://google.com/search?q=http%3A%2F%2Ffrankmiller.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-06 | [`Chambers Construction`](https://google.com/search?q=Chambers+Construction) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-06 | [`Hawbaker Engineering`](https://google.com/search?q=Hawbaker+Engineering) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-04-06 | [`On Q Financial, LLC`](https://google.com/search?q=On+Q+Financial%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-06 | [`http://www.termoplastic.it`](https://google.com/search?q=http%3A%2F%2Fwww.termoplastic.it) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
