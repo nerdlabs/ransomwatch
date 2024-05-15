@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-15 | [`Fiskars Group`](https://google.com/search?q=Fiskars+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-15 | [`Bruno generators (It alian manufacturing)`](https://google.com/search?q=Bruno+generators+%28It+alian+manufacturing%29) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-15 | [`Wealth Depot LLC`](https://google.com/search?q=Wealth+Depot+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-14 | [`Litigation Lawyers`](https://google.com/search?q=Litigation+Lawyers) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-11 | [`New England Wooden Ware`](https://google.com/search?q=New+England+Wooden+Ware) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-11 | [`LS Networks`](https://google.com/search?q=LS+Networks) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-11 | [`The MBTW Group`](https://google.com/search?q=The+MBTW+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-11 | [`Missouri Electric Co operatives`](https://google.com/search?q=Missouri+Electric+Co+operatives) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
