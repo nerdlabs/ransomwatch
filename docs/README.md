@@ -2,17 +2,17 @@
 ## summary
 _may 16th, 2024_
 
-currently tracking `163` groups across `299` relays & mirrors - _`44` currently online_
+currently tracking `163` groups across `299` relays & mirrors - _`46` currently online_
 
-⏲ there have been `4` posts within the `last 24 hours`
+⏲ there have been `5` posts within the `last 24 hours`
 
-🦈 there have been `99` posts within the `month of may`
+🦈 there have been `100` posts within the `month of may`
 
 🪐 there have been `548` posts within the `last 90 days`
 
-🏚 there have been `916` posts within the `year of 2024`
+🏚 there have been `917` posts within the `year of 2024`
 
-🦕 there have been `10198` posts `since the dawn of ransomwatch`
+🦕 there have been `10199` posts `since the dawn of ransomwatch`
 
 there are `96` custom parsers indexing posts
 
