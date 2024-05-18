@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-18 | [`Widdop & Co.`](https://google.com/search?q=Widdop+%26+Co.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-18 | [`https://catiglass.com`](https://google.com/search?q=https%3A%2F%2Fcatiglass.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-18 | [`Bluebonnet Nutrition`](https://google.com/search?q=Bluebonnet+Nutrition) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-18 | [`Center for Digestive Health`](https://google.com/search?q=Center+for+Digestive+Health) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-15 | [`Best Reward Federal  Credit Union`](https://google.com/search?q=Best+Reward+Federal++Credit+Union) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-15 | [`http://www.biggscardosa.com`](https://google.com/search?q=http%3A%2F%2Fwww.biggscardosa.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-15 | [`compagniedephalsbourg.com`](https://google.com/search?q=compagniedephalsbourg.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
-| 2024-04-14 | [`Omni Hotels & Resorts  (US)`](https://google.com/search?q=Omni+Hotels+%26+Resorts++%28US%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
