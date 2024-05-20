@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-20 | [`schuettemetals.com\$28.9M\USA\280GB\&lt;1%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-18 | [`Widdop & Co.`](https://google.com/search?q=Widdop+%26+Co.) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-18 | [`https://catiglass.com`](https://google.com/search?q=https%3A%2F%2Fcatiglass.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-18 | [`Bluebonnet Nutrition`](https://google.com/search?q=Bluebonnet+Nutrition) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-15 | [`https://www.postandcourier.com/`](https://google.com/search?q=https%3A%2F%2Fwww.postandcourier.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-15 | [`Best Reward Federal  Credit Union`](https://google.com/search?q=Best+Reward+Federal++Credit+Union) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-15 | [`http://www.biggscardosa.com`](https://google.com/search?q=http%3A%2F%2Fwww.biggscardosa.com) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
-| 2024-04-15 | [`compagniedephalsbourg.com`](https://google.com/search?q=compagniedephalsbourg.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
