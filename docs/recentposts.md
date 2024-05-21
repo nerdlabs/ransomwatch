@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-21 | [`Critchfield and Johnston`](https://google.com/search?q=Critchfield+and+Johnston) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-21 | [`fulcrum.pro\$2.1M\US\57GB\100%DISCLOSED`](https://google.com/search?q=fulcrum.pro%5C%242.1M%5CUS%5C57GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-21 | [`Marigin`](https://google.com/search?q=Marigin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-20 | [`MAH Machine`](https://google.com/search?q=MAH+Machine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-16 | [`Wright Brothers Cons truction`](https://google.com/search?q=Wright+Brothers+Cons+truction) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-16 | [`Lotz Trucking`](https://google.com/search?q=Lotz+Trucking) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-16 | [`Studio LAMBDA`](https://google.com/search?q=Studio+LAMBDA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-15 | [`Heritage Cooperative`](https://google.com/search?q=Heritage+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
