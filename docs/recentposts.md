@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-21 | [`Marigin`](https://google.com/search?q=Marigin) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-20 | [`MAH Machine`](https://google.com/search?q=MAH+Machine) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-20 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED`](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-20 | [`scanda.com.mx\$23.6M\MEXICO\387GB\100%DISCLOSED`](https://google.com/search?q=scanda.com.mx%5C%2423.6M%5CMEXICO%5C387GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-16 | [`Studio LAMBDA`](https://google.com/search?q=Studio+LAMBDA) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-15 | [`Heritage Cooperative`](https://google.com/search?q=Heritage+Cooperative) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-15 | [`http://https://cembell.com`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fcembell.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-15 | [`Druckman Law%20Group`](https://google.com/search?q=Druckman+Law%2520Group) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
