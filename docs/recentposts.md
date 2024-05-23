@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-23 | [`Experis Technology Group`](https://google.com/search?q=Experis+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-23 | [`United Urology Group`](https://google.com/search?q=United+Urology+Group) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2024-05-23 | [`Anchorage Daily News`](https://google.com/search?q=Anchorage+Daily+News) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-23 | [`RDI-USA`](https://google.com/search?q=RDI-USA) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-17 | [`Delano Joint%20Union%20High%20School%20District`](https://google.com/search?q=Delano+Joint%2520Union%2520High%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-17 | [`drmarbys.com\$266.6M\USA\175GB\&lt;1% DISCLOSED`](https://google.com/search?q=drmarbys.com%5C%24266.6M%5CUSA%5C175GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-17 | [`Serfilco, RP Adams,  Baron Blakeslee, Pac er, Service Filtrati on of Canada, Polyma r.`](https://google.com/search?q=Serfilco%2C+RP+Adams%2C++Baron+Blakeslee%2C+Pac+er%2C+Service+Filtrati+on+of+Canada%2C+Polyma+r.) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-04-17 | [`http://t.me/c/2124313006/1723`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1723) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
