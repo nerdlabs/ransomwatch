@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-23 | [`Starostwo Powiatowe w Świebodzinie`](https://google.com/search?q=Starostwo+Powiatowe+w+%C5%9Awiebodzinie) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-23 | [`Aspire Tax`](https://google.com/search?q=Aspire+Tax) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-23 | [`The Louis G Freeman`](https://google.com/search?q=The+Louis+G+Freeman) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-23 | [`Experis Technology Group`](https://google.com/search?q=Experis+Technology+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-18 | [`Western Saw Inc.`](https://google.com/search?q=Western+Saw+Inc.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-18 | [`xdconnects.com\$50.5M\Netherlands\1TB\&lt;1% DISCLOSED`](https://google.com/search?q=xdconnects.com%5C%2450.5M%5CNetherlands%5C1TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-17 | [`http://truenetcommunications.com`](https://google.com/search?q=http%3A%2F%2Ftruenetcommunications.com) | [ciphbit](https://ransomwatch.telemetry.ltd/#/profiles?id=ciphbit) |
-| 2024-04-17 | [`Delano Joint%20Union%20High%20School%20District`](https://google.com/search?q=Delano+Joint%2520Union%2520High%2520School%2520District) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
