@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-23 | [`IZOMAT Praha`](https://google.com/search?q=IZOMAT+Praha) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-23 | [`GRANVILLE FOOD CARE  LIMITED`](https://google.com/search?q=GRANVILLE+FOOD+CARE++LIMITED) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-23 | [`Ryder Scott Co.`](https://google.com/search?q=Ryder+Scott+Co.) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-23 | [`Tri-state General Contractors`](https://google.com/search?q=Tri-state+General+Contractors) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-18 | [`http://etateam.be`](https://google.com/search?q=http%3A%2F%2Fetateam.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-18 | [`Myers Automotive Gro up`](https://google.com/search?q=Myers+Automotive+Gro+up) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-04-18 | [`B Capital Group`](https://google.com/search?q=B+Capital+Group) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-18 | [`JE Owens and Company PA.`](https://google.com/search?q=JE+Owens+and+Company+PA.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
