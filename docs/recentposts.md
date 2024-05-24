@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-24 | [`schuettemetals.com\$28.9M\USA\280GB\100%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-24 | [`ICC`](https://google.com/search?q=ICC) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-05-24 | [`http://www.colfax.k12.wi.us`](https://google.com/search?q=http%3A%2F%2Fwww.colfax.k12.wi.us) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`http://www.hiawathahomes.org`](https://google.com/search?q=http%3A%2F%2Fwww.hiawathahomes.org) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-19 | [`SIS Automatisering`](https://google.com/search?q=SIS+Automatisering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`Pennsylvania Convention Center`](https://google.com/search?q=Pennsylvania+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`Canadian Psychological Association`](https://google.com/search?q=Canadian+Psychological+Association) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
-| 2024-04-19 | [`Engineered Automation of Maine`](https://google.com/search?q=Engineered+Automation+of+Maine) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
