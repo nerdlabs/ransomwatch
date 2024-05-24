@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-24 | [`https://www.ipsotek.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ipsotek.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`Vannguard Utility Pa rtners`](https://google.com/search?q=Vannguard+Utility+Pa+rtners) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-24 | [`schuettemetals.com\$28.9M\USA\280GB\100%DISCLOSED`](https://google.com/search?q=schuettemetals.com%5C%2428.9M%5CUSA%5C280GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-05-24 | [`ICC`](https://google.com/search?q=ICC) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-19 | [`http://https://dr-fingerle.de`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fdr-fingerle.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-19 | [`Alltruck Bodies`](https://google.com/search?q=Alltruck+Bodies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-19 | [`SIS Automatisering`](https://google.com/search?q=SIS+Automatisering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-19 | [`Pennsylvania Convention Center`](https://google.com/search?q=Pennsylvania+Convention+Center) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
