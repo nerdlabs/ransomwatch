@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-25 | [`http://https://www.datanet.com/`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fwww.datanet.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-25 | [`Neovia`](https://google.com/search?q=Neovia) | [snatch](https://ransomwatch.telemetry.ltd/#/profiles?id=snatch) |
 | 2024-05-24 | [`https://www.ipsotek.com/`](https://google.com/search?q=https%3A%2F%2Fwww.ipsotek.com%2F) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-05-24 | [`Vannguard Utility Pa rtners`](https://google.com/search?q=Vannguard+Utility+Pa+rtners) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-20 | [`Lutheran Social%20Services%20of%20Indiana`](https://google.com/search?q=Lutheran+Social%2520Services%2520of%2520Indiana) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2024-04-19 | [`http://t.me/c/2124313006/1757`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F1757) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-04-19 | [`http://https://dr-fingerle.de`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fdr-fingerle.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-19 | [`Alltruck Bodies`](https://google.com/search?q=Alltruck+Bodies) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
