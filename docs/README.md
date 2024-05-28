@@ -1,8 +1,8 @@
 
 ## summary
-_may 27th, 2024_
+_may 28th, 2024_
 
-currently tracking `163` groups across `299` relays & mirrors - _`61` currently online_
+currently tracking `163` groups across `299` relays & mirrors - _`52` currently online_
 
 ⏲ there have been `0` posts within the `last 24 hours`
 
