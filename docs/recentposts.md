@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-28 | [`Brett Slater Solicit ors`](https://google.com/search?q=Brett+Slater+Solicit+ors) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-26 | [`CNPC Sport`](https://google.com/search?q=CNPC+Sport) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-26 | [`Esc Pau Etudes-Conseils`](https://google.com/search?q=Esc+Pau+Etudes-Conseils) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2024-05-26 | [`Aéroport de Pau`](https://google.com/search?q=A%C3%A9roport+de+Pau) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-22 | [`D'amico and Pettinicchi, LLC`](https://google.com/search?q=D%27amico+and+Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-22 | [`Optometric Physicians of Middle Tennessee`](https://google.com/search?q=Optometric+Physicians+of+Middle+Tennessee) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-22 | [`Texas Retina Associates`](https://google.com/search?q=Texas+Retina+Associates) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-04-22 | [`ebir.com\$5M\SPAIN\200MB\100%DISCLOSED`](https://google.com/search?q=ebir.com%5C%245M%5CSPAIN%5C200MB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
