@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-30 | [`MagicLand`](https://google.com/search?q=MagicLand) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-05-30 | [`Credit Central`](https://google.com/search?q=Credit+Central) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-30 | [`Elmhurst Group`](https://google.com/search?q=Elmhurst+Group) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-30 | [`WALSER AUTOMOTIVE GROUP`](https://google.com/search?q=WALSER+AUTOMOTIVE+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-23 | [`Ministerio de Desarrollo Local`](https://google.com/search?q=Ministerio+de+Desarrollo+Local) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-04-23 | [`defi SOLUTIONS.`](https://google.com/search?q=defi+SOLUTIONS.) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-04-23 | [`Bank Pembangunan Daerah Banten Tbk PT`](https://google.com/search?q=Bank+Pembangunan+Daerah+Banten+Tbk+PT) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-23 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED    `](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED++++) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
