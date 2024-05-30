@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-05-30 | [`WALSER AUTOMOTIVE GROUP`](https://google.com/search?q=WALSER+AUTOMOTIVE+GROUP) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-30 | [`FPL Food`](https://google.com/search?q=FPL+Food) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-29 | [`Ntv`](https://google.com/search?q=Ntv) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-29 | [`Western Dovetail`](https://google.com/search?q=Western+Dovetail) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-23 | [`ghimli.com\$189.1M\Australia\88GB\100%DISCLOSED    `](https://google.com/search?q=ghimli.com%5C%24189.1M%5CAustralia%5C88GB%5C100%25DISCLOSED++++) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-23 | [`rangam.com`](https://google.com/search?q=rangam.com) | [abyss](https://ransomwatch.telemetry.ltd/#/profiles?id=abyss) |
 | 2024-04-23 | [`saglobal.com\$243.7M\USA\41GB\100%DISCLOSED`](https://google.com/search?q=saglobal.com%5C%24243.7M%5CUSA%5C41GB%5C100%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
-| 2024-04-23 | [`concordegroup.ca\$150M\CANADA\2GB\100%DISCLOSED `](https://google.com/search?q=concordegroup.ca%5C%24150M%5CCANADA%5C2GB%5C100%25DISCLOSED+) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
