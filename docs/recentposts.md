@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-03 | [`Anderson Mikos Archi tects`](https://google.com/search?q=Anderson+Mikos+Archi+tects) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-02 | [`Wealth Depot LLC Data Leak`](https://google.com/search?q=Wealth+Depot+LLC+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-02 | [`Ayoub &#038; associates CPA Firm Data Leak`](https://google.com/search?q=Ayoub+%26%23038%3B+associates+CPA+Firm+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-31 | [`dollmar.com\$28.3M\Italy\127GB\&lt;1% DISCLOSED`](https://google.com/search?q=dollmar.com%5C%2428.3M%5CItaly%5C127GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-26 | [`New Hudson Facades`](https://google.com/search?q=New+Hudson+Facades) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-26 | [`iddink.nl\$80.1M\NL\460GB\&lt;1%DISCLOSED`](https://google.com/search?q=iddink.nl%5C%2480.1M%5CNL%5C460GB%5C%26lt%3B1%25DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-04-26 | [`Hong Kong College of Technology`](https://google.com/search?q=Hong+Kong+College+of+Technology) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
-| 2024-04-25 | [`Protected: HIDE NAME SELL DATA SOON`](https://google.com/search?q=Protected%3A+HIDE+NAME+SELL+DATA+SOON) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
