@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-06 | [`Panasonic Australia`](https://google.com/search?q=Panasonic+Australia) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-05 | [`espackeuro.com\$17.3M\Spain\11GB\100% DISCLOSED`](https://google.com/search?q=espackeuro.com%5C%2417.3M%5CSpain%5C11GB%5C100%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-05 | [`E-T-A`](https://google.com/search?q=E-T-A) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2024-06-05 | [`Dubai Municipality (UAE)`](https://google.com/search?q=Dubai+Municipality+%28UAE%29) | [daixin](https://ransomwatch.telemetry.ltd/#/profiles?id=daixin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-04-27 | [`http://htw.com.au`](https://google.com/search?q=http%3A%2F%2Fhtw.com.au) | [blacksuit](https://ransomwatch.telemetry.ltd/#/profiles?id=blacksuit) |
 | 2024-04-27 | [`Axip Energy Services`](https://google.com/search?q=Axip+Energy+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-04-27 | [`Original Herkimer Cheese`](https://google.com/search?q=Original+Herkimer+Cheese) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-04-27 | [`Precision Fluid Controls`](https://google.com/search?q=Precision+Fluid+Controls) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
