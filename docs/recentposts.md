@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-08 | [`California Rice Exchange`](https://google.com/search?q=California+Rice+Exchange) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-08 | [`http://t.me/c/2124313006/2525`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F2525) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-08 | [`http://https://aboveallstorefronts.com`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Faboveallstorefronts.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-08 | [`http://t.me/c/2124313006/2414`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F2414) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-01 | [`Azteca Tax Systems`](https://google.com/search?q=Azteca+Tax+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-01 | [`Clinica de Salud del Valle de Salinas`](https://google.com/search?q=Clinica+de+Salud+del+Valle+de+Salinas) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-01 | [`Studio Libeskind`](https://google.com/search?q=Studio+Libeskind) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-01 | [`GCH Hotel Group`](https://google.com/search?q=GCH+Hotel+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
