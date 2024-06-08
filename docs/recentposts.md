@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-08 | [`http://https://www.logimodal.com.br/`](https://google.com/search?q=http%3A%2F%2Fhttps%3A%2F%2Fwww.logimodal.com.br%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-07 | [`Jones`](https://google.com/search?q=Jones) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-07 | [`Elite Limousine Plus Inc`](https://google.com/search?q=Elite+Limousine+Plus+Inc) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-07 | [`GMJ and Co, Chartered Accountants`](https://google.com/search?q=GMJ+and+Co%2C+Chartered+Accountants) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-01 | [`Les Miroirs St-Antoine Inc Data Leak`](https://google.com/search?q=Les+Miroirs+St-Antoine+Inc+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-01 | [`MORTON WILLIAMS Data Leak`](https://google.com/search?q=MORTON+WILLIAMS+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-04-30 | [`http://www.thewatergatehotel.com`](https://google.com/search?q=http%3A%2F%2Fwww.thewatergatehotel.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-04-30 | [`Profile Products`](https://google.com/search?q=Profile+Products) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
