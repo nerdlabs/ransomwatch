@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-10 | [`transportlaberge.com\$27.8\Canada\110GB\&lt;1% DISCLOSED`](https://google.com/search?q=transportlaberge.com%5C%2427.8%5CCanada%5C110GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`sanyo-shokai.co.jp\$412.6M\Japan\248GB\&lt;1% DISCLOSED`](https://google.com/search?q=sanyo-shokai.co.jp%5C%24412.6M%5CJapan%5C248GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-08 | [`California Rice Exchange`](https://google.com/search?q=California+Rice+Exchange) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
 | 2024-06-08 | [`http://t.me/c/2124313006/2525`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F2525) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-01 | [`Canatal Industries`](https://google.com/search?q=Canatal+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-01 | [`SHAMASS.ORG`](https://google.com/search?q=SHAMASS.ORG) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2024-05-01 | [`Azteca Tax Systems`](https://google.com/search?q=Azteca+Tax+Systems) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2024-05-01 | [`Clinica de Salud del Valle de Salinas`](https://google.com/search?q=Clinica+de+Salud+del+Valle+de+Salinas) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
