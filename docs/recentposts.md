@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-11 | [`http://www.a-agroup.com`](https://google.com/search?q=http%3A%2F%2Fwww.a-agroup.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-06-10 | [`jmthompson.com\$17.9M\USA\331GB\&lt;1% DISCLOSED`](https://google.com/search?q=jmthompson.com%5C%2417.9M%5CUSA%5C331GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`ctsystem.com\$11.8M\Taiwan\93GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctsystem.com%5C%2411.8M%5CTaiwan%5C93GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2024-06-10 | [`ctgbrands.com\$29.6M\Canada\327GB\&lt;1% DISCLOSED`](https://google.com/search?q=ctgbrands.com%5C%2429.6M%5CCanada%5C327GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-03 | [`http://www.tholen-gebaeudetechnik.de`](https://google.com/search?q=http%3A%2F%2Fwww.tholen-gebaeudetechnik.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-02 | [`Ayoub &#038; associates CPA Firm`](https://google.com/search?q=Ayoub+%26%23038%3B+associates+CPA+Firm) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-05-02 | [`Imedi L`](https://google.com/search?q=Imedi+L) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2024-05-02 | [`INC News`](https://google.com/search?q=INC+News) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
