@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-13 | [`Goodman Reichwald-Dodge`](https://google.com/search?q=Goodman+Reichwald-Dodge) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`3GL Technology Solutions`](https://google.com/search?q=3GL+Technology+Solutions) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Dordt University`](https://google.com/search?q=Dordt+University) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-06-13 | [`Cukierski &#038; Associates, LLC`](https://google.com/search?q=Cukierski+%26%23038%3B+Associates%2C+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`http://www.inforius.be`](https://google.com/search?q=http%3A%2F%2Fwww.inforius.be) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-07 | [`http://t.me/c/2124313006/2135`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F2135) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2024-05-07 | [`http://www.williamsrdm.com`](https://google.com/search?q=http%3A%2F%2Fwww.williamsrdm.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-07 | [`Pettinicchi, LLC`](https://google.com/search?q=Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
