@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-13 | [`Cukierski &#038; Associates, LLC`](https://google.com/search?q=Cukierski+%26%23038%3B+Associates%2C+LLC) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`2K Dental`](https://google.com/search?q=2K+Dental) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`Diogenet S.r.l.`](https://google.com/search?q=Diogenet+S.r.l.) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`Brainworks Software`](https://google.com/search?q=Brainworks+Software) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`Pettinicchi, LLC`](https://google.com/search?q=Pettinicchi%2C+LLC) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-07 | [`Nikolaus and Hohenadel`](https://google.com/search?q=Nikolaus+and+Hohenadel) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2024-05-07 | [`Donco Air`](https://google.com/search?q=Donco+Air) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2024-05-07 | [`Affordable Payroll & Bookkeeping Services`](https://google.com/search?q=Affordable+Payroll+%26+Bookkeeping+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
