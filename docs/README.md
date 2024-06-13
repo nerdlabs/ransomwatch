@@ -6,13 +6,13 @@ currently tracking `163` groups across `299` relays & mirrors - _`69` currently 
 
 ⏲ there have been `16` posts within the `last 24 hours`
 
-🦈 there have been `56` posts within the `month of june`
+🦈 there have been `57` posts within the `month of june`
 
-🪐 there have been `507` posts within the `last 90 days`
+🪐 there have been `508` posts within the `last 90 days`
 
-🏚 there have been `1053` posts within the `year of 2024`
+🏚 there have been `1054` posts within the `year of 2024`
 
-🦕 there have been `10335` posts `since the dawn of ransomwatch`
+🦕 there have been `10336` posts `since the dawn of ransomwatch`
 
 there are `96` custom parsers indexing posts
 
