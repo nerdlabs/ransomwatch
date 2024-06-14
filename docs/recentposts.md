@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2024-06-14 | [`Zuber Gardner CPAs Data Leak`](https://google.com/search?q=Zuber+Gardner+CPAs+Data+Leak) | [everest](https://ransomwatch.telemetry.ltd/#/profiles?id=everest) |
 | 2024-06-13 | [`Seagulf Marine Industries`](https://google.com/search?q=Seagulf+Marine+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Western Mechanical`](https://google.com/search?q=Western+Mechanical) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-06-13 | [`Trisun Land Services`](https://google.com/search?q=Trisun+Land+Services) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2024-05-07 | [`Mauritzon`](https://google.com/search?q=Mauritzon) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-07 | [`Somerville`](https://google.com/search?q=Somerville) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2024-05-07 | [`http://t.me/c/2124313006/2075`](https://google.com/search?q=http%3A%2F%2Ft.me%2Fc%2F2124313006%2F2075) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
-| 2024-05-07 | [`http://www.intuitae.com`](https://google.com/search?q=http%3A%2F%2Fwww.intuitae.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
